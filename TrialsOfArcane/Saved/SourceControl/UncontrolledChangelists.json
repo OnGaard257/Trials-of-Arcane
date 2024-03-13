@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic Games Stuff/UE_5.2.1/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_LightningStaff.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_IceStaff.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Ice.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Fire.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/PlayerInput.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/ChangeWeapon.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_FireStaff.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Lightning.uasset"
 			]
 		}
 	]
