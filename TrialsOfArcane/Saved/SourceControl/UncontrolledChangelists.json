@@ -12,11 +12,14 @@
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_IceStaff.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Ice.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Fire.uasset",
-				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/PlayerInput.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/ChangeWeapon.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_FireStaff.uasset",
-				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Lightning.uasset"
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Materials/Lightning.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blizzard.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Lightning.uasset",
+				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/PlayerInput.uasset"
 			]
 		}
 	]
