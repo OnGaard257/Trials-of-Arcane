@@ -1,3 +1,7 @@
-# GaIMUnityTemplate
-Standard template for Unity projects with some basic features (Unity gitignore, GitLFS, etc.)
-To use this template, click the "Use this template" button at the top of the page to create a new repository on GitHub.  Then you can clone, pull, or otherwise use the repository as needed. If you are starting a new project, I'd suggest cloning this repository to your computer in your desired location, then creating your new Unity project in that folder.
+Trials of Arcane Read Me
+Movement is WASD
+Jump is Space
+To swap weapons press E
+To fire a projectile press F
+To test the damage of the spells, fire projectiles at the 3 large golems that are standing next to each other.
+Each Golem has 100 health, the Fire Spell does 20 Damage, the Lightning Spell does 30 Damage, the Ice Spell does 40 Damage.
