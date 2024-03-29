@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/please ruby im begging you/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/UI/HEALTH.uasset",
+				"D:/please ruby im begging you/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Epic Games Stuff/UE_5.2.1/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_LightningStaff.uasset",
@@ -641,7 +643,6 @@
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/1/84/UA76EDMFXXB8C0TEQEDBEY.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/4/CB/Q19AXD163W8LMAYGOWF559.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/3/IM/1HQTXWVNQNN9QAHESK9HWC.uasset",
-				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/crystalempty.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/lambert9.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/ArtLevel/0/R5/H8A2Z7KLL0PG59U32S8UCU.uasset",
 				"D:/Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/ArtLevel/8/LY/03GM1O2FSA2C9B79A1FT28.uasset",
