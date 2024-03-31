@@ -1,18 +1,14 @@
 Trials of Arcane Read Me
-Movement is WASD
+Movement is WASD or Left Control Stick on an Xbox controller
 Jump is Space
 To swap weapons press E
 To fire a projectile press F
-To test the damage of the spells, fire projectiles at the 3 large golems that are standing next to each other.
-Each Golem has 100 health, the Fire Spell does 20 Damage, the Lightning Spell does 30 Damage, the Ice Spell does 40 Damage.
-The completed models are as follows
-Staffs - 4 different textures for the Staff Model
-Ice Golem - Textured
-Snowman - Textured
-Gate - Textured
-Ice Spike - Textured
-Gear Platform - Textured
-Mana Stone - 4 different textures of Mana Stone
-Spider - Not Textured
-Tesla Coil - Not Textured
-Character - Not Textured
+You enter an icy cave filled with Ice Golems, the back of the room has a gate and behind the gate is a large ice crystal.
+To complete the level, defeat all of the Ice Golems and then proceed to the gate, the gate will then be destroyed allowing you to proceed to the crystal and complete the trial.
+You have 3 spells to swap between, Shock, Blizzard and Fireball. Shock has a moderate range with moderate damage, Blizzard has short range and high damage, Fireball has long range and low damage.
+Shock deals 30, Blizzard deals 40, Fireball deals 20.
+We have not created art assets for these spells yet so they are currently a Yellow Ball, a Blue Ball and a Red Ball Respectively.
+We have a foggy effect within the cave and glowing crystals that damage the player if they bump into them.
+The ice golems emit dust particles when destroyed. The gate emits an explosion when destroyed.
+We have temporary sound effects on the spells, on damage, on death, when you complete the level and when an object is destroyed.
+We also have ambiant game music.
