@@ -1,0 +1,394 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/IceLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:00D728034232A1B8860DF9AC16EB228D BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1688016265 Label:PainCausingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=498.139 Y=3695.786 Z=100.395), Max=(X=698.139 Y=3895.786 Z=400.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:03F8D3224B1332CF9DD4D59D1C287B80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1852128271 Label:IceSpikes3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3066.725 Y=922.613 Z=638.576), Max=(X=3230.662 Y=1096.450 Z=956.967) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:06BFBB8046F246DFBE6905968FCC0536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1309131955 Label:full_gate_polySurface2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4976.428 Y=2668.655 Z=102.608), Max=(X=5061.093 Y=3026.308 Z=999.510) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:07FAE381430CF4F84B42D89D135DC88F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93005EE301_2083275439 Label:Snowman SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=568.477 Y=1879.759 Z=90.641), Max=(X=768.634 Y=2067.133 Z=286.180) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:08E15B0A4658229DFC5669A2F0A4FE4B BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1981020051 Label:BP_IceGolem3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2303.157 Y=743.377 Z=687.887), Max=(X=2553.157 Y=1028.170 Z=942.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0A0E11314E690ACE95452195BCC1C058 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930036E701_1568145604 Label:Snowman2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4086.443 Y=1342.015 Z=726.558), Max=(X=4261.850 Y=1545.350 Z=922.097) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0F064B0B45A676EA89C450B866380A09 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1995728058 Label:BP_IceGolem10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=783.807 Y=4222.103 Z=412.239), Max=(X=1033.807 Y=4506.895 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1445B99949E6CC08D967A5BCACB38C65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5.083 Y=-287.014 Z=-100.000), Max=(X=5005.083 Y=5787.986 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:15E8EF6A48EF3725AFAF0FBA243AD59E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1838715176 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1284.943 Y=558.396 Z=-2182.805), Max=(X=6016.407 Y=5289.860 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:16DD701440C6F5F0D6A19AA33A6AC4DB BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:1A05B2C3497539D816F7D5BC10F7F0B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:1A3312F84849D147EC3ADBB6CB724C33 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1994373057 Label:BP_IceGolem9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1512.099 Y=3631.553 Z=412.239), Max=(X=1762.099 Y=3916.345 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1A8C704246E52F28D9233BB5560E996F BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_8CC681E2C39930E701_1292014544 Label:AmbientSound SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=53.706 Y=2574.116 Z=100.767), Max=(X=53.706 Y=2574.116 Z=100.767) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:21E2356A49BEBBCA34E36F9653F17015 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1597279264 Label:IceSpikes SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=518.580 Y=3706.027 Z=93.674), Max=(X=682.517 Y=3879.864 Z=412.065) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:229162BB4D72A2D299862A96328F45B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1681734961 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4978.467 Y=3014.119 Z=919.143), Max=(X=5039.171 Y=3201.820 Z=1286.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:22A8B3584D573DBBC0513CBE596AFF5B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1506832958 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4964.770 Y=3126.309 Z=100.203), Max=(X=5032.011 Y=3329.906 Z=1450.203) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:30FED26440BC71BA8FA50D8531201AE2 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1969320050 Label:BP_IceGolem2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1955.110 Y=3453.642 Z=512.239), Max=(X=2239.902 Y=3703.642 Z=767.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:36E984634E1EB75E7103A3A56740C932 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1866074277 Label:IceSpikes5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3561.456 Y=4542.819 Z=90.375), Max=(X=3725.394 Y=4716.656 Z=408.766) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:3710EB584965EC35EB4AC0AE366D0EAB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1616387960 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5022.919 Y=2501.616 Z=919.143), Max=(X=5083.623 Y=2689.317 Z=1286.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3786A3394ECA8351A8F4F3B92EF71300 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB360E701_1080064992 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=783.171 Y=-1355.863 Z=-1642.242), Max=(X=5514.635 Y=3375.601 Z=3089.221) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3872D1E9479BF7F2ADD4409AEFC9C423 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1858015276 Label:PainCausingVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3541.016 Y=2822.884 Z=105.782), Max=(X=3741.016 Y=3022.884 Z=405.782) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:3BE8E6AF49E723CE8E7DAD831F376B7E BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1847724101 Label:RectLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2657.128 Y=3627.086 Z=-459.534), Max=(X=4657.128 Y=5627.086 Z=1540.466) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4572B9E54DB1F28538C0D9B33909F311 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1984449053 Label:BP_IceGolem5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2179.774 Y=2620.210 Z=412.239), Max=(X=2429.774 Y=2905.002 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:49EB78BB4E82CAE2F9E2DDB61A683C86 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-671.169 Y=2753.259 Z=251.528), Max=(X=-591.169 Y=2833.259 Z=435.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4A6414FC4A60BC6B6B9E29951706D50C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004AE601_2144256087 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1967.917 Y=1801.960 Z=-100.000), Max=(X=7.083 Y=3326.960 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:4AEDF0B34B6E3195052912AD4C0CEBD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1525535959 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4980.241 Y=2542.767 Z=1098.548), Max=(X=5082.344 Y=3144.842 Z=1448.548) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4E7B80CD402841D7FB18C081580427CD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1444229957 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5034.049 Y=2347.509 Z=100.203), Max=(X=5084.049 Y=2547.509 Z=1450.203) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:51EB8C0D444A0E3A58EB2E81F108F967 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1716646098 Label:RectLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=446.543 Y=3861.287 Z=-420.783), Max=(X=2446.543 Y=5861.287 Z=1579.217) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5588FE6347803E95E32E21B234C5D475 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1866077279 Label:PainCausingVolume6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3541.016 Y=4532.579 Z=97.096), Max=(X=3741.016 Y=4732.579 Z=397.096) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:55F9413040E2CA21A3E7DE90F55B4C83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1858011274 Label:IceSpikes4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3561.456 Y=2833.125 Z=99.061), Max=(X=3725.394 Y=3006.961 Z=417.451) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:571DB6AE46F272B88BFE62A00A9C0FBA BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1620046096 Label:RectLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.823 Y=1917.383 Z=-374.914), Max=(X=2365.823 Y=3917.383 Z=1625.086) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:620328B5431AA686089F2CAFA4C4CC9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930037E701_1305967778 Label:IceFieldBottom2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1279.765 Y=-46.886 Z=764.323), Max=(X=6328.760 Y=5870.305 Z=1534.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:66E5DA7C4A72F69235624580D3E5548F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C16DA930038E701_1850369962 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4555.758 Y=1901.880 Z=-388.124), Max=(X=6555.758 Y=3901.880 Z=1611.876) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:68A5F3BE460AAEA4275E1195781890CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004AE601_2080191086 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5002.880 Y=1801.960 Z=-100.000), Max=(X=6977.880 Y=3326.960 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:7180F8FD440E1631D817718D8E5C35C5 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:71C95F024C6FC3735916FFA8F8CA9E33 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:78EE124D4226C0816E377A8806063330 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1870326282 Label:PainCausingVolume7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1337.322 Y=4759.416 Z=88.438), Max=(X=1537.322 Y=4959.416 Z=388.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:7AB17BF1407C1AEA151ECEB9AD148B35 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1870322280 Label:IceSpikes6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1357.763 Y=4769.657 Z=81.717), Max=(X=1521.700 Y=4943.494 Z=400.108) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:7FF299C3461635618A2592B7F451EF61 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1822690100 Label:RectLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-525.026 Y=2777.762 Z=-420.783), Max=(X=1474.974 Y=4777.762 Z=1579.217) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8563373142C38C522FFBD38AA384B1AD BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:8B103D0B44EEF79499B6A09F891E6A8E BaseClass:/Game/ThirdPerson/Blueprints/TundraCrystal.TundraCrystal_C NativeClass:/Script/Engine.Actor Name:TundraCrystal_C_UAID_047C16DA93009CE601_1507941501 Label:TundraCrystal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5350.165 Y=2600.337 Z=24.427), Max=(X=5950.165 Y=3200.337 Z=624.427) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D5B507C47C3B256287678A282720E50 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1736137099 Label:RectLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-376.382 Y=2789.639 Z=315.705), Max=(X=1623.618 Y=4789.639 Z=2315.705) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:90D11906453DA38311EEE39ACE9E0161 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1898001177 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1284.943 Y=2263.157 Z=-2182.805), Max=(X=6016.406 Y=6994.621 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:93097A694DA8E24A52D805BFD2B3C47E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1941475179 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1763.404 Y=1425.410 Z=-2182.805), Max=(X=2968.060 Y=6156.874 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:95360754474AF92EA0AD19ADCA02F1FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CE79BB35FE701_1326289815 Label:IceCieling_cieling1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2030.400 Y=-315.482 Z=901.867), Max=(X=6578.037 Y=6536.332 Z=1663.166) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9B6CC81A4DCBC3E7C9DB80B091ADF835 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:9EA6FE72471DD6A20AEEC2999FAE6F4F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1907532178 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-924.040 Y=2490.969 Z=-2182.805), Max=(X=3807.424 Y=7222.433 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A64EEFDE4208491626847FBA307E5DA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930036E701_1604131605 Label:Snowman3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1717.791 Y=4261.838 Z=90.641), Max=(X=1907.975 Y=4460.477 Z=286.180) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A75E25AC4697006D036A8885B9F31FA7 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 Label:BP_IceGolem6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3661.960 Y=1338.009 Z=412.239), Max=(X=3911.960 Y=1622.801 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B0F925CC4BE5B2BAE825FF8A34FD1363 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1841130268 Label:IceSpikes2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.963 Y=2834.307 Z=92.846), Max=(X=1464.900 Y=3008.144 Z=411.237) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:B59C3F80457319E228C4A882001BBA76 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1777618175 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-985.022 Y=562.367 Z=-2182.805), Max=(X=3746.441 Y=5293.831 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B82AFA3D49FADFF3F58397A79A7C583F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930033E701_1524661071 Label:IceFieldBottom SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1279.764 Y=-46.886 Z=9.536), Max=(X=6328.760 Y=5870.305 Z=780.036) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B87877EB41973AB35EEE9AB75BF079CC BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1982703052 Label:BP_IceGolem4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.915 Y=1625.709 Z=412.240), Max=(X=1748.915 Y=1910.501 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BC9AB35F41C452461C5848B7D5FDD3CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1343663956 Label:full_gate_polySurface4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4945.866 Y=2499.491 Z=104.686), Max=(X=5162.612 Y=3208.123 Z=1165.621) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C2C8EE4746F2C6505C9101AEFD3546E9 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1872264102 Label:RectLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4651.786 Y=1928.207 Z=-261.025), Max=(X=6651.786 Y=3928.207 Z=1738.975) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C45D8CDC447B842426CF90A81A5FDE7A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:C490153249898CBAD7017584857FD840 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Label:SnowFloor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1697.947 Y=-674.482 Z=-731.356), Max=(X=6358.013 Y=5936.417 Z=742.676) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C84A895D403659711DEE45BE32216147 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C16DA93007DE701-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CB01AD2C42570FA169AC369C9197DD5F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1597097095 Label:RectLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2143.395 Y=23.762 Z=3.346), Max=(X=4143.395 Y=2023.762 Z=2003.346) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CDED1F2541F5733EC31B3C85B479D4EF BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1956958049 Label:BP_IceGolem SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=703.098 Y=1350.738 Z=412.239), Max=(X=953.098 Y=1635.530 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DD769EB049766CEF702BA3872D69EF48 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1841134270 Label:PainCausingVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1279.206 Y=2824.067 Z=99.568), Max=(X=1479.206 Y=3024.067 Z=399.568) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- Guid:E6858719466642A793841A9B2C417274 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1993056056 Label:BP_IceGolem8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2745.384 Y=4035.329 Z=412.239), Max=(X=2995.384 Y=4320.122 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E849AE414D2819356C0677B4F4619194 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1987885055 Label:BP_IceGolem7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3657.653 Y=3476.248 Z=412.240), Max=(X=3907.653 Y=3761.041 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EE1E7EBC4EC377111F59269A983D21E5 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:F301E7A0429CA28BDA346BBC33D21D8F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1655795097 Label:RectLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2614.582 Y=1927.035 Z=-410.615), Max=(X=4614.582 Y=3927.035 Z=1589.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F7AADFE441D14D06658FF19422D79B1A BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C16DA93007DE701_1974283104 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-2250.639 Y=-842.898 Z=-660.475), Max=(X=6899.361 Y=6407.102 Z=839.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F9B2498C44D81229AD439F9537676B1E BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1852131273 Label:PainCausingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3046.284 Y=912.373 Z=645.298), Max=(X=3246.284 Y=1112.373 Z=945.298) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:00D728034232A1B8860DF9AC16EB228D BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1688016265 Label:PainCausingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=498.139 Y=3695.786 Z=100.395), Max=(X=698.139 Y=3895.786 Z=400.395) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:03F8D3224B1332CF9DD4D59D1C287B80 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1852128271 Label:IceSpikes3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3066.725 Y=922.613 Z=638.576), Max=(X=3230.662 Y=1096.450 Z=956.967) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:06BFBB8046F246DFBE6905968FCC0536 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1309131955 Label:full_gate_polySurface2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4976.428 Y=2668.655 Z=102.608), Max=(X=5061.093 Y=3026.308 Z=999.510) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:07FAE381430CF4F84B42D89D135DC88F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93005EE301_2083275439 Label:Snowman SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=568.477 Y=1879.759 Z=90.641), Max=(X=768.634 Y=2067.133 Z=286.180) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:08E15B0A4658229DFC5669A2F0A4FE4B BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1981020051 Label:BP_IceGolem3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2303.157 Y=743.377 Z=687.887), Max=(X=2553.157 Y=1028.170 Z=942.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0A0E11314E690ACE95452195BCC1C058 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930036E701_1568145604 Label:Snowman2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4086.443 Y=1342.015 Z=726.558), Max=(X=4261.850 Y=1545.350 Z=922.097) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0F064B0B45A676EA89C450B866380A09 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1995728058 Label:BP_IceGolem10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=783.807 Y=4222.103 Z=412.239), Max=(X=1033.807 Y=4506.895 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:1445B99949E6CC08D967A5BCACB38C65 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5.083 Y=-287.014 Z=-100.000), Max=(X=5005.083 Y=5787.986 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:15E8EF6A48EF3725AFAF0FBA243AD59E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1838715176 Label:PointLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1284.943 Y=558.396 Z=-2182.805), Max=(X=6016.407 Y=5289.860 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:16DD701440C6F5F0D6A19AA33A6AC4DB BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1A05B2C3497539D816F7D5BC10F7F0B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:1A3312F84849D147EC3ADBB6CB724C33 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1994373057 Label:BP_IceGolem9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1512.099 Y=3631.553 Z=412.239), Max=(X=1762.099 Y=3916.345 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:1A8C704246E52F28D9233BB5560E996F BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_8CC681E2C39930E701_1292014544 Label:AmbientSound SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=53.706 Y=2574.116 Z=100.767), Max=(X=53.706 Y=2574.116 Z=100.767) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:21E2356A49BEBBCA34E36F9653F17015 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1597279264 Label:IceSpikes SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=518.580 Y=3706.027 Z=93.674), Max=(X=682.517 Y=3879.864 Z=412.065) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:229162BB4D72A2D299862A96328F45B8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1681734961 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4978.467 Y=3014.119 Z=919.143), Max=(X=5039.171 Y=3201.820 Z=1286.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:22A8B3584D573DBBC0513CBE596AFF5B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1506832958 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4964.770 Y=3126.309 Z=100.203), Max=(X=5032.011 Y=3329.906 Z=1450.203) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:30FED26440BC71BA8FA50D8531201AE2 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1969320050 Label:BP_IceGolem2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1955.110 Y=3453.642 Z=512.239), Max=(X=2239.902 Y=3703.642 Z=767.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:36E984634E1EB75E7103A3A56740C932 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1866074277 Label:IceSpikes5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3561.456 Y=4542.819 Z=90.375), Max=(X=3725.394 Y=4716.656 Z=408.766) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:3710EB584965EC35EB4AC0AE366D0EAB BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1616387960 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5022.919 Y=2501.616 Z=919.143), Max=(X=5083.623 Y=2689.317 Z=1286.206) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:3786A3394ECA8351A8F4F3B92EF71300 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB360E701_1080064992 Label:PointLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=783.171 Y=-1355.863 Z=-1642.242), Max=(X=5514.635 Y=3375.601 Z=3089.221) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:3872D1E9479BF7F2ADD4409AEFC9C423 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1858015276 Label:PainCausingVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3541.016 Y=2822.884 Z=105.782), Max=(X=3741.016 Y=3022.884 Z=405.782) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:3BE8E6AF49E723CE8E7DAD831F376B7E BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1847724101 Label:RectLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2657.128 Y=3627.086 Z=-459.534), Max=(X=4657.128 Y=5627.086 Z=1540.466) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:4572B9E54DB1F28538C0D9B33909F311 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1984449053 Label:BP_IceGolem5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2179.774 Y=2620.210 Z=412.239), Max=(X=2429.774 Y=2905.002 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:49EB78BB4E82CAE2F9E2DDB61A683C86 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-671.169 Y=2753.259 Z=251.528), Max=(X=-591.169 Y=2833.259 Z=435.528) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:4A6414FC4A60BC6B6B9E29951706D50C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004AE601_2144256087 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1967.917 Y=1801.960 Z=-100.000), Max=(X=7.083 Y=3326.960 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:4AEDF0B34B6E3195052912AD4C0CEBD2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1525535959 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4980.241 Y=2542.767 Z=1098.548), Max=(X=5082.344 Y=3144.842 Z=1448.548) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:4E7B80CD402841D7FB18C081580427CD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1444229957 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5034.049 Y=2347.509 Z=100.203), Max=(X=5084.049 Y=2547.509 Z=1450.203) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:51EB8C0D444A0E3A58EB2E81F108F967 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1716646098 Label:RectLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=446.543 Y=3861.287 Z=-420.783), Max=(X=2446.543 Y=5861.287 Z=1579.217) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:5588FE6347803E95E32E21B234C5D475 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1866077279 Label:PainCausingVolume6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3541.016 Y=4532.579 Z=97.096), Max=(X=3741.016 Y=4732.579 Z=397.096) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:55F9413040E2CA21A3E7DE90F55B4C83 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1858011274 Label:IceSpikes4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3561.456 Y=2833.125 Z=99.061), Max=(X=3725.394 Y=3006.961 Z=417.451) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:571DB6AE46F272B88BFE62A00A9C0FBA BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1620046096 Label:RectLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=365.823 Y=1917.383 Z=-374.914), Max=(X=2365.823 Y=3917.383 Z=1625.086) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:620328B5431AA686089F2CAFA4C4CC9D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930037E701_1305967778 Label:IceFieldBottom2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1279.765 Y=-46.886 Z=764.323), Max=(X=6328.760 Y=5870.305 Z=1534.822) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:66E5DA7C4A72F69235624580D3E5548F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_047C16DA930038E701_1850369962 Label:PointLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4555.758 Y=1901.880 Z=-388.124), Max=(X=6555.758 Y=3901.880 Z=1611.876) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:68A5F3BE460AAEA4275E1195781890CE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004AE601_2080191086 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5002.880 Y=1801.960 Z=-100.000), Max=(X=6977.880 Y=3326.960 Z=-0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:7180F8FD440E1631D817718D8E5C35C5 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:71C95F024C6FC3735916FFA8F8CA9E33 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:78EE124D4226C0816E377A8806063330 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1870326282 Label:PainCausingVolume7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1337.322 Y=4759.416 Z=88.438), Max=(X=1537.322 Y=4959.416 Z=388.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:7AB17BF1407C1AEA151ECEB9AD148B35 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1870322280 Label:IceSpikes6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1357.763 Y=4769.657 Z=81.717), Max=(X=1521.700 Y=4943.494 Z=400.108) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:7FF299C3461635618A2592B7F451EF61 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1822690100 Label:RectLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-525.026 Y=2777.762 Z=-420.783), Max=(X=1474.974 Y=4777.762 Z=1579.217) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:8563373142C38C522FFBD38AA384B1AD BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:8B103D0B44EEF79499B6A09F891E6A8E BaseClass:/Game/ThirdPerson/Blueprints/TundraCrystal.TundraCrystal_C NativeClass:/Script/Engine.Actor Name:TundraCrystal_C_UAID_047C16DA93009CE601_1507941501 Label:TundraCrystal SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5350.165 Y=2600.337 Z=24.427), Max=(X=5950.165 Y=3200.337 Z=624.427) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:8D5B507C47C3B256287678A282720E50 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1736137099 Label:RectLight5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-376.382 Y=2789.639 Z=315.705), Max=(X=1623.618 Y=4789.639 Z=2315.705) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:90D11906453DA38311EEE39ACE9E0161 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1898001177 Label:PointLight6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1284.943 Y=2263.157 Z=-2182.805), Max=(X=6016.406 Y=6994.621 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:93097A694DA8E24A52D805BFD2B3C47E BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1941475179 Label:PointLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1763.404 Y=1425.410 Z=-2182.805), Max=(X=2968.060 Y=6156.874 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:95360754474AF92EA0AD19ADCA02F1FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_74563CE79BB35FE701_1326289815 Label:IceCieling_cieling1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2030.400 Y=-315.482 Z=901.867), Max=(X=6578.037 Y=6536.332 Z=1663.166) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:9B6CC81A4DCBC3E7C9DB80B091ADF835 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:9EA6FE72471DD6A20AEEC2999FAE6F4F BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1907532178 Label:PointLight7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-924.040 Y=2490.969 Z=-2182.805), Max=(X=3807.424 Y=7222.433 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:A64EEFDE4208491626847FBA307E5DA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930036E701_1604131605 Label:Snowman3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1717.791 Y=4261.838 Z=90.641), Max=(X=1907.975 Y=4460.477 Z=286.180) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:A75E25AC4697006D036A8885B9F31FA7 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 Label:BP_IceGolem6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3661.960 Y=1338.009 Z=412.239), Max=(X=3911.960 Y=1622.801 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:B0F925CC4BE5B2BAE825FF8A34FD1363 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA93004BE601_1841130268 Label:IceSpikes2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.963 Y=2834.307 Z=92.846), Max=(X=1464.900 Y=3008.144 Z=411.237) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:B59C3F80457319E228C4A882001BBA76 BaseClass: NativeClass:/Script/Engine.PointLight Name:PointLight_UAID_74563CE79BB361E701_1777618175 Label:PointLight4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-985.022 Y=562.367 Z=-2182.805), Max=(X=3746.441 Y=5293.831 Z=2548.659) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:B82AFA3D49FADFF3F58397A79A7C583F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930033E701_1524661071 Label:IceFieldBottom SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1279.764 Y=-46.886 Z=9.536), Max=(X=6328.760 Y=5870.305 Z=780.036) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:B87877EB41973AB35EEE9AB75BF079CC BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1982703052 Label:BP_IceGolem4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1498.915 Y=1625.709 Z=412.240), Max=(X=1748.915 Y=1910.501 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:BC9AB35F41C452461C5848B7D5FDD3CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930038E701_1343663956 Label:full_gate_polySurface4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4945.866 Y=2499.491 Z=104.686), Max=(X=5162.612 Y=3208.123 Z=1165.621) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:C2C8EE4746F2C6505C9101AEFD3546E9 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1872264102 Label:RectLight8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4651.786 Y=1928.207 Z=-261.025), Max=(X=6651.786 Y=3928.207 Z=1738.975) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:C45D8CDC447B842426CF90A81A5FDE7A BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:C490153249898CBAD7017584857FD840 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Label:SnowFloor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1697.947 Y=-674.482 Z=-731.356), Max=(X=6358.013 Y=5936.417 Z=742.676) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:C84A895D403659711DEE45BE32216147 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_047C16DA93007DE701-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:CB01AD2C42570FA169AC369C9197DD5F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1597097095 Label:RectLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2143.395 Y=23.762 Z=3.346), Max=(X=4143.395 Y=2023.762 Z=2003.346) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:CDED1F2541F5733EC31B3C85B479D4EF BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1956958049 Label:BP_IceGolem SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=703.098 Y=1350.738 Z=412.239), Max=(X=953.098 Y=1635.530 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:DD769EB049766CEF702BA3872D69EF48 BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1841134270 Label:PainCausingVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1279.206 Y=2824.067 Z=99.568), Max=(X=1479.206 Y=3024.067 Z=399.568) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:E6858719466642A793841A9B2C417274 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1993056056 Label:BP_IceGolem8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2745.384 Y=4035.329 Z=412.239), Max=(X=2995.384 Y=4320.122 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:E849AE414D2819356C0677B4F4619194 BaseClass:/Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem_C NativeClass:/Script/Engine.Character Name:BP_IceGolem_C_UAID_047C16DA9300E9E601_1987885055 Label:BP_IceGolem7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3657.653 Y=3476.248 Z=412.240), Max=(X=3907.653 Y=3761.041 Z=667.320) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:EE1E7EBC4EC377111F59269A983D21E5 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:F301E7A0429CA28BDA346BBC33D21D8F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_047C16DA93007DE701_1655795097 Label:RectLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2614.582 Y=1927.035 Z=-410.615), Max=(X=4614.582 Y=3927.035 Z=1589.385) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:F7AADFE441D14D06658FF19422D79B1A BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_047C16DA93007DE701_1974283104 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-2250.639 Y=-842.898 Z=-660.475), Max=(X=6899.361 Y=6407.102 Z=839.525) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:F9B2498C44D81229AD439F9537676B1E BaseClass: NativeClass:/Script/Engine.PainCausingVolume Name:PainCausingVolume_UAID_047C16DA93004BE601_1852131273 Label:PainCausingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3046.284 Y=912.373 Z=645.298), Max=(X=3246.284 Y=1112.373 Z=945.298) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Ice FolderGuid:9792578A4154CB1EA1F574954D81455B
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/IceLevel
+----------------------------------------------------------------------------------------------------------------
+IceLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of IceLevel Persistent Level
+ |- Always loaded Actor Count: 80 
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.AmbientSound_UAID_8CC681E2C39930E701_1292014544
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/IK/PD944YP25V6N3ORHWCHBXO
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1956958049
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/VS/CW0FW9KFPC3Q1LLSYSHDUD
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1969320050
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/ME/4XYQ48VNBPM1WFJJOUYJHL
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1981020051
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/TH/BCKTVHY7NGMQSGNW6GGMN3
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1982703052
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/F/4E/Z0LOE7G406DG3M1UGFZ60A
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1984449053
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/H7/TUV71QM4XWPBH4GWYP8HXI
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/6/NI/LXTWIW09QRY7KBE8AYNQMP
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1987885055
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/K1/Y4P3TL8YZIGO6CTHOGO07R
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1993056056
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/A/XG/96WOJTN6MQXVPLIPS4YEK6
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1994373057
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/G3/D3CE2KF97RXYQ5V8D7TNBJ
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.BP_IceGolem_C_UAID_047C16DA9300E9E601_1995728058
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/1Q/5PUG946P6CCAU36Y68UZ23
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/C1/5QXF2H66T91ZUW2D5U87WN
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1764459319
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/0R/BQT5VEHXG35XNSQUXYCHZA
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1784078320
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/9R/WNZTQ04Y32GIMABUMV0NV6
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1831877321
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/IE/BE85HH1XK9E81LAMYDNYIO
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1847236322
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/12/HYLE2HPWWFBRJ0UIAQTLQH
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1862350323
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/0K/54I0D99B01UUHXX0HHEIYL
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93009BE601_1880463324
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/4/1S/FTCEOSH9MX1D6NDPJ1GQU2
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.IceLevel_C_1
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.NavMeshBoundsVolume_UAID_047C16DA93007DE701_1974283104
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/T1/IVKAXLV9SLGM1RFNYGMQBC
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1688016265
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/FD/MYHZV20MWYISORWPDRPOA8
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1841134270
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/UK/D7VHD8OD7VCBOA2SZJNFYC
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1852131273
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/V6/OY77VPXC8G1KUO0J7PP1KS
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1858015276
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/S1/XHN8JVRMKCSVTWE5DBCX9P
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1866077279
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/C/0J/1MXBD5LOHOWZS16EM1F4LC
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1870326282
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/V8/0CO3KKJI5UPX97GOJYGAID
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/5T/FH1E7W6192F7O42EKK8CHS
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_047C16DA930038E701_1850369962
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/5Z/EAJEKLJKK6V7T3MCSY7ML3
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB360E701_1080064992
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/E/DW/GH2HC5CER4XZXJ3KK6MCTO
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB361E701_1777618175
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/4/ES/CYGXNATQYINF5GSLSRXW1S
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB361E701_1838715176
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/1N/KX8RCVM7DHZWIX3V1BKABR
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB361E701_1898001177
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/XH/7WWNGGOTAV7YWBK3X6DV07
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB361E701_1907532178
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/A/US/WT6FXBAPOMBEDJ2JU7MOAY
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PointLight_UAID_74563CE79BB361E701_1941475179
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/RY/T95RSN6ZX3OYC3LL6AA740
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/WN/6TKNUDRTWIJSIT192NZIQV
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RecastNavMesh_UAID_047C16DA93007DE701-Default
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/31/SSYJ4II7K7XKPG6CVFE966
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1597097095
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/C/P9/EDARYBY1WJ6E7O3KY3L3X7
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1620046096
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/V0/JCZLC6L3JPUDYI6B4I93KA
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1655795097
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/BY/ILEASO8X0DLMDED3QRKJP7
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1716646098
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/1/7N/6KI9594254RQG8UDA6Q4E3
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1736137099
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/0/22/PY3E4NF9LGA3ZWO7BUALTW
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1822690100
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/9/98/Z5N9S96C67A0YSTQRRTMSI
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1847724101
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/2N/5KPIIM5Q4AF5B6KE8QX6V4
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.RectLight_UAID_047C16DA93007DE701_1872264102
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/UK/G8YT3PQMQ8HW2XF8RYI7LF
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/KR/32AYK4KZUZKQSZ3O14SRJH
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/0E/G3546FRYKYN58ZXBLIPWW4
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/MB/PN8VV0TBHI022U9H3CC9Y3
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930033E701_1524661071
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/9X/42EYH65G4R57ERMYRDW8KT
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930034E701_1281386251
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/IR/CHIHGCP63TVSERPYFQX4BT
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930036E701_1568145604
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/4/D0/XQAAV7ZO2GP8XNUHVFYZW1
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930036E701_1604131605
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/ID/M4GYXTYXBKO0FJWPUSZEAI
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930037E701_1305967778
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/87/9FFO8MY8ZCF8QSD54K1PR4
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1309131955
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/B9/Y3D0URDCMP3G3JNR7BB21P
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1343663956
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/AG/5DRU40ZUFZ0U0NASVFRE6R
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1444229957
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/C/KU/KE6ON57Q1G29G34DGMOJ08
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1506832958
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/4/P1/912DX0B4CZDFY9ZOB9MZVN
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1525535959
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/E/7W/1CMKYK9DW2Q8WYQ1IK8VOG
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1616387960
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/RQ/JB7QBMD0TGTW839S8Z78X8
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA930038E701_1681734961
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/8E/B2CAZKTNGUPEKCAQL5TVTF
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004AE601_2080191086
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/YW/DYM0S1F3S5JT50PUXUHECQ
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004AE601_2144256087
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/IE/6748TTBO2CNTEXRUU7X0Z4
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1597279264
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/Y2/ZORV2WWM3GPB65E6SHXN34
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1841130268
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/8/W0/OFGJ3FAF593NRNLP1E6FOI
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1852128271
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/2/22/7SFK5BAS1YNA1L9B0Q07YL
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1858011274
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/B/2O/7W110GVIE14LRFQTGME6IE
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1866074277
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/D/63/980J0F40AGVX1XZGWKH8ER
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1870322280
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/R6/Q2W9AO7J3XUZMD1GT6G80Y
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93005EE301_2083275439
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/7/1E/2IDY2SWQTDGTE38GL2LOF2
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_74563CE79BB35FE701_1326289815
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/47/46BB42Z7UH46HLHFNII9U9
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/1E/TLHJ95C9BYYN0TFJTTGX7P
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.TundraCrystal_C_UAID_047C16DA93009CE601_1507941501
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/5/UQ/MYPEH51SJEWSYV5BN25SSU
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/1/AV/7PDKBQ9ZQWDJ8QT4AN2290
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/1/II/CMN76UJPJJTCS5ACYFFE0F
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Maps/IceLevel
+ |- Actor Path: /Game/Maps/IceLevel.IceLevel:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Maps/IceLevel/3/DM/IWRVGJ97TSRZSS1HZ656WP
+
+----------------------------------------------------------------------------------------------------------------
+IceLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
