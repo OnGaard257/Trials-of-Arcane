@@ -11,4 +11,4 @@ We have not created art assets for these spells yet so they are currently a Yell
 We have a foggy effect within the cave and glowing crystals that damage the player if they bump into them.
 The ice golems emit dust particles when destroyed. The gate emits an explosion when destroyed.
 We have temporary sound effects on the spells, on damage, on death, when you complete the level and when an object is destroyed.
-We also have ambiant game music.
+We also have ambient game music.
