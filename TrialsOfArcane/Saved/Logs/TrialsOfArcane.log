@@ -5421,3 +5421,162 @@ Please see Output Log for details.
 [2024.03.31-07.17.31:601][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2024.03.31-07.17.31:619][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.03.31-07.17.31:637][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 9.72 sec)
+[2024.03.31-07.19.00:405][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.03.31-07.19.00:412][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/IceLevel/8/W0/OFGJ3FAF593NRNLP1E6FOI_Auto5
+[2024.03.31-07.19.00:412][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/OFGJ3FAF593NRNLP1E6FOI_Auto5776AF24144CEAA3710AE8DA0AF60395C.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Autosaves/Game/__ExternalActors__/Maps/IceLevel/8/W0/OFGJ3FAF593NRNLP1E6FOI_Auto5.uasset'
+[2024.03.31-07.19.00:415][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/IceLevel/9/UK/D7VHD8OD7VCBOA2SZJNFYC_Auto5
+[2024.03.31-07.19.00:415][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/D7VHD8OD7VCBOA2SZJNFYC_Auto5DA5B629E4FBABDC0A0695BAB9C06AB23.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Autosaves/Game/__ExternalActors__/Maps/IceLevel/9/UK/D7VHD8OD7VCBOA2SZJNFYC_Auto5.uasset'
+[2024.03.31-07.19.00:432][193]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/IceLevel/0/SP/KEJH2XRK8QCADSIE0M31HG_Auto5
+[2024.03.31-07.19.00:432][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/KEJH2XRK8QCADSIE0M31HG_Auto537CA06344F5EB92EAF368AB218ABBA35.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Autosaves/Game/__ExternalActors__/Maps/IceLevel/0/SP/KEJH2XRK8QCADSIE0M31HG_Auto5.uasset'
+[2024.03.31-07.19.00:433][193]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/IceLevel' took 0.049
+[2024.03.31-07.19.00:433][193]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2024.03.31-07.19.24:257][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/ice_spike.ice_spike
+[2024.03.31-07.19.24:268][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/ice_spike.ice_spike
+[2024.03.31-07.19.24:268][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/ice_spike.ice_spike as actor: StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_0
+[2024.03.31-07.19.24:923][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/ice_spike.ice_spike
+[2024.03.31-07.19.24:923][640]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/ice_spike.ice_spike
+[2024.03.31-07.19.24:925][640]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/ice_spike.ice_spike as actor: StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1426644090
+[2024.03.31-07.20.20:119][566]Cmd: EDIT COPY
+[2024.03.31-07.20.20:398][576]Cmd: EDIT PASTE
+[2024.03.31-07.20.49:143][617]Cmd: EDIT COPY
+[2024.03.31-07.20.49:461][631]Cmd: EDIT PASTE
+[2024.03.31-07.21.24:531][913]Cmd: EDIT COPY
+[2024.03.31-07.21.24:773][923]Cmd: EDIT PASTE
+[2024.03.31-07.21.54:568][ 55]Cmd: EDIT COPY
+[2024.03.31-07.21.54:813][ 64]Cmd: EDIT PASTE
+[2024.03.31-07.22.34:506][501]Cmd: EDIT COPY
+[2024.03.31-07.22.34:767][511]Cmd: EDIT PASTE
+[2024.03.31-07.22.50:132][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.22.50:232][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.31-07.22.50:258][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.31-07.22.50:278][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.31-07.22.50:282][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/8/W0/OFGJ3FAF593NRNLP1E6FOI
+[2024.03.31-07.22.50:283][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/OFGJ3FAF593NRNLP1E6FOI49F7DA924E76666F8A3A52A26F4B7444.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/8/W0/OFGJ3FAF593NRNLP1E6FOI.uasset'
+[2024.03.31-07.22.50:285][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/9/UK/D7VHD8OD7VCBOA2SZJNFYC
+[2024.03.31-07.22.50:286][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/D7VHD8OD7VCBOA2SZJNFYC521BA50F47272E638FDB11A6157DF82B.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/9/UK/D7VHD8OD7VCBOA2SZJNFYC.uasset'
+[2024.03.31-07.22.50:288][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/0/SP/KEJH2XRK8QCADSIE0M31HG
+[2024.03.31-07.22.50:288][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/KEJH2XRK8QCADSIE0M31HGEDC61FD14A1F9F38D7D662B1993B870D.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/0/SP/KEJH2XRK8QCADSIE0M31HG.uasset'
+[2024.03.31-07.22.50:291][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/7/X6/7CO6O7ZQ49O3NXFJETE96L
+[2024.03.31-07.22.50:291][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/7CO6O7ZQ49O3NXFJETE96L93974BAB40E5C2591E7722BF792B2031.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/7/X6/7CO6O7ZQ49O3NXFJETE96L.uasset'
+[2024.03.31-07.22.50:293][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/C/H9/5U69TSWA7PZ8UUK30RJF16
+[2024.03.31-07.22.50:293][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/5U69TSWA7PZ8UUK30RJF16A49738FC418F47A65386F0A075D13E51.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/C/H9/5U69TSWA7PZ8UUK30RJF16.uasset'
+[2024.03.31-07.22.50:308][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/6/P9/310QQQ8HDJDOD0WD5UAA70
+[2024.03.31-07.22.50:308][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/310QQQ8HDJDOD0WD5UAA706193ECB5475F14302FB82481BE8CCED2.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/6/P9/310QQQ8HDJDOD0WD5UAA70.uasset'
+[2024.03.31-07.22.50:309][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/5/AV/54UWSKOFYNVABLLISU7E5M
+[2024.03.31-07.22.50:309][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/54UWSKOFYNVABLLISU7E5MC6A8A7DB43879EFFD4032594526641BB.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/5/AV/54UWSKOFYNVABLLISU7E5M.uasset'
+[2024.03.31-07.22.50:358][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/9/BX/KJIHZSBQ4EL1COHZHLMV68
+[2024.03.31-07.22.50:358][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/KJIHZSBQ4EL1COHZHLMV6832D284694A00E429053B9496EAA0F1AB.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/9/BX/KJIHZSBQ4EL1COHZHLMV68.uasset'
+[2024.03.31-07.22.50:360][ 85]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/8/2M/B9DDZ3Q84JIYHBUWEAC36P
+[2024.03.31-07.22.50:360][ 85]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/B9DDZ3Q84JIYHBUWEAC36PDAE0FD164C69F8F2122733B6EBABFEAF.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/8/2M/B9DDZ3Q84JIYHBUWEAC36P.uasset'
+[2024.03.31-07.22.50:384][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 251 ms (total: 9.97 sec)
+[2024.03.31-07.22.50:387][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1841130268
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.PainCausingVolume /Game/Maps/IceLevel.IceLevel:PersistentLevel.PainCausingVolume_UAID_047C16DA93004BE601_1841134270
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.GroupActor_UAID_047C16DA93007FE701_1700692471
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1426644090
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1482120091
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1511182092
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1546494093
+[2024.03.31-07.22.50:387][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1576534094
+[2024.03.31-07.22.50:388][ 85]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1616489095
+[2024.03.31-07.22.56:428][316]Cmd: EDIT COPY
+[2024.03.31-07.22.56:681][324]Cmd: EDIT PASTE
+[2024.03.31-07.23.14:547][ 11]Cmd: EDIT COPY
+[2024.03.31-07.23.14:788][ 22]Cmd: EDIT PASTE
+[2024.03.31-07.23.54:957][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.23.55:060][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.31-07.23.55:086][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.31-07.23.55:107][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.31-07.23.55:112][665]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/C/H9/5U69TSWA7PZ8UUK30RJF16
+[2024.03.31-07.23.55:112][665]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/5U69TSWA7PZ8UUK30RJF16C98DDB3249441C84D2218AAB57BDA3E1.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/C/H9/5U69TSWA7PZ8UUK30RJF16.uasset'
+[2024.03.31-07.23.55:115][665]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/5/J3/HJW7XOXYEWC25YOQQDJ0O7
+[2024.03.31-07.23.55:115][665]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/HJW7XOXYEWC25YOQQDJ0O7E2A4DFD5495024CD214324BA6CE924F6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/5/J3/HJW7XOXYEWC25YOQQDJ0O7.uasset'
+[2024.03.31-07.23.55:117][665]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/A/SN/PF3R3MLSOKDA6P7UBEJO0O
+[2024.03.31-07.23.55:117][665]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PF3R3MLSOKDA6P7UBEJO0O88B63A034904A20F47868F900C1C0A6C.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/A/SN/PF3R3MLSOKDA6P7UBEJO0O.uasset'
+[2024.03.31-07.23.55:149][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 10.1 sec)
+[2024.03.31-07.23.55:151][665]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-07.23.55:151][665]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1482120091
+[2024.03.31-07.23.55:151][665]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1638403096
+[2024.03.31-07.23.55:151][665]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1656509097
+[2024.03.31-07.23.56:301][719]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-07.23.56:309][719]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.31-07.23.56:309][719]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.03.31-07.23.56:313][719]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 3 ms (total: 126 ms)
+[2024.03.31-07.23.56:313][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-07.23.56:313][719]PIE: New page: PIE session: IceLevel (Mar 30, 2024, 11:23:56 PM)
+[2024.03.31-07.23.56:313][719]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.23.56:324][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011437s)
+[2024.03.31-07.23.56:324][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.011484s)
+[2024.03.31-07.23.56:341][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.31-07.23.56:344][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-07.23.56:344][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-07.23.56:345][719]LogAIModule: Creating AISystem for world IceLevel
+[2024.03.31-07.23.56:345][719]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.31-07.23.56:345][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.31-07.23.56:345][719]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.31-07.23.56:345][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.31-07.23.56:348][719]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.03.31-07.23.56:348][719]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.89 sec)
+[2024.03.31-07.23.56:348][719]LogPlayLevel: PIE: World Init took: (0.004349s)
+[2024.03.31-07.23.56:348][719]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-07.23.56:348][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-07.23.56:349][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-07.23.56:349][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-07.23.56:349][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-07.23.56:349][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-07.23.56:351][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-07.23.56:376][719]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-07.23.56:376][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-07.23.56:376][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-07.23.56:376][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-07.23.56:380][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.03.31-07.23.56:380][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.03.31-07.23.56:382][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.03.31-07.23.56:382][719]LogInit: FAudioDevice initialized with ID 36.
+[2024.03.31-07.23.56:382][719]LogAudio: Display: Audio Device (ID: 36) registered with world 'IceLevel'.
+[2024.03.31-07.23.56:382][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.03.31-07.23.56:382][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.31-07.23.56:385][719]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-07.23.56:390][719]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-03.23.56
+[2024.03.31-07.23.56:392][719]LogWorld: Bringing up level for play took: 0.007236
+[2024.03.31-07.23.56:395][719]LogOnline: OSS: Created online subsystem instance for: :Context_186
+[2024.03.31-07.23.56:400][719]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.03.31-07.23.56:403][719]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.03.31-07.23.56:403][719]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.31-07.23.56:403][719]PIE: Server logged in
+[2024.03.31-07.23.56:403][719]PIE: Play in editor total start time 0.094 seconds.
+[2024.03.31-07.24.10:490][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.24.10:491][225]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.24.10:491][225]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-07.24.10:492][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.24.10:492][225]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.03.31-07.24.10:499][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-07.24.10:506][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.24.10:526][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.24.10:527][225]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.03.31-07.24.10:527][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.31-07.24.10:529][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.03.31-07.24.10:537][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.31-07.24.10:643][226]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2024.03.31-07.24.18:375][522]Cmd: EDIT COPY
+[2024.03.31-07.24.18:599][532]Cmd: EDIT PASTE
+[2024.03.31-07.24.44:722][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.24.44:832][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.31-07.24.44:857][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.31-07.24.44:879][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.31-07.24.44:883][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/5/WK/HE9KJBYYFMVF14MPT6183M
+[2024.03.31-07.24.44:883][429]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/HE9KJBYYFMVF14MPT6183M9EE3A0284669E63705058A824C80CB91.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/5/WK/HE9KJBYYFMVF14MPT6183M.uasset'
+[2024.03.31-07.24.44:894][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 10.3 sec)
+[2024.03.31-07.24.44:895][429]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_047C16DA93008EE701_1720321098
+[2024.03.31-07.24.44:895][429]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93008EE701_1720321098
+[2024.03.31-07.24.57:631][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.24.57:738][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.31-07.24.57:759][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.31-07.24.57:780][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.03.31-07.24.57:793][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 10.5 sec)
