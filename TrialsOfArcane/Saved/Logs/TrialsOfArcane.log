@@ -5034,3 +5034,390 @@ Please see Output Log for details.
 [2024.03.31-07.05.48:740][344]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem
 [2024.03.31-07.05.48:740][344]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/pew-pew-lame-sound-effect.pew-pew-lame-sound-effect
 [2024.03.31-07.05.48:740][344]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sounds/vine-boom-sound-meme.vine-boom-sound-meme
+[2024.03.31-07.11.40:093][546]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:093][546]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:143][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:144][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:144][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:145][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:145][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:145][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:146][547]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:187][548]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:188][548]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:188][548]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:189][548]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:189][548]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:230][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:231][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:231][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:232][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:232][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:233][549]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:319][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:319][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:320][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:320][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:320][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:321][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:321][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:321][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:321][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:322][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:322][550]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:401][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:402][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:403][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:403][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:403][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:404][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:404][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:405][551]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:490][552]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:574][553]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:657][554]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:658][554]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:658][554]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:740][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:741][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:741][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:741][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:743][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:743][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:743][555]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:825][556]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:825][556]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:825][556]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:825][556]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.40:963][560]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:004][561]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:004][561]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:042][562]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:043][562]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:043][562]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:085][563]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:085][563]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:126][564]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:127][564]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:127][564]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:274][568]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:323][569]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:323][569]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:324][569]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:324][569]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:367][570]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:368][570]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:368][570]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:369][570]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:410][571]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:591][577]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.18s
+[2024.03.31-07.11.41:776][589]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.41:938][594]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.16s
+[2024.03.31-07.11.42:410][624]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:456][625]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:457][625]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:530][627]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:570][628]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:571][628]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:609][629]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:651][630]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.42:820][636]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.17s
+[2024.03.31-07.11.43:388][672]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:429][673]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:502][675]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:573][677]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:610][678]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:652][679]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:694][680]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:767][682]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:768][682]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.43:939][688]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.17s
+[2024.03.31-07.11.44:056][696]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:100][697]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:101][697]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:141][698]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:143][698]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:181][699]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:221][700]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:258][701]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:259][701]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:303][702]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:343][703]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:416][705]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:573][710]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.16s
+[2024.03.31-07.11.44:640][715]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.44:836][721]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.20s
+[2024.03.31-07.11.55:472][229]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:473][229]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:473][229]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:474][229]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:524][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:525][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:526][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:526][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:527][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:527][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:528][230]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:571][231]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:572][231]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:572][231]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:573][231]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:573][231]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:620][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:620][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:621][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:622][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:622][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:623][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:624][232]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:692][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:692][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:693][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:693][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:693][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:694][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:694][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:694][233]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:742][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:743][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:743][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:743][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:744][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:744][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:745][234]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:841][236]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:841][236]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:842][236]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:842][236]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:842][236]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:898][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:899][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:899][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:900][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:900][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:900][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:901][237]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:964][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:965][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:965][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:966][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:966][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:966][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:967][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.55:967][238]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:030][239]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:030][239]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:031][239]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:031][239]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:080][240]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.56:859][304]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.78s
+[2024.03.31-07.11.59:189][396]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:230][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:230][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:231][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:231][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:231][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:232][397]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:271][398]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:272][398]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:272][398]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:274][398]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:274][398]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:313][399]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:314][399]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:314][399]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:315][399]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:315][399]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:376][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:377][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:377][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:377][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:378][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:378][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:379][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:379][400]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:427][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:428][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:428][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:428][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:429][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:429][401]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:476][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:476][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:477][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:477][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:478][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:478][402]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.11.59:527][403]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.12.00:701][469]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 1.17s
+[2024.03.31-07.12.10:215][977]Cmd: TRANSACTION UNDO
+[2024.03.31-07.12.10:215][977]LogEditorTransaction: Undo Edit Merge Region Size
+[2024.03.31-07.12.11:280][991]Cmd: TRANSACTION UNDO
+[2024.03.31-07.12.11:280][991]LogEditorTransaction: Undo Edit Merge Region Size
+[2024.03.31-07.12.12:775][ 31]Cmd: TRANSACTION UNDO
+[2024.03.31-07.12.12:775][ 31]LogEditorTransaction: Undo Edit Merge Region Size
+[2024.03.31-07.12.19:490][375]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.12.19:752][380]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.26s
+[2024.03.31-07.12.20:650][421]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2024.03.31-07.12.20:832][427]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 0.18s
+[2024.03.31-07.14.34:437][812]Cmd: EDIT COPY
+[2024.03.31-07.14.34:733][822]Cmd: EDIT PASTE
+[2024.03.31-07.14.47:576][330]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17507 files in 19583 folders with total size 1922 MiB.
+[2024.03.31-07.16.18:435][521]Cmd: EDIT COPY
+[2024.03.31-07.16.18:776][533]Cmd: EDIT PASTE
+[2024.03.31-07.16.44:047][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-07.16.44:055][579]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.31-07.16.44:056][579]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.03.31-07.16.44:058][579]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 120 ms)
+[2024.03.31-07.16.44:058][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-07.16.44:058][579]PIE: New page: PIE session: IceLevel (Mar 30, 2024, 11:16:44 PM)
+[2024.03.31-07.16.44:058][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.16.44:068][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010551s)
+[2024.03.31-07.16.44:068][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.010589s)
+[2024.03.31-07.16.44:085][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.31-07.16.44:092][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-07.16.44:092][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-07.16.44:093][579]LogAIModule: Creating AISystem for world IceLevel
+[2024.03.31-07.16.44:093][579]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.31-07.16.44:094][579]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.31-07.16.44:094][579]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.31-07.16.44:094][579]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.31-07.16.44:096][579]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.03.31-07.16.44:096][579]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.88 sec)
+[2024.03.31-07.16.44:096][579]LogPlayLevel: PIE: World Init took: (0.004049s)
+[2024.03.31-07.16.44:096][579]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-07.16.44:096][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-07.16.44:096][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-07.16.44:097][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-07.16.44:097][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-07.16.44:097][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-07.16.44:099][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-07.16.44:124][579]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-07.16.44:125][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-07.16.44:125][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-07.16.44:125][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-07.16.44:126][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.03.31-07.16.44:126][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.03.31-07.16.44:128][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.03.31-07.16.44:128][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.03.31-07.16.44:128][579]LogInit: FAudioDevice initialized with ID 34.
+[2024.03.31-07.16.44:128][579]LogAudio: Display: Audio Device (ID: 34) registered with world 'IceLevel'.
+[2024.03.31-07.16.44:128][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.31-07.16.44:131][579]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-07.16.44:136][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-03.16.44
+[2024.03.31-07.16.44:138][579]LogWorld: Bringing up level for play took: 0.006923
+[2024.03.31-07.16.44:140][579]LogOnline: OSS: Created online subsystem instance for: :Context_184
+[2024.03.31-07.16.44:146][579]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.03.31-07.16.44:148][579]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.03.31-07.16.44:148][579]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.31-07.16.44:149][579]PIE: Server logged in
+[2024.03.31-07.16.44:149][579]PIE: Play in editor total start time 0.094 seconds.
+[2024.03.31-07.16.59:982][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.16.59:982][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.16.59:982][170]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-07.16.59:984][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.16.59:984][170]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.03.31-07.16.59:991][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-07.16.59:999][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.17.00:020][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.17.00:020][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.31-07.17.00:020][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.31-07.17.00:022][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.31-07.17.00:031][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.31-07.17.00:131][171]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2024.03.31-07.17.01:705][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.17.01:800][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.31-07.17.01:823][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.03.31-07.17.01:844][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.31-07.17.01:848][232]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/3/31/SSYJ4II7K7XKPG6CVFE966
+[2024.03.31-07.17.01:849][232]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/SSYJ4II7K7XKPG6CVFE9662FA843D346D1EE809DAA589FF35D189E.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/3/31/SSYJ4II7K7XKPG6CVFE966.uasset'
+[2024.03.31-07.17.01:867][232]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/8/T1/IVKAXLV9SLGM1RFNYGMQBC
+[2024.03.31-07.17.01:867][232]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/IVKAXLV9SLGM1RFNYGMQBC8CF0C73940054DFE931C05ADB5DDBAB1.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/8/T1/IVKAXLV9SLGM1RFNYGMQBC.uasset'
+[2024.03.31-07.17.01:870][232]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/D/ZH/C045BB1WFP4VO1G1RA88Z1
+[2024.03.31-07.17.01:870][232]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/C045BB1WFP4VO1G1RA88Z17DFCC42942BA6009669103BED665591B.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/D/ZH/C045BB1WFP4VO1G1RA88Z1.uasset'
+[2024.03.31-07.17.01:888][232]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/B/VL/QP6WZ3Z6RCXNWHF8OLF399
+[2024.03.31-07.17.01:888][232]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/QP6WZ3Z6RCXNWHF8OLF3993874D1C0478262B050906BAAB467F237.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/B/VL/QP6WZ3Z6RCXNWHF8OLF399.uasset'
+[2024.03.31-07.17.01:900][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 9.56 sec)
+[2024.03.31-07.17.01:902][232]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.31-07.17.01:902][232]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/Maps/IceLevel.IceLevel:PersistentLevel.RecastNavMesh_UAID_047C16DA93007DE701-Default
+[2024.03.31-07.17.01:902][232]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/Maps/IceLevel.IceLevel:PersistentLevel.NavMeshBoundsVolume_UAID_047C16DA93007DE701_1974283104
+[2024.03.31-07.17.01:903][232]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/Maps/IceLevel.IceLevel:PersistentLevel.NavMeshBoundsVolume_UAID_047C16DA93008EE701_1136468088
+[2024.03.31-07.17.01:903][232]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/Maps/IceLevel.IceLevel:PersistentLevel.NavMeshBoundsVolume_UAID_047C16DA93008EE701_1240497089
+[2024.03.31-07.17.05:324][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.31-07.17.05:332][384]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.31-07.17.05:332][384]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.03.31-07.17.05:334][384]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 123 ms)
+[2024.03.31-07.17.05:335][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.31-07.17.05:335][384]PIE: New page: PIE session: IceLevel (Mar 30, 2024, 11:17:05 PM)
+[2024.03.31-07.17.05:335][384]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.17.05:346][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010695s)
+[2024.03.31-07.17.05:346][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.010750s)
+[2024.03.31-07.17.05:362][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.31-07.17.05:365][384]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.31-07.17.05:366][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.31-07.17.05:366][384]LogAIModule: Creating AISystem for world IceLevel
+[2024.03.31-07.17.05:367][384]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.31-07.17.05:367][384]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.31-07.17.05:367][384]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.31-07.17.05:367][384]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.31-07.17.05:369][384]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.03.31-07.17.05:369][384]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.89 sec)
+[2024.03.31-07.17.05:369][384]LogPlayLevel: PIE: World Init took: (0.004088s)
+[2024.03.31-07.17.05:369][384]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.31-07.17.05:369][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.31-07.17.05:369][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.31-07.17.05:371][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.31-07.17.05:371][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.31-07.17.05:371][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.31-07.17.05:373][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.31-07.17.05:395][384]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.31-07.17.05:396][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.31-07.17.05:396][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.31-07.17.05:396][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.31-07.17.05:396][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.03.31-07.17.05:396][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.03.31-07.17.05:398][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.03.31-07.17.05:398][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.03.31-07.17.05:398][384]LogInit: FAudioDevice initialized with ID 35.
+[2024.03.31-07.17.05:398][384]LogAudio: Display: Audio Device (ID: 35) registered with world 'IceLevel'.
+[2024.03.31-07.17.05:398][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.31-07.17.05:401][384]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.31-07.17.05:406][384]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-03.17.05
+[2024.03.31-07.17.05:408][384]LogWorld: Bringing up level for play took: 0.006944
+[2024.03.31-07.17.05:410][384]LogOnline: OSS: Created online subsystem instance for: :Context_185
+[2024.03.31-07.17.05:416][384]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.03.31-07.17.05:418][384]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.03.31-07.17.05:418][384]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.03.31-07.17.05:418][384]PIE: Server logged in
+[2024.03.31-07.17.05:419][384]PIE: Play in editor total start time 0.086 seconds.
+[2024.03.31-07.17.30:013][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.17.30:013][315]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.03.31-07.17.30:013][315]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.03.31-07.17.30:015][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.17.30:015][315]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.03.31-07.17.30:042][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.31-07.17.30:053][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.31-07.17.30:075][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.31-07.17.30:075][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.31-07.17.30:076][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.31-07.17.30:078][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.31-07.17.30:083][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.31-07.17.30:088][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.31-07.17.30:192][316]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2024.03.31-07.17.31:475][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.31-07.17.31:578][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.31-07.17.31:601][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.31-07.17.31:619][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.31-07.17.31:637][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 9.72 sec)
