@@ -12,3 +12,4 @@ We have a foggy effect within the cave and glowing crystals that damage the play
 The ice golems emit dust particles when destroyed. The gate emits an explosion when destroyed.
 We have temporary sound effects on the spells, on damage, on death, when you complete the level and when an object is destroyed.
 We also have ambient game music.
+Our Main Menu and Pause Menu are well designed and Stylized to the theme of the game.
