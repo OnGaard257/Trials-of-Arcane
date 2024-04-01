@@ -5955,3 +5955,1090 @@ Script Stack (0 frames) :
 [2024.04.01-02.04.46:391][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.01-02.04.46:397][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
 [2024.04.01-02.04.46:695][105]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.04.01-02.06.39:249][857]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.01-02.06.39:275][857]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.01-02.06.39:286][858]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.01-02.06.45:315][ 60]LogContentBrowser: Attempting asset rename: NewFolder -> AnimationBPs
+[2024.04.01-02.06.45:316][ 60]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.01-02.06.46:875][110]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_168
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.46:907][111]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_169
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.46:940][112]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_170
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.46:972][113]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_171
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:004][114]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_172
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:071][115]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_173
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:096][116]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_174
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:120][117]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_175
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:152][118]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_176
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:186][119]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_177
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.47:398][124]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_178
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.48:489][157]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_179
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.48:519][158]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_180
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.48:553][159]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_181
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.48:838][167]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_182
+	Function /Game/ThirdPerson/Blueprints/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.SKEL_PlayerAnimBP_C' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.SKEL_PlayerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.SKEL_PlayerAnimBP_C:BlueprintInitializeAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.SKEL_PlayerAnimBP_C:AnimGraph' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:BlueprintInitializeAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:595][188]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:AnimGraph' ref from Metadata '/Game/ThirdPerson/Blueprints/PlayerAnimBP.PackageMetaData'
+[2024.04.01-02.06.49:607][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.06.49:711][188]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.06.49:711][188]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter7426ABB44AB652D0BF3725AE279E4BD9.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.06.49:713][188]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_183
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.49:731][188]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP
+[2024.04.01-02.06.49:731][188]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PlayerAnimBPFB85858340BBF222DB73E98330CCE31F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.uasset'
+[2024.04.01-02.06.49:752][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 8.95 sec)
+[2024.04.01-02.06.49:804][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.01-02.06.49:831][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.01-02.06.49:850][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.01-02.06.49:869][188]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-02.06.49:869][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.06.49:869][188]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP
+[2024.04.01-02.06.52:593][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.06.52:661][270]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_184
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.52:661][270]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_184
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.52:682][270]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP
+[2024.04.01-02.06.52:683][270]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PlayerAnimBP2A4E702E4D00E2A1605FE8B73AF2CDF7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.uasset'
+[2024.04.01-02.06.52:684][270]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerBlend
+[2024.04.01-02.06.52:684][270]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PlayerBlendE7E0AF914D02A828D8C95EAC3A21B491.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/AnimationBPs/PlayerBlend.uasset'
+[2024.04.01-02.06.52:706][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 9.06 sec)
+[2024.04.01-02.06.52:742][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.01-02.06.52:762][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.01-02.06.52:781][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.01-02.06.52:799][270]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.01-02.06.52:799][270]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP
+[2024.04.01-02.06.52:799][270]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerBlend.PlayerBlend
+[2024.04.01-02.06.53:801][302]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_185
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:801][302]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_185
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:856][303]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_186
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:856][303]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_186
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:879][304]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_187
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:879][304]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_187
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:905][305]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_188
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:906][305]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_188
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:938][306]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_189
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:938][306]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_189
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:972][307]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_190
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.53:972][307]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_190
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.54:005][308]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_191
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.06.54:005][308]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_191
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:283][552]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_192
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:283][552]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_192
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:616][553]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_193
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:616][553]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_193
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:950][554]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_194
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.05:950][554]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_194
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:284][555]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_195
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:284][555]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_195
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:617][556]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_196
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:617][556]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_196
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:950][557]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_197
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.06:950][557]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_197
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.07:283][558]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_198
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.07:283][558]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_198
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.07:617][559]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_199
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.07:617][559]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_199
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.08:284][561]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_200
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.07.08:284][561]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_200
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.08.22:127][899]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.08.22:214][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.01-02.08.22:264][899]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_201
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.08.22:416][900]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.01-02.08.22:439][901]LogScript: Warning: Accessed None trying to read property Character
+	PlayerAnimBP_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.PlayerAnimBP_C_202
+	Function /Game/ThirdPerson/Blueprints/AnimationBPs/PlayerAnimBP.PlayerAnimBP_C:ExecuteUbergraph_PlayerAnimBP:0028
+[2024.04.01-02.08.22:844][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.08.22:982][914]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.08.22:982][914]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter2F8B30084A66B90B9C2AE0943AF0D0E8.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.08.22:993][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 9.21 sec)
+[2024.04.01-02.08.22:995][914]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.08.22:995][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.09.14:280][502]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.04.01-02.09.14:467][505]LoadErrors: The Skeleton  IceGolem_Skeleton is missing bones that SkeletalMesh  IceGolemSkeletal needs. They will be added now. Please save the Skeleton!
+[2024.04.01-02.09.31:268][ 26]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-02.09.31:303][ 26]LogSlate: Window 'Message Log' being destroyed
+[2024.04.01-02.09.41:476][350]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Models/Character/TrialsofArcade_MainCharacter_Attack_Anim.TrialsofArcade_MainCharacter_Attack_Anim
+[2024.04.01-02.09.41:480][350]LogAnimationCompression: Display: Storing compressed animation data for /Game/Models/Character/TrialsofArcade_MainCharacter_Attack_Anim.TrialsofArcade_MainCharacter_Attack_Anim, at AnimationSequence/24ef324c283c613798d30c685682396dc8be804f
+[2024.04.01-02.10.25:851][736]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.10.25:939][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.01-02.10.27:065][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.10.27:206][765]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.10.27:207][765]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter76AB57974EE04BBE6F9D989EF4637ABE.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.10.27:215][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 9.36 sec)
+[2024.04.01-02.10.27:218][765]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.10.27:218][765]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.10.43:884][275]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.10.43:970][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.01-02.10.45:450][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.10.45:595][315]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.10.45:595][315]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterFB1E269242D1FDAF7B0A01878E399DF4.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.10.45:606][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 9.52 sec)
+[2024.04.01-02.10.45:608][315]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.10.45:608][315]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.10.48:615][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.10.48:624][375]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.10.48:624][375]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.10.48:627][375]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 132 ms)
+[2024.04.01-02.10.48:627][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.10.48:627][375]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:10:48 PM)
+[2024.04.01-02.10.48:627][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.10.48:639][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012163s)
+[2024.04.01-02.10.48:639][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012210s)
+[2024.04.01-02.10.48:656][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.01-02.10.48:663][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.10.48:663][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.10.48:664][375]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.10.48:665][375]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.10.48:665][375]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.10.48:665][375]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.10.48:665][375]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.10.48:667][375]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.10.48:668][375]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 463 ms)
+[2024.04.01-02.10.48:668][375]LogPlayLevel: PIE: World Init took: (0.004291s)
+[2024.04.01-02.10.48:668][375]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.10.48:668][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.10.48:668][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.10.48:668][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.10.48:668][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.10.48:668][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.10.48:670][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.10.48:696][375]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.10.48:696][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.10.48:697][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.10.48:697][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.10.48:698][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.04.01-02.10.48:698][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.04.01-02.10.48:700][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.04.01-02.10.48:700][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.04.01-02.10.48:700][375]LogInit: FAudioDevice initialized with ID 49.
+[2024.04.01-02.10.48:700][375]LogAudio: Display: Audio Device (ID: 49) registered with world 'IceLevel'.
+[2024.04.01-02.10.48:700][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.01-02.10.48:703][375]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.10.48:709][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.10.48
+[2024.04.01-02.10.48:711][375]LogWorld: Bringing up level for play took: 0.007690
+[2024.04.01-02.10.48:713][375]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.04.01-02.10.48:718][375]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.10.48:718][375]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.10.48:719][375]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.10.48:719][375]PIE: Server logged in
+[2024.04.01-02.10.48:719][375]PIE: Play in editor total start time 0.096 seconds.
+[2024.04.01-02.10.54:014][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.10.54:014][539]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.10.54:015][539]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.10.54:016][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.10.54:016][539]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.10.54:020][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.10.54:027][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.10.54:046][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.10.54:046][539]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.01-02.10.54:046][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.01-02.10.54:048][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.01-02.10.54:052][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.10.54:057][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.01-02.10.54:202][540]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.04.01-02.11.30:374][752]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem
+[2024.04.01-02.11.30:374][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.11.30:374][752]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.13.42:492][ 97]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.13.42:580][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.04.01-02.13.44:130][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.13.44:276][138]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.13.44:277][138]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter3A6F7C7E47EEE3D1E0F8D48D6EA44267.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.13.44:287][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.68 sec)
+[2024.04.01-02.13.44:290][138]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.13.44:290][138]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.13.46:105][200]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.13.46:114][200]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.13.46:114][200]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.13.46:116][200]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 135 ms)
+[2024.04.01-02.13.46:117][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.13.46:117][200]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:13:46 PM)
+[2024.04.01-02.13.46:117][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.13.46:130][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012717s)
+[2024.04.01-02.13.46:130][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012781s)
+[2024.04.01-02.13.46:150][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.01-02.13.46:157][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.13.46:157][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.13.46:158][200]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.13.46:158][200]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.13.46:158][200]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.13.46:158][200]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.13.46:158][200]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.13.46:161][200]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.13.46:161][200]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 466 ms)
+[2024.04.01-02.13.46:161][200]LogPlayLevel: PIE: World Init took: (0.003939s)
+[2024.04.01-02.13.46:161][200]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.13.46:161][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.13.46:161][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.13.46:161][200]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.13.46:161][200]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.13.46:162][200]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.13.46:164][200]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.13.46:190][200]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.13.46:191][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.13.46:191][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.13.46:191][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.13.46:191][200]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.04.01-02.13.46:192][200]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.04.01-02.13.46:194][200]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.04.01-02.13.46:194][200]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.04.01-02.13.46:194][200]LogInit: FAudioDevice initialized with ID 50.
+[2024.04.01-02.13.46:194][200]LogAudio: Display: Audio Device (ID: 50) registered with world 'IceLevel'.
+[2024.04.01-02.13.46:194][200]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.01-02.13.46:197][200]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.13.46:203][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.13.46
+[2024.04.01-02.13.46:205][200]LogWorld: Bringing up level for play took: 0.008159
+[2024.04.01-02.13.46:208][200]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.04.01-02.13.46:212][200]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.13.46:212][200]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.13.46:212][200]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.13.46:212][200]PIE: Server logged in
+[2024.04.01-02.13.46:214][200]PIE: Play in editor total start time 0.101 seconds.
+[2024.04.01-02.13.58:553][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.13.58:553][597]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.13.58:553][597]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.13.58:555][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.13.58:555][597]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.13.58:559][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.13.58:566][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.13.58:586][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.13.58:586][597]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.01-02.13.58:587][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.01-02.13.58:589][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.01-02.13.58:594][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.13.58:599][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.01-02.13.58:880][598]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.04.01-02.15.21:477][402]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.15.21:592][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.01-02.15.22:539][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.15.22:662][420]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.15.22:662][420]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter4524B6A141AA4AD38C3F9F80B632B3FC.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.15.22:670][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 9.81 sec)
+[2024.04.01-02.15.22:673][420]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.15.22:673][420]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.15.26:222][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.15.26:339][538]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.15.26:339][538]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter54D7C0154AC4FD3EB06CA2970135FEE7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.15.26:348][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 9.93 sec)
+[2024.04.01-02.15.26:350][538]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.15.26:350][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.15.26:990][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.15.27:000][561]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.15.27:000][561]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.15.27:003][561]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 138 ms)
+[2024.04.01-02.15.27:004][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.15.27:004][561]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:15:27 PM)
+[2024.04.01-02.15.27:004][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.15.27:016][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012494s)
+[2024.04.01-02.15.27:016][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012558s)
+[2024.04.01-02.15.27:035][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.01-02.15.27:042][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.15.27:042][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.15.27:043][561]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.15.27:043][561]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.15.27:043][561]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.15.27:043][561]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.15.27:043][561]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.15.27:046][561]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.15.27:046][561]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 468 ms)
+[2024.04.01-02.15.27:046][561]LogPlayLevel: PIE: World Init took: (0.004086s)
+[2024.04.01-02.15.27:046][561]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.15.27:046][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.15.27:046][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.15.27:047][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.15.27:047][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.15.27:047][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.15.27:049][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.15.27:074][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.15.27:074][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.15.27:074][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.15.27:074][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.15.27:078][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.01-02.15.27:078][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.01-02.15.27:080][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.01-02.15.27:080][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.01-02.15.27:080][561]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.01-02.15.27:080][561]LogAudio: Display: Audio Device (ID: 51) registered with world 'IceLevel'.
+[2024.04.01-02.15.27:080][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.01-02.15.27:083][561]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.15.27:088][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.15.27
+[2024.04.01-02.15.27:090][561]LogWorld: Bringing up level for play took: 0.006917
+[2024.04.01-02.15.27:092][561]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.04.01-02.15.27:096][561]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.15.27:097][561]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.15.27:097][561]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.15.27:097][561]PIE: Server logged in
+[2024.04.01-02.15.27:098][561]PIE: Play in editor total start time 0.098 seconds.
+[2024.04.01-02.15.28:893][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.15.28:893][630]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.15.28:893][630]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.15.28:894][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.15.28:895][630]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.15.28:899][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.15.28:907][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.15.28:927][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.15.28:927][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.01-02.15.28:927][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.01-02.15.28:929][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.01-02.15.28:933][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.15.28:938][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.01-02.15.28:989][631]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.04.01-02.15.30:933][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.15.30:940][722]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.15.30:940][722]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.15.30:944][722]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 141 ms)
+[2024.04.01-02.15.30:945][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.15.30:945][722]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:15:30 PM)
+[2024.04.01-02.15.30:945][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.15.30:958][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013284s)
+[2024.04.01-02.15.30:958][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.013334s)
+[2024.04.01-02.15.30:973][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.01-02.15.30:976][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.15.30:976][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.15.30:976][722]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.15.30:977][722]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.15.30:977][722]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.15.30:977][722]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.15.30:977][722]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.15.30:979][722]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.15.30:979][722]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 471 ms)
+[2024.04.01-02.15.30:979][722]LogPlayLevel: PIE: World Init took: (0.003924s)
+[2024.04.01-02.15.30:979][722]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.15.30:980][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.15.30:980][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.15.30:980][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.15.30:980][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.15.30:980][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.15.30:983][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.15.31:005][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.15.31:006][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.15.31:006][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.15.31:006][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.15.31:006][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.01-02.15.31:006][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.01-02.15.31:008][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.01-02.15.31:008][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.01-02.15.31:008][722]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.01-02.15.31:008][722]LogAudio: Display: Audio Device (ID: 52) registered with world 'IceLevel'.
+[2024.04.01-02.15.31:008][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.01-02.15.31:012][722]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.15.31:017][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.15.31
+[2024.04.01-02.15.31:019][722]LogWorld: Bringing up level for play took: 0.007394
+[2024.04.01-02.15.31:022][722]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.04.01-02.15.31:026][722]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.15.31:027][722]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.15.31:027][722]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.15.31:027][722]PIE: Server logged in
+[2024.04.01-02.15.31:028][722]PIE: Play in editor total start time 0.086 seconds.
+[2024.04.01-02.15.40:333][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.15.40:333][ 36]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.15.40:333][ 36]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.15.40:334][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.15.40:334][ 36]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.15.40:338][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.15.40:346][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.15.40:363][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.15.40:364][ 36]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.01-02.15.40:364][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.01-02.15.40:366][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.01-02.15.40:374][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.01-02.15.40:441][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.04.01-02.16.19:252][255]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.16.19:362][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.04.01-02.16.20:313][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.16.20:453][277]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.16.20:453][277]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterA1F84C484816A49B978556A81B98C879.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.16.20:462][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 10.0 sec)
+[2024.04.01-02.16.20:464][277]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.16.20:464][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.16.25:128][428]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.16.25:136][428]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.16.25:136][428]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.16.25:139][428]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 143 ms)
+[2024.04.01-02.16.25:139][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.16.25:139][428]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:16:25 PM)
+[2024.04.01-02.16.25:139][428]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.16.25:152][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013240s)
+[2024.04.01-02.16.25:152][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.013296s)
+[2024.04.01-02.16.25:173][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.01-02.16.25:179][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.16.25:179][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.16.25:180][428]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.16.25:181][428]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.16.25:181][428]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.16.25:181][428]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.16.25:181][428]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.16.25:183][428]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.16.25:183][428]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 473 ms)
+[2024.04.01-02.16.25:183][428]LogPlayLevel: PIE: World Init took: (0.004968s)
+[2024.04.01-02.16.25:184][428]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.16.25:184][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.16.25:184][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.16.25:184][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.16.25:184][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.16.25:184][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.16.25:187][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.16.25:215][428]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.16.25:216][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.16.25:216][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.16.25:216][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.16.25:217][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.04.01-02.16.25:217][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.04.01-02.16.25:219][428]LogInit: FAudioDevice initialized with ID 53.
+[2024.04.01-02.16.25:219][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.04.01-02.16.25:219][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.04.01-02.16.25:219][428]LogAudio: Display: Audio Device (ID: 53) registered with world 'IceLevel'.
+[2024.04.01-02.16.25:219][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.01-02.16.25:223][428]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.16.25:229][428]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.16.25
+[2024.04.01-02.16.25:231][428]LogWorld: Bringing up level for play took: 0.008053
+[2024.04.01-02.16.25:234][428]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.04.01-02.16.25:238][428]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.16.25:239][428]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.16.25:239][428]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.16.25:239][428]PIE: Server logged in
+[2024.04.01-02.16.25:240][428]PIE: Play in editor total start time 0.104 seconds.
+[2024.04.01-02.16.53:440][393]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.16.53:440][393]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.16.55:509][458]LogNet: Browse: /Game/Maps/IceLevel
+[2024.04.01-02.16.55:509][458]LogLoad: LoadMap: /Game/Maps/IceLevel
+[2024.04.01-02.16.55:509][458]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.16.55:510][458]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.16.55:511][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.16.55:511][458]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.16.55:616][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.16.55:620][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.01-02.16.55:624][458]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.16.55:635][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011029s)
+[2024.04.01-02.16.55:635][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.011091s)
+[2024.04.01-02.16.55:635][458]LogAudio: Display: Audio Device (ID: 53) registered with world 'IceLevel'.
+[2024.04.01-02.16.55:635][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.16.55:635][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.16.55:636][458]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.16.55:636][458]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.16.55:636][458]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.16.55:636][458]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.16.55:636][458]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.16.55:639][458]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.16.55:639][458]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 476 ms)
+[2024.04.01-02.16.55:639][458]LogPlayLevel: PIE: World Init took: (0.003637s)
+[2024.04.01-02.16.55:639][458]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.16.55:643][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.16.55
+[2024.04.01-02.16.55:645][458]LogWorld: Bringing up level for play took: 0.006764
+[2024.04.01-02.16.55:648][458]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-02.16.55:648][458]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.01-02.16.55:649][458]LogScript: Warning: Script Msg: The widget 'HEALTH_C_1' was already added to the screen.
+[2024.04.01-02.16.55:649][458]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.16.55:691][458]LogLoad: Took 0.182598 seconds to LoadMap(/Game/Maps/UEDPIE_0_IceLevel)
+[2024.04.01-02.17.15:526][203]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA93007FE701_1210962465 is stuck and failed to move! Velocity: X=12.82 Y=47.02 Z=0.00 Location: X=2943.80 Y=1882.90 Z=800.19 Normal: X=0.52 Y=0.35 Z=0.78 PenetrationDepth:11.519 Actor:Fireball_C_18 Component:Sphere1 BoneName:None (0 other events since notify)
+[2024.04.01-02.18.15:772][631]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.18.15:772][631]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.18.17:127][705]Cmd: quit
+[2024.04.01-02.18.17:128][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.18.17:128][705]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.18.17:152][705]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.18.17:153][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.18.17:153][705]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.18.17:158][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.18.17:165][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.18.17:184][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.18.17:184][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.01-02.18.17:184][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.01-02.18.17:186][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.01-02.18.17:194][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.01-02.18.17:758][706]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.04.01-02.19.43:133][686]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.19.43:212][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.01-02.19.44:009][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.19.44:124][704]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.19.44:125][704]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter36E39E20445D0999E6971AAEBDA74508.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.19.44:134][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 10.2 sec)
+[2024.04.01-02.19.44:136][704]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.19.44:136][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.19.45:054][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.19.45:062][746]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.19.45:062][746]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.19.45:065][746]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 146 ms)
+[2024.04.01-02.19.45:065][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.19.45:065][746]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:19:45 PM)
+[2024.04.01-02.19.45:066][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.19.45:077][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011074s)
+[2024.04.01-02.19.45:077][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.011131s)
+[2024.04.01-02.19.45:096][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.04.01-02.19.45:102][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.19.45:102][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.19.45:103][746]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.19.45:103][746]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.19.45:104][746]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.19.45:104][746]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.19.45:104][746]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.19.45:106][746]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.19.45:106][746]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 478 ms)
+[2024.04.01-02.19.45:106][746]LogPlayLevel: PIE: World Init took: (0.004020s)
+[2024.04.01-02.19.45:106][746]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.19.45:106][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.19.45:106][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.19.45:107][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.19.45:107][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.19.45:107][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.19.45:109][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.19.45:133][746]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.19.45:134][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.19.45:134][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.19.45:134][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.19.45:135][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.04.01-02.19.45:136][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2024.04.01-02.19.45:137][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.04.01-02.19.45:137][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.04.01-02.19.45:137][746]LogInit: FAudioDevice initialized with ID 54.
+[2024.04.01-02.19.45:137][746]LogAudio: Display: Audio Device (ID: 54) registered with world 'IceLevel'.
+[2024.04.01-02.19.45:137][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.01-02.19.45:141][746]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.19.45:147][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.19.45
+[2024.04.01-02.19.45:149][746]LogWorld: Bringing up level for play took: 0.008814
+[2024.04.01-02.19.45:152][746]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.04.01-02.19.45:156][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.19.45:157][746]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.19.45:157][746]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.19.45:157][746]PIE: Server logged in
+[2024.04.01-02.19.45:158][746]PIE: Play in editor total start time 0.096 seconds.
+[2024.04.01-02.19.46:932][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.19.46:932][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.19.46:932][806]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.19.46:933][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.19.46:933][806]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.19.46:939][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.19.46:947][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.19.46:966][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.19.46:967][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.04.01-02.19.46:967][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.01-02.19.46:969][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.04.01-02.19.46:974][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.19.46:979][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.01-02.19.47:024][807]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.04.01-02.19.49:764][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.19.49:771][877]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.19.49:771][877]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.19.49:774][877]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 148 ms)
+[2024.04.01-02.19.49:774][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.19.49:774][877]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:19:49 PM)
+[2024.04.01-02.19.49:774][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.19.49:787][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012365s)
+[2024.04.01-02.19.49:787][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012416s)
+[2024.04.01-02.19.49:804][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.01-02.19.49:806][877]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.19.49:806][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.19.49:807][877]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.19.49:807][877]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.19.49:807][877]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.19.49:808][877]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.19.49:808][877]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.19.49:810][877]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.19.49:810][877]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 481 ms)
+[2024.04.01-02.19.49:810][877]LogPlayLevel: PIE: World Init took: (0.004299s)
+[2024.04.01-02.19.49:810][877]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.19.49:810][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.19.49:810][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.19.49:810][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.19.49:810][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.19.49:810][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.19.49:813][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.19.49:838][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.19.49:838][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.19.49:838][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.19.49:838][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.19.49:839][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.04.01-02.19.49:839][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.04.01-02.19.49:841][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.04.01-02.19.49:841][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.04.01-02.19.49:841][877]LogInit: FAudioDevice initialized with ID 55.
+[2024.04.01-02.19.49:841][877]LogAudio: Display: Audio Device (ID: 55) registered with world 'IceLevel'.
+[2024.04.01-02.19.49:841][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.01-02.19.49:843][877]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.19.49:849][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.19.49
+[2024.04.01-02.19.49:852][877]LogWorld: Bringing up level for play took: 0.007309
+[2024.04.01-02.19.49:854][877]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.04.01-02.19.49:858][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.19.49:858][877]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.19.49:858][877]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.19.49:859][877]PIE: Server logged in
+[2024.04.01-02.19.49:859][877]PIE: Play in editor total start time 0.087 seconds.
+[2024.04.01-02.20.08:712][465]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-179.93 Y=87.32 Z=0.00 Location: X=2106.88 Y=1605.95 Z=113.51 Normal: X=0.42 Y=-0.06 Z=-0.90 PenetrationDepth:1.201 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.04.01-02.20.09:734][500]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-180.04 Y=87.09 Z=0.00 Location: X=2106.88 Y=1605.94 Z=113.50 Normal: X=0.42 Y=-0.06 Z=-0.90 PenetrationDepth:1.197 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (34 other events since notify)
+[2024.04.01-02.20.10:735][531]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-180.04 Y=87.09 Z=0.00 Location: X=2106.88 Y=1605.94 Z=113.50 Normal: X=0.42 Y=-0.06 Z=-0.90 PenetrationDepth:1.197 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2024.04.01-02.20.11:770][562]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-180.04 Y=87.09 Z=0.00 Location: X=2106.88 Y=1605.94 Z=113.50 Normal: X=0.42 Y=-0.06 Z=-0.90 PenetrationDepth:1.197 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2024.04.01-02.20.12:770][593]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-180.04 Y=87.09 Z=0.00 Location: X=2106.88 Y=1605.94 Z=113.50 Normal: X=0.42 Y=-0.06 Z=-0.90 PenetrationDepth:1.197 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2024.04.01-02.20.15:430][675]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.20.15:430][675]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.20.16:958][694]LogNet: Browse: /Game/Maps/IceLevel
+[2024.04.01-02.20.16:959][694]LogLoad: LoadMap: /Game/Maps/IceLevel
+[2024.04.01-02.20.16:959][694]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.20.16:959][694]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.20.16:960][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.20.16:960][694]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.20.17:011][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.20.17:016][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.01-02.20.17:019][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.20.17:032][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012706s)
+[2024.04.01-02.20.17:032][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012771s)
+[2024.04.01-02.20.17:032][694]LogAudio: Display: Audio Device (ID: 55) registered with world 'IceLevel'.
+[2024.04.01-02.20.17:032][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.20.17:032][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.20.17:033][694]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.20.17:033][694]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.20.17:033][694]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.20.17:033][694]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.20.17:033][694]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.20.17:036][694]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.20.17:036][694]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 484 ms)
+[2024.04.01-02.20.17:036][694]LogPlayLevel: PIE: World Init took: (0.004379s)
+[2024.04.01-02.20.17:036][694]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.20.17:041][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.20.17
+[2024.04.01-02.20.17:044][694]LogWorld: Bringing up level for play took: 0.007666
+[2024.04.01-02.20.17:048][694]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-02.20.17:048][694]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.01-02.20.17:049][694]LogScript: Warning: Script Msg: The widget 'HEALTH_C_1' was already added to the screen.
+[2024.04.01-02.20.17:049][694]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.20.17:049][694]LogLoad: Took 0.090655 seconds to LoadMap(/Game/Maps/UEDPIE_0_IceLevel)
+[2024.04.01-02.20.36:261][295]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-197.59 Y=30.93 Z=0.00 Location: X=3072.69 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.04.01-02.20.37:298][309]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-197.32 Y=32.65 Z=0.00 Location: X=3072.69 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (14 other events since notify)
+[2024.04.01-02.20.38:365][317]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-197.32 Y=32.65 Z=0.00 Location: X=3072.69 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (7 other events since notify)
+[2024.04.01-02.20.39:444][323]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-197.32 Y=32.65 Z=0.00 Location: X=3072.69 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (5 other events since notify)
+[2024.04.01-02.20.40:387][332]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-197.32 Y=32.65 Z=0.00 Location: X=3072.69 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (8 other events since notify)
+[2024.04.01-02.20.41:440][349]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=68.93 Y=32.73 Z=0.00 Location: X=3072.70 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (16 other events since notify)
+[2024.04.01-02.20.42:522][364]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=180.67 Y=85.79 Z=0.00 Location: X=3072.70 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2024.04.01-02.20.43:547][377]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=180.67 Y=85.79 Z=0.00 Location: X=3072.70 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (12 other events since notify)
+[2024.04.01-02.20.44:538][399]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=180.67 Y=85.79 Z=0.00 Location: X=3072.70 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (21 other events since notify)
+[2024.04.01-02.20.45:566][431]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=180.67 Y=85.79 Z=0.00 Location: X=3072.70 Y=2243.02 Z=113.42 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.250 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (31 other events since notify)
+[2024.04.01-02.20.46:588][462]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-200.00 Y=-0.02 Z=0.00 Location: X=3059.65 Y=2242.02 Z=113.40 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.247 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (29 other events since notify)
+[2024.04.01-02.20.47:613][493]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-200.00 Y=-0.02 Z=0.00 Location: X=3059.65 Y=2242.02 Z=113.40 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.247 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (30 other events since notify)
+[2024.04.01-02.20.48:622][516]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-200.00 Y=-0.02 Z=0.00 Location: X=3059.65 Y=2242.02 Z=113.40 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.247 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (22 other events since notify)
+[2024.04.01-02.20.49:660][541]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-200.00 Y=-0.02 Z=0.00 Location: X=3059.65 Y=2242.02 Z=113.40 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.247 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (24 other events since notify)
+[2024.04.01-02.20.50:724][564]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-200.00 Y=0.61 Z=0.00 Location: X=3049.38 Y=2241.21 Z=113.40 Normal: X=0.03 Y=-0.40 Z=-0.91 PenetrationDepth:0.247 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (22 other events since notify)
+[2024.04.01-02.21.37:691][211]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.21.37:691][211]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.21.39:384][276]LogNet: Browse: /Game/Maps/IceLevel
+[2024.04.01-02.21.39:384][276]LogLoad: LoadMap: /Game/Maps/IceLevel
+[2024.04.01-02.21.39:384][276]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.21.39:386][276]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.21.39:386][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.21.39:386][276]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.21.39:441][276]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.21.39:445][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.01-02.21.39:448][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.21.39:460][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012086s)
+[2024.04.01-02.21.39:460][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.012160s)
+[2024.04.01-02.21.39:460][276]LogAudio: Display: Audio Device (ID: 55) registered with world 'IceLevel'.
+[2024.04.01-02.21.39:460][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.21.39:461][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.21.39:461][276]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.21.39:462][276]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.21.39:462][276]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.21.39:462][276]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.21.39:462][276]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.21.39:464][276]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.21.39:464][276]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 487 ms)
+[2024.04.01-02.21.39:464][276]LogPlayLevel: PIE: World Init took: (0.004058s)
+[2024.04.01-02.21.39:464][276]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.21.39:469][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.21.39
+[2024.04.01-02.21.39:471][276]LogWorld: Bringing up level for play took: 0.007126
+[2024.04.01-02.21.39:475][276]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.01-02.21.39:475][276]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.04.01-02.21.39:476][276]LogScript: Warning: Script Msg: The widget 'HEALTH_C_2' was already added to the screen.
+[2024.04.01-02.21.39:476][276]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.21.39:476][276]LogLoad: Took 0.092392 seconds to LoadMap(/Game/Maps/UEDPIE_0_IceLevel)
+[2024.04.01-02.21.41:691][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.21.41:691][349]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.21.41:691][349]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.21.41:692][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.21.41:692][349]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.21.41:697][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.21.41:705][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.21.41:722][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.21.41:724][349]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.04.01-02.21.41:724][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.01-02.21.41:726][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.04.01-02.21.41:734][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.01-02.21.42:005][350]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.04.01-02.21.55:766][790]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.01-02.21.55:850][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.01-02.21.56:761][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.21.56:903][811]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.21.56:903][811]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter1C636B4240811038CA8B5CBF4279551F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.21.56:913][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 10.3 sec)
+[2024.04.01-02.21.56:915][811]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.21.56:915][811]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.22.01:490][967]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.22.01:498][967]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.22.01:498][967]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.22.01:500][967]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 151 ms)
+[2024.04.01-02.22.01:501][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.22.01:501][967]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:22:01 PM)
+[2024.04.01-02.22.01:501][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.22.01:513][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011809s)
+[2024.04.01-02.22.01:513][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.011863s)
+[2024.04.01-02.22.01:532][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.01-02.22.01:538][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.22.01:538][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.22.01:538][967]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.22.01:539][967]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.22.01:539][967]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.22.01:539][967]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.22.01:539][967]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.22.01:541][967]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.22.01:541][967]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 489 ms)
+[2024.04.01-02.22.01:541][967]LogPlayLevel: PIE: World Init took: (0.004013s)
+[2024.04.01-02.22.01:541][967]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.22.01:541][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.22.01:541][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.22.01:542][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.22.01:542][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.22.01:542][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.22.01:544][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.22.01:568][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.22.01:568][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.22.01:568][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.22.01:568][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.22.01:572][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.04.01-02.22.01:572][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.04.01-02.22.01:574][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.04.01-02.22.01:574][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.04.01-02.22.01:574][967]LogInit: FAudioDevice initialized with ID 56.
+[2024.04.01-02.22.01:574][967]LogAudio: Display: Audio Device (ID: 56) registered with world 'IceLevel'.
+[2024.04.01-02.22.01:574][967]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.01-02.22.01:577][967]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.22.01:582][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.22.01
+[2024.04.01-02.22.01:584][967]LogWorld: Bringing up level for play took: 0.007452
+[2024.04.01-02.22.01:587][967]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2024.04.01-02.22.01:591][967]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.22.01:592][967]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.22.01:592][967]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.22.01:592][967]PIE: Server logged in
+[2024.04.01-02.22.01:593][967]PIE: Play in editor total start time 0.095 seconds.
+[2024.04.01-02.23.24:895][269]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.23.24:895][269]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.23.26:415][331]Cmd: quit
+[2024.04.01-02.23.26:416][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.23.26:416][331]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.23.26:441][331]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.23.26:442][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.23.26:442][331]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.23.26:459][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.23.26:468][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.23.26:487][331]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.23.26:488][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.04.01-02.23.26:488][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.01-02.23.26:490][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.04.01-02.23.26:494][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.23.26:498][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.01-02.23.26:604][332]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2024.04.01-02.23.35:957][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.23.36:084][664]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.01-02.23.36:084][664]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter3337788B465FB5DA26EECE9A1086218F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.01-02.23.36:093][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 10.5 sec)
+[2024.04.01-02.23.36:096][664]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.01-02.23.36:096][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.01-02.23.40:340][820]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.01-02.23.40:340][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.23.40:340][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.23.49:318][133]BlueprintLog: New page: Compile Fireball
+[2024.04.01-02.23.49:363][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.01-02.23.50:094][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.23.50:194][153]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.01-02.23.50:194][153]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Fireball0195B69E4674064AAF2605A60739B268.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.01-02.23.50:204][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 10.6 sec)
+[2024.04.01-02.23.50:205][153]AssetCheck: New page: Asset Save: Fireball
+[2024.04.01-02.23.50:205][153]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.01-02.24.00:792][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.24.00:889][542]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.01-02.24.00:890][542]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireballDA4F0C10415DED46B10F4E954B1C7072.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.01-02.24.00:899][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 10.7 sec)
+[2024.04.01-02.24.00:899][542]AssetCheck: New page: Asset Save: Fireball
+[2024.04.01-02.24.00:899][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.01-02.24.04:197][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Lightning.Lightning
+[2024.04.01-02.24.04:198][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.24.04:198][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.24.10:888][896]BlueprintLog: New page: Compile Lightning
+[2024.04.01-02.24.10:931][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.01-02.24.11:720][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.24.11:820][921]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Lightning
+[2024.04.01-02.24.11:821][921]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/LightningBD050C6F4304B3A8B81E11A10CBE9894.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Lightning.uasset'
+[2024.04.01-02.24.11:849][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 10.8 sec)
+[2024.04.01-02.24.11:851][921]AssetCheck: New page: Asset Save: Lightning
+[2024.04.01-02.24.11:851][921]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Lightning.Lightning
+[2024.04.01-02.24.14:893][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Blizzard.Blizzard
+[2024.04.01-02.24.14:893][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.24.14:893][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.24.20:043][208]BlueprintLog: New page: Compile Blizzard
+[2024.04.01-02.24.20:087][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.04.01-02.24.20:647][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.01-02.24.20:739][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Blizzard
+[2024.04.01-02.24.20:739][226]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Blizzard1815B1184FC8DDBEE3641F89DEF91B15.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blizzard.uasset'
+[2024.04.01-02.24.20:749][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 10.9 sec)
+[2024.04.01-02.24.20:750][226]AssetCheck: New page: Asset Save: Blizzard
+[2024.04.01-02.24.20:750][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Blizzard.Blizzard
+[2024.04.01-02.24.30:233][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.01-02.24.30:242][466]LogContentBundle: [IceLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.01-02.24.30:242][466]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.01-02.24.30:244][466]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 2 ms (total: 154 ms)
+[2024.04.01-02.24.30:244][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-02.24.30:244][466]PIE: New page: PIE session: IceLevel (Mar 31, 2024, 6:24:30 PM)
+[2024.04.01-02.24.30:244][466]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.24.30:256][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011696s)
+[2024.04.01-02.24.30:256][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/IceLevel.IceLevel to /Game/Maps/UEDPIE_0_IceLevel.IceLevel (0.011751s)
+[2024.04.01-02.24.30:275][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.01-02.24.30:278][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.24.30:278][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.01-02.24.30:278][466]LogAIModule: Creating AISystem for world IceLevel
+[2024.04.01-02.24.30:279][466]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.01-02.24.30:279][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.01-02.24.30:279][466]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.01-02.24.30:279][466]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.01-02.24.30:281][466]LogContentBundle: [IceLevel(Standalone)] Creating new contrainer.
+[2024.04.01-02.24.30:282][466]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 492 ms)
+[2024.04.01-02.24.30:282][466]LogPlayLevel: PIE: World Init took: (0.004214s)
+[2024.04.01-02.24.30:282][466]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-02.24.30:282][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.01-02.24.30:282][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-02.24.30:282][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-02.24.30:282][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-02.24.30:282][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-02.24.30:285][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.01-02.24.30:310][466]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.01-02.24.30:310][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-02.24.30:310][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-02.24.30:310][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-02.24.30:311][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.04.01-02.24.30:312][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.04.01-02.24.30:313][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.04.01-02.24.30:313][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.04.01-02.24.30:313][466]LogInit: FAudioDevice initialized with ID 57.
+[2024.04.01-02.24.30:313][466]LogAudio: Display: Audio Device (ID: 57) registered with world 'IceLevel'.
+[2024.04.01-02.24.30:314][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.01-02.24.30:317][466]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.01-02.24.30:322][466]LogWorld: Bringing World /Game/Maps/UEDPIE_0_IceLevel.IceLevel up for play (max tick rate 0) at 2024.03.31-22.24.30
+[2024.04.01-02.24.30:325][466]LogWorld: Bringing up level for play took: 0.007816
+[2024.04.01-02.24.30:327][466]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2024.04.01-02.24.30:331][466]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.01-02.24.30:332][466]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.01-02.24.30:332][466]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_IceLevel.IceLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.01-02.24.30:332][466]PIE: Server logged in
+[2024.04.01-02.24.30:333][466]PIE: Play in editor total start time 0.092 seconds.
+[2024.04.01-02.25.04:469][719]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-28.58 Y=599.32 Z=0.00 Location: X=2438.79 Y=2088.11 Z=113.61 Normal: X=0.16 Y=-0.93 Z=-0.33 PenetrationDepth:6.731 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2024.04.01-02.25.05:486][772]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-78.95 Y=594.78 Z=0.00 Location: X=2443.15 Y=2085.31 Z=113.51 Normal: X=0.19 Y=-0.93 Z=-0.32 PenetrationDepth:3.318 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2024.04.01-02.25.06:490][826]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-79.84 Y=594.66 Z=0.00 Location: X=2442.84 Y=2085.19 Z=113.49 Normal: X=0.19 Y=-0.93 Z=-0.32 PenetrationDepth:3.265 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (21 other events since notify)
+[2024.04.01-02.25.07:508][870]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-89.70 Y=593.26 Z=0.00 Location: X=2443.69 Y=2084.65 Z=113.47 Normal: X=0.20 Y=-0.93 Z=-0.32 PenetrationDepth:2.589 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (14 other events since notify)
+[2024.04.01-02.25.08:513][910]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-66.43 Y=596.31 Z=0.00 Location: X=2441.90 Y=2084.36 Z=113.47 Normal: X=0.18 Y=-0.93 Z=-0.32 PenetrationDepth:2.663 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2024.04.01-02.25.09:769][963]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-596.06 Y=68.62 Z=0.00 Location: X=2362.09 Y=2067.59 Z=113.47 Normal: X=0.27 Y=-0.76 Z=-0.59 PenetrationDepth:1.307 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (14 other events since notify)
+[2024.04.01-02.25.10:779][  7]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-594.72 Y=79.42 Z=0.00 Location: X=2362.98 Y=2065.14 Z=113.45 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.626 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (43 other events since notify)
+[2024.04.01-02.25.11:793][ 50]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-594.72 Y=79.42 Z=0.00 Location: X=2362.98 Y=2065.14 Z=113.45 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.626 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2024.04.01-02.25.12:795][ 91]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-594.72 Y=79.42 Z=0.00 Location: X=2362.98 Y=2065.14 Z=113.45 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.626 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (40 other events since notify)
+[2024.04.01-02.25.13:798][131]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-594.72 Y=79.42 Z=0.00 Location: X=2362.98 Y=2065.14 Z=113.45 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.626 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.14:807][171]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-436.46 Y=-153.06 Z=0.00 Location: X=2361.10 Y=2064.41 Z=113.39 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.602 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.15:835][205]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-566.19 Y=-198.56 Z=0.00 Location: X=2361.10 Y=2064.41 Z=113.39 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.602 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (33 other events since notify)
+[2024.04.01-02.25.16:842][245]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-566.19 Y=-198.56 Z=0.00 Location: X=2361.10 Y=2064.41 Z=113.39 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.602 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.17:860][287]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-566.19 Y=-198.56 Z=0.00 Location: X=2361.10 Y=2064.41 Z=113.39 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.602 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (41 other events since notify)
+[2024.04.01-02.25.18:867][327]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-566.19 Y=-198.56 Z=0.00 Location: X=2361.10 Y=2064.41 Z=113.39 Normal: X=0.27 Y=-0.66 Z=-0.70 PenetrationDepth:0.602 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.21:164][415]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-556.63 Y=-223.98 Z=0.00 Location: X=2137.97 Y=1817.80 Z=113.44 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:0.046 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2024.04.01-02.25.22:170][455]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-573.27 Y=-177.10 Z=0.00 Location: X=2137.97 Y=1817.80 Z=113.44 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:0.046 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.23:178][496]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-573.27 Y=-177.10 Z=0.00 Location: X=2137.97 Y=1817.80 Z=113.44 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:0.046 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (40 other events since notify)
+[2024.04.01-02.25.24:186][536]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-573.27 Y=-177.10 Z=0.00 Location: X=2137.97 Y=1817.80 Z=113.44 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:0.046 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.25:195][571]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-573.27 Y=-177.10 Z=0.00 Location: X=2137.97 Y=1817.80 Z=113.44 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:0.046 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (34 other events since notify)
+[2024.04.01-02.25.26:877][634]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-576.24 Y=167.17 Z=0.00 Location: X=2142.78 Y=1895.77 Z=113.64 Normal: X=0.44 Y=-0.13 Z=-0.89 PenetrationDepth:8.894 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (24 other events since notify)
+[2024.04.01-02.25.27:880][672]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-572.38 Y=179.94 Z=0.00 Location: X=2142.23 Y=1893.98 Z=113.64 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:8.893 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (31 other events since notify)
+[2024.04.01-02.25.31:491][817]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-18.11 Y=44.72 Z=0.00 Location: X=2142.22 Y=1893.96 Z=113.64 Normal: X=0.44 Y=-0.14 Z=-0.89 PenetrationDepth:8.893 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (22 other events since notify)
+[2024.04.01-02.25.32:501][861]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-247.94 Y=546.38 Z=0.00 Location: X=2144.01 Y=1898.86 Z=113.44 Normal: X=0.43 Y=-0.11 Z=-0.90 PenetrationDepth:8.549 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (41 other events since notify)
+[2024.04.01-02.25.33:511][901]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-247.94 Y=546.38 Z=0.00 Location: X=2144.01 Y=1898.86 Z=113.44 Normal: X=0.43 Y=-0.11 Z=-0.90 PenetrationDepth:8.549 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.34:516][942]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-247.94 Y=546.38 Z=0.00 Location: X=2144.01 Y=1898.86 Z=113.44 Normal: X=0.43 Y=-0.11 Z=-0.90 PenetrationDepth:8.549 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (40 other events since notify)
+[2024.04.01-02.25.35:532][976]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-247.94 Y=546.38 Z=0.00 Location: X=2144.01 Y=1898.86 Z=113.44 Normal: X=0.43 Y=-0.11 Z=-0.90 PenetrationDepth:8.549 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (33 other events since notify)
+[2024.04.01-02.25.36:528][ 12]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.34 Y=1900.21 Z=113.43 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (35 other events since notify)
+[2024.04.01-02.25.37:532][ 52]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.34 Y=1900.21 Z=113.43 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (39 other events since notify)
+[2024.04.01-02.25.38:540][ 94]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.34 Y=1900.21 Z=113.43 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (41 other events since notify)
+[2024.04.01-02.25.39:547][137]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.34 Y=1900.21 Z=113.43 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2024.04.01-02.25.40:556][180]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.34 Y=1900.21 Z=113.43 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2024.04.01-02.25.41:561][223]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.29 Y=1900.30 Z=113.41 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.088 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2024.04.01-02.25.42:570][266]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.29 Y=1900.30 Z=113.41 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.088 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (42 other events since notify)
+[2024.04.01-02.25.43:587][310]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.29 Y=1900.30 Z=113.41 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.088 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (43 other events since notify)
+[2024.04.01-02.25.44:602][356]LogCharacterMovement: BP_IceGolem_C_UAID_047C16DA9300E9E601_1986069054 is stuck and failed to move! Velocity: X=-253.54 Y=543.80 Z=0.00 Location: X=2144.29 Y=1900.30 Z=113.41 Normal: X=0.06 Y=-0.13 Z=-0.99 PenetrationDepth:0.088 Actor:StaticMeshActor_UAID_047C16DA930034E701_1281386251 Component:StaticMeshComponent0 BoneName:None (45 other events since notify)
+[2024.04.01-02.25.47:227][480]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.01-02.25.47:227][480]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.01-02.25.48:352][541]Cmd: quit
+[2024.04.01-02.25.48:353][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.25.48:353][541]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_IceLevel
+[2024.04.01-02.25.48:390][541]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-02.25.48:391][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.25.48:392][541]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.01-02.25.48:396][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-02.25.48:410][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-02.25.48:429][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-02.25.48:430][541]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.04.01-02.25.48:430][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.01-02.25.48:432][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.04.01-02.25.48:436][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-02.25.48:442][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.04.01-02.25.49:052][542]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.04.01-02.28.18:385][251]LogSlate: External Image Picker: DecompressImage failed
+[2024.04.01-02.28.23:610][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.01-02.28.27:563][666]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.01-02.28.27:587][666]LogSlate: Window 'Project Settings' being destroyed
