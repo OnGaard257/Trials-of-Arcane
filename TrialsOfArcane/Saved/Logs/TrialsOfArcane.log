@@ -2953,3 +2953,129 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.05-06.24.03:748][726]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/RotatingGear2.RotatingGear2_C /Game/Maps/LightningLevel.LightningLevel:PersistentLevel.RotatingGear2_C_UAID_047C16DA9300CAE801_1590980716
 [2024.04.05-06.24.03:748][726]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/RotatingGear.RotatingGear_C /Game/Maps/LightningLevel.LightningLevel:PersistentLevel.RotatingGear_C_UAID_047C16DA9300CAE801_1590978715
 [2024.04.05-06.24.03:748][726]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/ShockCrystal.ShockCrystal_C /Game/Maps/LightningLevel.LightningLevel:PersistentLevel.ShockCrystal_C_UAID_047C16DA93001DE901_1506442313
+[2024.04.05-06.24.28:703][142]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/ShockCrystal.ShockCrystal
+[2024.04.05-06.24.28:703][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-06.24.28:703][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-06.24.57:216][808]BlueprintLog: New page: Compile ShockCrystal
+[2024.04.05-06.24.57:253][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.05-06.24.57:878][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-06.24.57:983][843]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/ShockCrystal
+[2024.04.05-06.24.57:983][843]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/ShockCrystalC4F76903498BF4BECFE0C7959165EFCC.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/ShockCrystal.uasset'
+[2024.04.05-06.24.57:993][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.47 sec)
+[2024.04.05-06.24.57:995][843]AssetCheck: New page: Asset Save: ShockCrystal
+[2024.04.05-06.24.57:995][843]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/ShockCrystal.ShockCrystal
+[2024.04.05-06.24.59:915][985]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.05-06.24.59:924][985]LogContentBundle: [LightningLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.05-06.24.59:924][985]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.05-06.24.59:925][985]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 1 ms (total: 2.05 sec)
+[2024.04.05-06.24.59:926][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.05-06.24.59:926][985]PIE: New page: PIE session: LightningLevel (Apr 4, 2024, 10:24:59 PM)
+[2024.04.05-06.24.59:926][985]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LightningLevel
+[2024.04.05-06.24.59:932][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005425s)
+[2024.04.05-06.24.59:932][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LightningLevel.LightningLevel to /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel (0.005469s)
+[2024.04.05-06.24.59:948][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.05-06.24.59:951][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-06.24.59:951][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-06.24.59:951][985]LogAIModule: Creating AISystem for world LightningLevel
+[2024.04.05-06.24.59:952][985]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.05-06.24.59:952][985]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-06.24.59:952][985]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-06.24.59:952][985]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.05-06.24.59:953][985]LogContentBundle: [LightningLevel(Standalone)] Creating new contrainer.
+[2024.04.05-06.24.59:953][985]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.49 sec)
+[2024.04.05-06.24.59:953][985]LogPlayLevel: PIE: World Init took: (0.002692s)
+[2024.04.05-06.24.59:953][985]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.05-06.24.59:953][985]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.05-06.24.59:953][985]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.05-06.24.59:954][985]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.05-06.24.59:954][985]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.05-06.24.59:954][985]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.05-06.24.59:956][985]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.05-06.24.59:980][985]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.05-06.24.59:981][985]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.05-06.24.59:981][985]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.05-06.24.59:981][985]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.05-06.24.59:982][985]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.05-06.24.59:982][985]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.05-06.24.59:983][985]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.05-06.24.59:983][985]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.05-06.24.59:983][985]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.05-06.24.59:983][985]LogAudio: Display: Audio Device (ID: 17) registered with world 'LightningLevel'.
+[2024.04.05-06.24.59:983][985]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.05-06.24.59:986][985]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.05-06.24.59:988][985]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel up for play (max tick rate 0) at 2024.04.05-02.24.59
+[2024.04.05-06.24.59:989][985]LogWorld: Bringing up level for play took: 0.002251
+[2024.04.05-06.24.59:991][985]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.04.05-06.24.59:994][985]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.05-06.24.59:995][985]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.05-06.24.59:995][985]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.05-06.24.59:995][985]PIE: Server logged in
+[2024.04.05-06.24.59:996][985]PIE: Play in editor total start time 0.072 seconds.
+[2024.04.05-06.25.10:328][886]LogNet: Browse: /Game/Maps/LightningLevel
+[2024.04.05-06.25.10:328][886]LogLoad: LoadMap: /Game/Maps/LightningLevel
+[2024.04.05-06.25.10:328][886]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LightningLevel
+[2024.04.05-06.25.10:329][886]LogWorld: UWorld::CleanupWorld for LightningLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-06.25.10:330][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-06.25.10:330][886]LogContentBundle: [LightningLevel(Standalone)] Deleting container.
+[2024.04.05-06.25.10:386][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.05-06.25.10:390][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.05-06.25.10:392][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LightningLevel
+[2024.04.05-06.25.10:398][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005618s)
+[2024.04.05-06.25.10:398][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LightningLevel.LightningLevel to /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel (0.005675s)
+[2024.04.05-06.25.10:398][886]LogAudio: Display: Audio Device (ID: 17) registered with world 'LightningLevel'.
+[2024.04.05-06.25.10:398][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.05-06.25.10:398][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.05-06.25.10:399][886]LogAIModule: Creating AISystem for world LightningLevel
+[2024.04.05-06.25.10:399][886]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.05-06.25.10:399][886]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.05-06.25.10:399][886]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.05-06.25.10:399][886]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.05-06.25.10:401][886]LogContentBundle: [LightningLevel(Standalone)] Creating new contrainer.
+[2024.04.05-06.25.10:401][886]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 2.49 sec)
+[2024.04.05-06.25.10:401][886]LogPlayLevel: PIE: World Init took: (0.002635s)
+[2024.04.05-06.25.10:401][886]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.05-06.25.10:402][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel up for play (max tick rate 0) at 2024.04.05-02.25.10
+[2024.04.05-06.25.10:403][886]LogWorld: Bringing up level for play took: 0.001909
+[2024.04.05-06.25.10:407][886]LogScript: Warning: Script Msg: The widget 'HEALTH_C_1' was already added to the screen.
+[2024.04.05-06.25.10:407][886]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_LightningLevel.LightningLevel:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.05-06.25.10:407][886]LogLoad: Took 0.078620 seconds to LoadMap(/Game/Maps/UEDPIE_0_LightningLevel)
+[2024.04.05-06.25.28:072][399]LogChaos: Warning: Degenerate triangle 8855: (81.434143 -83.229248 22.104065) (84.689453 -79.976074 22.104065) (84.688354 -79.974854 22.104065)
+[2024.04.05-06.25.28:072][399]LogChaos: Warning: Degenerate triangle 8855: (81.434143 -83.229248 22.104065) (84.689453 -79.976074 22.104065) (84.688354 -79.974854 22.104065)
+[2024.04.05-06.25.28:072][399]LogChaos: Warning: Degenerate triangle 8855: (81.434143 -83.229248 22.104065) (84.689453 -79.976074 22.104065) (84.688354 -79.974854 22.104065)
+[2024.04.05-06.25.32:486][818]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.05-06.25.32:488][818]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.05-06.25.34:889][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-06.25.34:889][ 52]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LightningLevel
+[2024.04.05-06.25.34:889][ 52]LogWorld: UWorld::CleanupWorld for LightningLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.05-06.25.34:890][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-06.25.34:890][ 52]LogContentBundle: [LightningLevel(Standalone)] Deleting container.
+[2024.04.05-06.25.34:893][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.05-06.25.34:900][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.05-06.25.34:918][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.05-06.25.34:918][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.05-06.25.34:918][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.05-06.25.34:920][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.05-06.25.34:928][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.05-06.25.34:983][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.04.05-06.26.07:488][ 51]BlueprintLog: New page: Compile ShockCrystal
+[2024.04.05-06.26.07:524][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.05-06.26.08:458][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-06.26.08:562][103]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/ShockCrystal
+[2024.04.05-06.26.08:563][103]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/ShockCrystalE24008004703C7F9B1B83FA24E206201.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/ShockCrystal.uasset'
+[2024.04.05-06.26.08:573][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.58 sec)
+[2024.04.05-06.26.08:573][103]AssetCheck: New page: Asset Save: ShockCrystal
+[2024.04.05-06.26.08:573][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/ShockCrystal.ShockCrystal
+[2024.04.05-06.26.26:401][198]BlueprintLog: New page: Compile ShockCrystal
+[2024.04.05-06.26.26:436][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.05-06.26.27:017][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.05-06.26.27:120][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/ShockCrystal
+[2024.04.05-06.26.27:120][226]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/ShockCrystalD97EE0674DC448C1CBAC65B74382AEE6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/ShockCrystal.uasset'
+[2024.04.05-06.26.27:128][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.69 sec)
+[2024.04.05-06.26.27:130][226]AssetCheck: New page: Asset Save: ShockCrystal
+[2024.04.05-06.26.27:130][226]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/ShockCrystal.ShockCrystal
