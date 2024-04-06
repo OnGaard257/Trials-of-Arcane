@@ -1763,3 +1763,32 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.04.06-04.50.44:116][999]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/ice_shot_standardSurface1_BaseColor_sRGB.ice_shot_standardSurface1_BaseColor_sRGB
 [2024.04.06-04.50.44:116][999]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/ice_shot_standardSurface1_Normal_Raw.ice_shot_standardSurface1_Normal_Raw
 [2024.04.06-04.50.44:116][999]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/ice_shot_standardSurface1_OcclusionRoughnessMetallic_Raw.ice_shot_standardSurface1_OcclusionRoughnessMetallic_Raw
+[2024.04.06-04.51.31:562][778]BlueprintLog: New page: Compile Fireball
+[2024.04.06-04.51.31:593][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.06-04.51.41:674][388]BlueprintLog: New page: Compile Blizzard
+[2024.04.06-04.51.41:704][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.06-04.51.42:650][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.06-04.51.42:755][440]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Blizzard
+[2024.04.06-04.51.42:755][440]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Blizzard8FC585C44A65D09DDD5688A9BC7EE33F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blizzard.uasset'
+[2024.04.06-04.51.42:763][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.00 sec)
+[2024.04.06-04.51.42:766][440]AssetCheck: New page: Asset Save: Blizzard
+[2024.04.06-04.51.42:766][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Blizzard.Blizzard
+[2024.04.06-04.51.43:807][494]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Lightning.Lightning
+[2024.04.06-04.51.43:807][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.06-04.51.43:807][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.06-04.51.48:634][767]BlueprintLog: New page: Compile Lightning
+[2024.04.06-04.51.48:671][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.06-04.51.49:400][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.06-04.51.49:508][807]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Lightning
+[2024.04.06-04.51.49:508][807]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Lightning7414CED2487FEC10F88058BEFA0EB00A.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Lightning.uasset'
+[2024.04.06-04.51.49:516][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.12 sec)
+[2024.04.06-04.51.49:517][807]AssetCheck: New page: Asset Save: Lightning
+[2024.04.06-04.51.49:517][807]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Lightning.Lightning
+[2024.04.06-04.51.56:421][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.06-04.51.57:291][240]LogSlate: Window 'Save Content' being destroyed
+[2024.04.06-04.51.57:300][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.06-04.51.57:385][240]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.06-04.51.57:385][240]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Fireball7F0220CA4CE824144C20CFB2424BF3D3.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.06-04.51.57:393][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.21 sec)
+[2024.04.06-04.51.57:396][240]AssetCheck: New page: Asset Save: Fireball
+[2024.04.06-04.51.57:396][240]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
