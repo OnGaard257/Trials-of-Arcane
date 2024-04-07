@@ -3749,3 +3749,389 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.07-00.25.06:631][925]LogViewport: Scene viewport resized to 1200x681, mode Windowed.
 [2024.04.07-00.25.06:706][926]LogViewport: Scene viewport resized to 1200x687, mode Windowed.
 [2024.04.07-00.25.06:779][927]LogViewport: Scene viewport resized to 1200x693, mode Windowed.
+[2024.04.07-00.28.12:001][884]LogViewport: Scene viewport resized to 919x473, mode Windowed.
+[2024.04.07-00.28.12:800][884]LogViewport: Scene viewport resized to 1200x693, mode Windowed.
+[2024.04.07-00.28.45:150][101]LogViewport: Scene viewport resized to 1200x690, mode Windowed.
+[2024.04.07-00.28.45:230][102]LogViewport: Scene viewport resized to 1200x663, mode Windowed.
+[2024.04.07-00.28.45:300][103]LogViewport: Scene viewport resized to 1200x599, mode Windowed.
+[2024.04.07-00.28.45:370][104]LogViewport: Scene viewport resized to 1200x552, mode Windowed.
+[2024.04.07-00.28.45:444][105]LogViewport: Scene viewport resized to 1200x495, mode Windowed.
+[2024.04.07-00.28.45:498][106]LogViewport: Scene viewport resized to 1200x444, mode Windowed.
+[2024.04.07-00.28.45:560][107]LogViewport: Scene viewport resized to 1200x420, mode Windowed.
+[2024.04.07-00.28.45:614][108]LogViewport: Scene viewport resized to 1200x382, mode Windowed.
+[2024.04.07-00.28.45:669][109]LogViewport: Scene viewport resized to 1200x334, mode Windowed.
+[2024.04.07-00.28.45:724][110]LogViewport: Scene viewport resized to 1200x297, mode Windowed.
+[2024.04.07-00.28.45:837][111]LogViewport: Scene viewport resized to 1200x281, mode Windowed.
+[2024.04.07-00.28.58:592][532]LogInterchangeEngine: [Pending] Importing
+[2024.04.07-00.28.58:592][532]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downloads/magmaBall/magma/fireball_standardSurface1_Normal_Raw.1001.png]
+[2024.04.07-00.28.58:593][532]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.07-00.28.58:593][532]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downloads/magmaBall/magma/fireball_standardSurface1_OcclusionRoughnessMetallic_Raw.1001.png]
+[2024.04.07-00.28.58:614][532]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\Downloads\magmaBall\magma\fireball.fbx)
+[2024.04.07-00.28.58:784][532]LogFbx: Loading FBX Scene from C:\Users\Owner\Downloads\magmaBall\magma\fireball.fbx
+[2024.04.07-00.28.58:842][532]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.07-00.28.59:089][532]LogTexture: Display: Building textures: /Game/Models/fireball_standardSurface1_OcclusionRoughnessMetallic_Raw.fireball_standardSurface1_OcclusionRoughnessMetallic_Raw (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.07-00.28.59:146][532]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.07-00.28.59:175][532]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.07-00.28.59:180][532]LogTexture: Display: Building textures: /Game/Models/fireball_standardSurface1_Normal_Raw.fireball_standardSurface1_Normal_Raw (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.04.07-00.28.59:206][532]LogInterchangeEngine: [Success] Import Done
+[2024.04.07-00.29.00:244][532]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.07-00.29.00:495][532]LogFbx: Display: Triangulating static mesh pPlatonic1
+[2024.04.07-00.29.02:205][532]LogStaticMesh: Display: Building static mesh fireball...
+[2024.04.07-00.29.02:727][532]LogStaticMesh: Built static mesh [0.52s] /Game/Models/fireball.fireball
+[2024.04.07-00.29.03:087][532]LogInterchangeEngine: [Pending] Importing
+[2024.04.07-00.29.03:087][532]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downloads/magmaBall/magma/fireball_standardSurface1_BaseColor_sRGB.1001.png]
+[2024.04.07-00.29.03:087][532]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.07-00.29.03:088][532]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downloads/magmaBall/magma/fireball_standardSurface1_Emissive_sRGB.1001.png]
+[2024.04.07-00.29.03:209][533]LogTexture: Display: Building textures: /Game/Models/fireball_standardSurface1_Emissive_sRGB.fireball_standardSurface1_Emissive_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.07-00.29.03:233][533]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.07-00.29.03:245][533]LogInterchangeEngine: [Success] Import Done
+[2024.04.07-00.29.03:263][533]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.07-00.29.03:284][533]LogTexture: Display: Building textures: /Game/Models/fireball_standardSurface1_BaseColor_sRGB.fireball_standardSurface1_BaseColor_sRGB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.07-00.29.03:397][533]LogInterchangeEngine: [Success] Import Done
+[2024.04.07-00.29.03:509][534]LogInterchangeEngine: [Success] Import Done
+[2024.04.07-00.29.22:804][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.07-00.29.24:726][334]LogSlate: Window 'Save Content' being destroyed
+[2024.04.07-00.29.24:747][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.29.24:878][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/fireball" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball.uasset" SILENT=true
+[2024.04.07-00.29.24:904][334]LogSavePackage: Moving output files for package: /Game/Models/fireball
+[2024.04.07-00.29.24:904][334]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireballDF00BF6B4AF5C68ABF5B4F89BFF4AD8A.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball.uasset'
+[2024.04.07-00.29.25:003][334]LogSavePackage: Moving output files for package: /Game/Models/fireball_standardSurface1_BaseColor_sRGB
+[2024.04.07-00.29.25:003][334]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireball_standardSurface1_BaseCo7ED82E8249657BA331D212B64FC47405.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball_standardSurface1_BaseColor_sRGB.uasset'
+[2024.04.07-00.29.25:061][334]LogSavePackage: Moving output files for package: /Game/Models/fireball_standardSurface1_Emissive_sRGB
+[2024.04.07-00.29.25:061][334]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireball_standardSurface1_Emissi3F8F1AD24DB79A445D1888A190F58F16.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball_standardSurface1_Emissive_sRGB.uasset'
+[2024.04.07-00.29.25:130][334]LogSavePackage: Moving output files for package: /Game/Models/fireball_standardSurface1_Normal_Raw
+[2024.04.07-00.29.25:130][334]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireball_standardSurface1_NormalB7A95BF142096D530AD41E9FD1911CF0.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball_standardSurface1_Normal_Raw.uasset'
+[2024.04.07-00.29.25:212][334]LogSavePackage: Moving output files for package: /Game/Models/fireball_standardSurface1_OcclusionRoughnessMetallic_Raw
+[2024.04.07-00.29.25:212][334]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireball_standardSurface1_Occlus7468CE314C826DAEED15509EAE9A4C3C.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball_standardSurface1_OcclusionRoughnessMetallic_Raw.uasset'
+[2024.04.07-00.29.25:220][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 472 ms (total: 5.25 sec)
+[2024.04.07-00.29.25:220][334]Cmd: MAP LOAD FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/AcademyHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.07-00.29.25:220][334]LightingResults: New page: Lighting Build
+[2024.04.07-00.29.25:220][334]LoadErrors: New page: Loading map: AcademyHub.umap
+[2024.04.07-00.29.25:253][334]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.29.25:253][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.29.25:255][334]LogContentBundle: [IceLevel(Standalone)] Deleting container.
+[2024.04.07-00.29.25:255][334]MapCheck: New page: Map Check
+[2024.04.07-00.29.25:255][334]LightingResults: New page: Lighting Build
+[2024.04.07-00.29.25:269][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.07-00.29.25:274][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.07-00.29.25:295][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'AcademyHub'.
+[2024.04.07-00.29.25:296][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.29.25:296][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-00.29.25:296][334]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.07-00.29.25:297][334]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.04.07-00.29.25:297][334]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-00.29.25:297][334]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.07-00.29.25:335][334]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.07-00.29.25:335][334]LogWorldPartition: Display: WorldPartition initialize took 39 ms (total: 9.97 sec)
+[2024.04.07-00.29.25:403][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.07-00.29.25:425][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.07-00.29.25:431][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.07-00.29.25:431][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.291ms to complete.
+[2024.04.07-00.29.25:431][334]LogSlate: Window 'Open Level' being destroyed
+[2024.04.07-00.29.25:441][334]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.07-00.29.25:441][334]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.29.25:441][334]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/fireball_standardSurface1_BaseColor_sRGB.fireball_standardSurface1_BaseColor_sRGB
+[2024.04.07-00.29.25:441][334]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/fireball_standardSurface1_Emissive_sRGB.fireball_standardSurface1_Emissive_sRGB
+[2024.04.07-00.29.25:441][334]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/fireball_standardSurface1_Normal_Raw.fireball_standardSurface1_Normal_Raw
+[2024.04.07-00.29.25:441][334]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/fireball_standardSurface1_OcclusionRoughnessMetallic_Raw.fireball_standardSurface1_OcclusionRoughnessMetallic_Raw
+[2024.04.07-00.29.27:033][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.29.27:042][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.29.27:042][431]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/fireball.fireball as actor: StaticMeshActor /Game/Maps/AcademyHub.AcademyHub:PersistentLevel.StaticMeshActor_2
+[2024.04.07-00.29.27:736][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.29.27:737][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.29.27:739][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/fireball.fireball as actor: StaticMeshActor /Game/Maps/AcademyHub.AcademyHub:PersistentLevel.StaticMeshActor_UAID_047C16DA9300AAE901_1808874127
+[2024.04.07-00.29.34:360][950]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: ================================================
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Total job queries 35, among them cache hits 4 (11.43%)
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 27 distinct outputs (87.10%)
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: RAM used: 788.93 KiB of 2.40 GiB budget. Usage: 0.03%
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Job execution time: average 2.37 s, max 2.37 s
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Job life time (pending + execution): average 2.37 s, max 2.37
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Shader code size: average 67.633 KiB, min 67.633 KiB, max 67.633 KiB
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.37 s
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Average processing rate: 0.42 jobs/sec
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Total thread time: 0.394 s
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Total thread preprocess time: 0.042 s
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Percentage time preprocessing: 10.63%
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Effective parallelization: 0.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.04.07-00.29.35:569][ 28]LogShaderCompilers: Display: ================================================
+[2024.04.07-00.29.37:418][124]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/fireball_standardSurface1_BaseColor_sRGB_Mat.fireball_standardSurface1_BaseColor_sRGB_Mat
+[2024.04.07-00.29.37:528][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.29.37:528][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-00.29.37:895][124]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.04.07-00.29.38:185][124]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.29.38:185][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.07-00.29.38:185][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.29.38:185][124]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.29.38:205][124]LogViewport: Scene viewport resized to 286x319, mode Windowed.
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.29.38:396][126]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.29.44:231][369]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.29.44:231][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.29.44:239][369]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.29.44:239][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.29.45:330][425]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.29.45:330][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.29.45:337][425]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.29.45:338][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.29.55:231][922]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.29.55:231][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.07-00.29.55:231][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.29.55:231][922]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.29.55:325][924]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.29.58:617][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.29.58:618][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.29.58:618][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.29.58:618][ 83]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.00:675][179]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.07-00.30.00:675][179]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.30.00:675][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.00:675][179]MaterialEditorStats: Shader Count: 1
+[2024.04.07-00.30.00:721][181]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.00:721][181]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.07-00.30.00:721][181]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.30.00:721][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.00:721][181]MaterialEditorStats: Shader Count: 3
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.00:925][190]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.02:056][232]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.30.02:056][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.30.02:056][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.02:056][232]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.02:141][234]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.03:974][318]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.30.03:974][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.07-00.30.03:974][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.03:974][318]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.04:233][329]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.07-00.30.04:233][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.07-00.30.04:233][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.04:233][329]MaterialEditorStats: Shader Count: 1
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.04:429][339]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.07:219][463]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.30.07:219][463]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.07-00.30.07:219][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.07:219][463]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.07:311][465]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.15:912][860]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.30.15:912][860]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.15:912][860]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.15:912][860]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.16:187][869]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.07-00.30.16:187][869]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.16:187][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.16:187][869]MaterialEditorStats: Shader Count: 1
+[2024.04.07-00.30.16:401][877]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.04.07-00.30.16:402][877]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.16:402][877]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.07-00.30.16:402][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.16:402][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.16:402][877]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.19:534][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.07-00.30.19:534][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.19:534][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.19:534][ 29]MaterialEditorStats: Shader Count: 0
+[2024.04.07-00.30.19:819][ 41]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.07-00.30.19:819][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.19:819][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.19:819][ 41]MaterialEditorStats: Shader Count: 1
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.20:023][ 51]MaterialEditorStats: Shader Count: 4
+[2024.04.07-00.30.25:067][301]LogMaterialEditor: Saving and Compiling material fireball_standardSurface1_BaseColor_sRGB_Mat
+[2024.04.07-00.30.25:484][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.07-00.30.26:145][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.07-00.30.26:158][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.30.27:086][301]LogSavePackage: Moving output files for package: /Game/Models/fireball_standardSurface1_BaseColor_sRGB_Mat
+[2024.04.07-00.30.27:086][301]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/fireball_standardSurface1_BaseCo627E91FB4B3546D3753C06962D8FB78E.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/fireball_standardSurface1_BaseColor_sRGB_Mat.uasset'
+[2024.04.07-00.30.27:096][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 937 ms (total: 6.19 sec)
+[2024.04.07-00.30.27:096][301]AssetCheck: New page: Asset Save: fireball_standardSurface1_BaseColor_sRGB_Mat
+[2024.04.07-00.30.27:096][301]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/fireball_standardSurface1_BaseColor_sRGB_Mat.fireball_standardSurface1_BaseColor_sRGB_Mat
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.07-00.30.27:102][301]MaterialEditorStats: Shader Count: 16
+[2024.04.07-00.30.37:550][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.30.37:550][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.30.37:550][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/fireball.fireball as actor: StaticMeshActor /Game/Maps/AcademyHub.AcademyHub:PersistentLevel.StaticMeshActor_3
+[2024.04.07-00.30.37:846][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.30.37:846][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/fireball.fireball
+[2024.04.07-00.30.37:848][829]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/fireball.fireball as actor: StaticMeshActor /Game/Maps/AcademyHub.AcademyHub:PersistentLevel.StaticMeshActor_UAID_047C16DA9300AAE901_1878982128
+[2024.04.07-00.30.43:025][ 98]Cmd: DELETE
+[2024.04.07-00.30.43:025][ 98]Cmd: ACTOR DELETE
+[2024.04.07-00.30.43:028][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.07-00.30.43:048][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.07-00.30.43:052][ 98]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.04.07-00.31.01:982][979]BlueprintLog: New page: Compile Fireball
+[2024.04.07-00.31.02:023][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.07-00.31.11:348][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.31.11:419][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.07-00.31.11:419][430]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireballAE07E4B946306EB71C0336A66FA1AECD.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.07-00.31.11:429][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.27 sec)
+[2024.04.07-00.31.11:430][430]AssetCheck: New page: Asset Save: Fireball
+[2024.04.07-00.31.11:430][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.07-00.31.23:473][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.31.23:548][ 76]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.07-00.31.23:548][ 76]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Fireball7D694C984D2132F6D9E46CBDBA0B1B39.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.07-00.31.23:556][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 6.35 sec)
+[2024.04.07-00.31.23:558][ 76]AssetCheck: New page: Asset Save: Fireball
+[2024.04.07-00.31.23:558][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.07-00.31.35:364][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.31.35:434][691]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Fireball
+[2024.04.07-00.31.35:434][691]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireballFABD61E148DE680614ECEAB81E2210F9.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Fireball.uasset'
+[2024.04.07-00.31.35:443][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 6.43 sec)
+[2024.04.07-00.31.35:445][691]AssetCheck: New page: Asset Save: Fireball
+[2024.04.07-00.31.35:445][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Fireball.Fireball
+[2024.04.07-00.31.35:893][714]BlueprintLog: New page: Compile Fireball
+[2024.04.07-00.31.35:929][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.07-00.32.31:096][ 29]LogDerivedDataCache: C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.147 and deleted 82 files with total size 2 MiB and 80 empty folders. Scanned 17778 files in 19906 folders with total size 1962 MiB.
+[2024.04.07-00.32.35:528][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.07-00.32.36:568][ 77]LogSlate: Window 'Save Content' being destroyed
+[2024.04.07-00.32.36:583][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.07-00.32.36:641][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/AcademyHub/4/04/3QFZQJBTHA68FR650SQXN1
+[2024.04.07-00.32.36:641][ 77]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/3QFZQJBTHA68FR650SQXN17EBCA9084D3AC0DC1AB1E18964453B83.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/AcademyHub/4/04/3QFZQJBTHA68FR650SQXN1.uasset'
+[2024.04.07-00.32.36:668][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 6.52 sec)
+[2024.04.07-00.32.36:670][ 77]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_047C16DA9300AAE901_1808874127
+[2024.04.07-00.32.36:670][ 77]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/AcademyHub.AcademyHub:PersistentLevel.StaticMeshActor_UAID_047C16DA9300AAE901_1808874127
+[2024.04.07-00.32.49:131][553]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.07-00.32.49:138][553]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.07-00.32.49:138][553]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.07-00.32.49:139][553]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 562 ms)
+[2024.04.07-00.32.49:140][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.07-00.32.49:140][553]PIE: New page: PIE session: AcademyHub (Apr 6, 2024, 4:32:49 PM)
+[2024.04.07-00.32.49:140][553]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.07-00.32.49:143][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004130s)
+[2024.04.07-00.32.49:143][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004163s)
+[2024.04.07-00.32.49:159][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.07-00.32.49:161][553]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.32.49:161][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.07-00.32.49:162][553]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.07-00.32.49:163][553]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.07-00.32.49:163][553]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.07-00.32.49:163][553]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.07-00.32.49:163][553]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.07-00.32.49:164][553]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.07-00.32.49:164][553]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 9.97 sec)
+[2024.04.07-00.32.49:164][553]LogPlayLevel: PIE: World Init took: (0.002808s)
+[2024.04.07-00.32.49:164][553]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.07-00.32.49:164][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.07-00.32.49:164][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.07-00.32.49:164][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.07-00.32.49:164][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.07-00.32.49:164][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.07-00.32.49:167][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.07-00.32.49:194][553]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.07-00.32.49:194][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.07-00.32.49:194][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.07-00.32.49:194][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.07-00.32.49:196][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.04.07-00.32.49:196][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.04.07-00.32.49:198][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.04.07-00.32.49:198][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.04.07-00.32.49:198][553]LogInit: FAudioDevice initialized with ID 26.
+[2024.04.07-00.32.49:198][553]LogAudio: Display: Audio Device (ID: 26) registered with world 'AcademyHub'.
+[2024.04.07-00.32.49:198][553]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.07-00.32.49:200][553]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.07-00.32.49:203][553]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.06-20.32.49
+[2024.04.07-00.32.49:203][553]LogWorld: Bringing up level for play took: 0.002257
+[2024.04.07-00.32.49:206][553]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.04.07-00.32.49:209][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.07-00.32.49:209][553]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.07-00.32.49:209][553]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.07-00.32.49:209][553]PIE: Server logged in
+[2024.04.07-00.32.49:210][553]PIE: Play in editor total start time 0.072 seconds.
+[2024.04.07-00.33.04:927][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-00.33.04:927][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.07-00.33.04:927][129]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.07-00.33.04:927][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.33.04:927][129]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.07-00.33.04:932][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.07-00.33.04:941][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.07-00.33.04:960][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.07-00.33.04:960][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.07-00.33.04:960][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.07-00.33.04:962][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.07-00.33.04:968][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.07-00.33.05:105][130]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.04.07-00.33.12:063][380]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.33.14:475][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.33.14:535][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.33.14:571][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.07-00.33.24:306][813]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\Downloads\iceGolem_walk.fbx)
+[2024.04.07-00.33.24:313][813]LogFbx: Loading FBX Scene from C:\Users\Owner\Downloads\iceGolem_walk.fbx
+[2024.04.07-00.33.24:379][813]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.07-00.33.29:421][813]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.07-00.33.29:455][813]FBXImport: Error: Mesh contains IceGolem1 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.04.07-00.33.29:455][813]FBXImport: Error: Import failed. 
+[2024.04.07-00.33.34:562][813]LogSlate: Window 'Message' being destroyed
+[2024.04.07-00.33.34:567][813]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Owner\Downloads\iceGolem_walk.fbx'. Failed to create asset '/Game/Models/Animations/iceGolem_walk'.
+Please see Output Log for details.
+[2024.04.07-00.33.34:568][813]LogAssetTools: Warning: Failed to import 'C:\Users\Owner\Downloads\iceGolem_walk.fbx'. Failed to create asset '/Game/Models/Animations/iceGolem_walk'.
+Please see Output Log for details.
+[2024.04.07-00.33.42:997][463]LogSlate: Window 'Message Log' being destroyed
+[2024.04.07-00.33.43:014][463]LogSlate: Window 'Message Log' being destroyed
+[2024.04.07-00.33.48:864][694]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\Downloads\iceGolem_walk.fbx)
+[2024.04.07-00.33.48:870][694]LogFbx: Loading FBX Scene from C:\Users\Owner\Downloads\iceGolem_walk.fbx
+[2024.04.07-00.33.48:885][694]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.07-00.33.54:073][694]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.07-00.33.54:100][694]FBXImport: Error: Mesh contains IceGolem1 bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.04.07-00.33.54:100][694]FBXImport: Error: Import failed. 
+[2024.04.07-00.33.57:949][694]LogSlate: Window 'Message' being destroyed
+[2024.04.07-00.33.57:955][694]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Owner\Downloads\iceGolem_walk.fbx'. Failed to create asset '/Game/Models/Animations/iceGolem_walk'.
+Please see Output Log for details.
+[2024.04.07-00.33.57:955][694]LogAssetTools: Warning: Failed to import 'C:\Users\Owner\Downloads\iceGolem_walk.fbx'. Failed to create asset '/Game/Models/Animations/iceGolem_walk'.
+Please see Output Log for details.
+[2024.04.07-00.34.00:172][853]LogSlate: Window 'Message Log' being destroyed
+[2024.04.07-00.34.00:191][853]LogSlate: Window 'Message Log' being destroyed
