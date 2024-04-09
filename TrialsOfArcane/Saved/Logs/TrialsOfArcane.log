@@ -5570,3 +5570,425 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-03.23.26:043][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2024.04.09-03.23.26:060][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2024.04.09-03.23.26:070][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 8.60 sec)
+[2024.04.09-03.37.05:077][768]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.37.05:173][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.09-03.37.05:815][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.37.05:967][798]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.37.05:968][798]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter7193DABE47E5447A06B8CBA691A0AEFA.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.37.05:988][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 8.78 sec)
+[2024.04.09-03.37.05:990][798]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.37.05:990][798]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.37.11:247][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.37.11:256][227]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.37.11:256][227]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.37.11:257][227]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.37.11:257][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.37.11:257][227]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:37:11 PM)
+[2024.04.09-03.37.11:279][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.37.11:283][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004556s)
+[2024.04.09-03.37.11:283][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004606s)
+[2024.04.09-03.37.11:301][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.09-03.37.11:313][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.37.11:313][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.37.11:313][227]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.37.11:314][227]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.37.11:314][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.37.11:314][227]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.37.11:314][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.37.11:315][227]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.37.11:315][227]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.37.11:315][227]LogPlayLevel: PIE: World Init took: (0.002673s)
+[2024.04.09-03.37.11:315][227]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.37.11:315][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.37.11:315][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.37.11:315][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.37.11:315][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.37.11:315][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.37.11:317][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.37.11:341][227]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.37.11:341][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.37.11:341][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.37.11:341][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.37.11:342][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2024.04.09-03.37.11:342][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2024.04.09-03.37.11:345][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2024.04.09-03.37.11:345][227]LogInit: FAudioDevice initialized with ID 48.
+[2024.04.09-03.37.11:345][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2024.04.09-03.37.11:345][227]LogAudio: Display: Audio Device (ID: 48) registered with world 'AcademyHub'.
+[2024.04.09-03.37.11:345][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.09-03.37.11:348][227]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.37.11:350][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.37.11
+[2024.04.09-03.37.11:351][227]LogWorld: Bringing up level for play took: 0.002386
+[2024.04.09-03.37.11:353][227]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.04.09-03.37.11:357][227]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.37.11:357][227]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.37.11:357][227]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.37.11:357][227]PIE: Server logged in
+[2024.04.09-03.37.11:358][227]PIE: Play in editor total start time 0.102 seconds.
+[2024.04.09-03.37.12:999][363]LogBlueprintUserMessages: [BP_FireStaff_GEN_VARIABLE_BP_FireStaff_C_CAT_0] Hello
+[2024.04.09-03.37.12:999][363]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.37.17:514][767]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.37.20:388][ 22]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.37.22:609][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.37.22:609][221]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.37.22:610][221]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.37.22:610][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.37.22:610][221]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.37.22:622][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.37.22:630][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.37.22:648][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.37.22:650][221]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2024.04.09-03.37.22:650][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.09-03.37.22:652][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2024.04.09-03.37.22:656][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.37.22:659][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.09-03.37.22:702][222]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.04.09-03.37.48:595][884]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.49:425][931]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.51:192][ 30]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.52:541][107]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.53:665][172]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.54:121][197]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.55:422][270]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.37.56:532][335]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.38.00:467][573]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.38.00:497][573]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.38.00:497][573]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.38.00:497][573]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.38.00:551][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.09-03.38.38:371][790]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.38.38:462][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.09-03.38.39:249][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.38.39:391][813]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.38.39:391][813]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterF8D2AEC4423F66D5E9CA33A79F1F242B.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.38.39:399][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 8.93 sec)
+[2024.04.09-03.38.39:401][813]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.38.39:401][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:091][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.38.41:099][943]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.38.41:099][943]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.38.41:101][943]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.72 sec)
+[2024.04.09-03.38.41:101][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.38.41:101][943]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:38:41 PM)
+[2024.04.09-03.38.41:128][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.38.41:133][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004508s)
+[2024.04.09-03.38.41:133][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004555s)
+[2024.04.09-03.38.41:150][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.09-03.38.41:156][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.38.41:156][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.38.41:158][943]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.38.41:158][943]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.38.41:158][943]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.38.41:158][943]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.38.41:158][943]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.38.41:160][943]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.38.41:160][943]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.38.41:160][943]LogPlayLevel: PIE: World Init took: (0.002735s)
+[2024.04.09-03.38.41:160][943]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.38.41:160][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.38.41:160][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.38.41:160][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.38.41:160][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.38.41:160][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.38.41:162][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.38.41:186][943]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.38.41:186][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.38.41:186][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.38.41:186][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.38.41:187][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2024.04.09-03.38.41:187][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2024.04.09-03.38.41:188][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2024.04.09-03.38.41:188][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2024.04.09-03.38.41:188][943]LogInit: FAudioDevice initialized with ID 49.
+[2024.04.09-03.38.41:189][943]LogAudio: Display: Audio Device (ID: 49) registered with world 'AcademyHub'.
+[2024.04.09-03.38.41:189][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.09-03.38.41:191][943]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.38.41:194][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.38.41
+[2024.04.09-03.38.41:194][943]LogWorld: Bringing up level for play took: 0.002269
+[2024.04.09-03.38.41:196][943]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.04.09-03.38.41:199][943]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.38.41:199][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.41:199][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:199][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.41:199][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:199][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.41:199][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:200][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.41:200][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:200][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.41:200][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:200][943]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.41:200][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.41:201][943]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.38.41:201][943]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.38.41:201][943]PIE: Server logged in
+[2024.04.09-03.38.41:201][943]PIE: Play in editor total start time 0.102 seconds.
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.42:614][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.42:614][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.43:894][172]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.38.44:653][239]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.44:653][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.44:653][239]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.44:653][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.44:653][239]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:0171
+[2024.04.09-03.38.44:653][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.44:653][239]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Equip Item:01D0
+[2024.04.09-03.38.44:654][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.44:654][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.44:654][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:192][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:403][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:404][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:404][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:404][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:404][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.45:404][306]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.38.47:353][478]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.38.49:359][657]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.38.51:669][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.38.51:669][862]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.38.51:670][862]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.38.51:670][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.38.51:670][862]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.38.51:675][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.38.51:681][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.38.51:701][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.38.51:701][862]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2024.04.09-03.38.51:701][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.09-03.38.51:703][862]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2024.04.09-03.38.51:706][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.38.51:710][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.09-03.38.51:914][863]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.04.09-03.39.25:846][804]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.39.25:933][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.09-03.39.26:660][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.39.26:809][821]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.39.26:810][821]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter90522C104C0160D337B0AAA3B92E70B2.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.39.26:817][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.09 sec)
+[2024.04.09-03.39.26:820][821]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.39.26:820][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.39.31:973][ 58]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.39.32:061][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.09-03.39.32:878][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.39.33:028][ 79]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.39.33:029][ 79]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter5761D35549E26C3F83D92082C13BD7F1.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.39.33:037][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 9.25 sec)
+[2024.04.09-03.39.33:040][ 79]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.39.33:040][ 79]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.39.35:785][221]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-03.39.35:791][221]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-03.39.36:916][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.39.36:923][289]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.39.36:923][289]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.39.36:924][289]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.72 sec)
+[2024.04.09-03.39.36:924][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.39.36:924][289]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:39:36 PM)
+[2024.04.09-03.39.36:958][289]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.39.36:963][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004611s)
+[2024.04.09-03.39.36:963][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004663s)
+[2024.04.09-03.39.36:980][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.09-03.39.36:988][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.39.36:988][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.39.36:988][289]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.39.36:989][289]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.39.36:989][289]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.39.36:989][289]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.39.36:989][289]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.39.36:990][289]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.39.36:990][289]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.39.36:990][289]LogPlayLevel: PIE: World Init took: (0.002703s)
+[2024.04.09-03.39.36:990][289]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.39.36:990][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.39.36:990][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.39.36:991][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.39.36:991][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.39.36:991][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.39.36:993][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.39.37:016][289]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.39.37:016][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.39.37:017][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.39.37:017][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.39.37:017][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.04.09-03.39.37:017][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.04.09-03.39.37:019][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.04.09-03.39.37:019][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.04.09-03.39.37:019][289]LogInit: FAudioDevice initialized with ID 50.
+[2024.04.09-03.39.37:019][289]LogAudio: Display: Audio Device (ID: 50) registered with world 'AcademyHub'.
+[2024.04.09-03.39.37:019][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.09-03.39.37:022][289]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.39.37:024][289]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.39.37
+[2024.04.09-03.39.37:024][289]LogWorld: Bringing up level for play took: 0.002296
+[2024.04.09-03.39.37:027][289]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.04.09-03.39.37:029][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:029][289]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Set Visibility Graph:  Equip Item Function:  Equip Item Blueprint:  BP_ThirdPersonCharacter
+[2024.04.09-03.39.37:030][289]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.39.37:030][289]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.39.37:030][289]PIE: Server logged in
+[2024.04.09-03.39.37:031][289]PIE: Play in editor total start time 0.108 seconds.
+[2024.04.09-03.39.40:282][483]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.39.42:639][625]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.39.44:778][755]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.39.47:969][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.39.47:969][950]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.39.47:969][950]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.39.47:970][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.39.47:970][950]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.39.47:975][950]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.39.47:982][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.39.48:000][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.39.48:000][950]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.09-03.39.48:000][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.09-03.39.48:002][950]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.09-03.39.48:006][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.39.48:009][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.09-03.39.48:196][951]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.04.09-03.40.00:578][717]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.40.00:663][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.09-03.40.01:383][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.40.01:543][754]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.40.01:543][754]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterAF0C12A74D8421D69C9AD8AB9C8000BE.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.40.01:553][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 9.42 sec)
+[2024.04.09-03.40.01:556][754]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.40.01:556][754]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.40.03:448][895]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-03.40.03:465][895]LogSlate: Window 'Message Log' being destroyed
+[2024.04.09-03.40.06:247][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.40.06:256][118]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.40.06:256][118]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.40.06:258][118]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.72 sec)
+[2024.04.09-03.40.06:258][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.40.06:258][118]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:40:06 PM)
+[2024.04.09-03.40.06:258][118]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.40.06:264][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005280s)
+[2024.04.09-03.40.06:264][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.005322s)
+[2024.04.09-03.40.06:280][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.09-03.40.06:291][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.40.06:291][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.40.06:292][118]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.40.06:293][118]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.40.06:293][118]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.40.06:293][118]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.40.06:293][118]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.40.06:294][118]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.40.06:294][118]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.40.06:294][118]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2024.04.09-03.40.06:294][118]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.40.06:294][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.40.06:294][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.40.06:295][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.40.06:295][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.40.06:295][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.40.06:296][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.40.06:320][118]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.40.06:320][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.40.06:320][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.40.06:320][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.40.06:321][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.09-03.40.06:321][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.09-03.40.06:323][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.09-03.40.06:323][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.09-03.40.06:323][118]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.09-03.40.06:323][118]LogAudio: Display: Audio Device (ID: 51) registered with world 'AcademyHub'.
+[2024.04.09-03.40.06:323][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.09-03.40.06:326][118]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.40.06:328][118]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.40.06
+[2024.04.09-03.40.06:328][118]LogWorld: Bringing up level for play took: 0.002303
+[2024.04.09-03.40.06:331][118]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.04.09-03.40.06:333][118]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.40.06:334][118]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.40.06:334][118]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.40.06:334][118]PIE: Server logged in
+[2024.04.09-03.40.06:335][118]PIE: Play in editor total start time 0.079 seconds.
+[2024.04.09-03.40.08:848][305]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.40.11:991][552]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.40.13:957][705]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.40.16:288][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.40.16:288][886]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.40.16:288][886]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.40.16:289][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.40.16:289][886]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.40.16:294][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.40.16:301][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.40.16:321][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.40.16:322][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.09-03.40.16:322][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.09-03.40.16:324][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.09-03.40.16:327][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.40.16:331][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.09-03.40.16:377][887]LogPlayLevel: Display: Destroying online subsystem :Context_88
