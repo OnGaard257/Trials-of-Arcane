@@ -5150,3 +5150,423 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-03.12.32:741][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 7.71 sec)
 [2024.04.09-03.12.32:743][727]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.09-03.12.32:743][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.13.17:319][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.13.17:373][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.13.17:409][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.13.17:442][413]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.13.17:530][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.17.04:834][629]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.17.04:929][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.09-03.17.20:173][514]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.17.20:267][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.09-03.17.22:582][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.17.22:589][651]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.17.22:589][651]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.17.22:592][651]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.17.22:592][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.17.22:592][651]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:17:22 PM)
+[2024.04.09-03.17.22:592][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.17.22:597][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004800s)
+[2024.04.09-03.17.22:597][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004841s)
+[2024.04.09-03.17.22:614][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.09-03.17.22:621][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.17.22:622][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.17.22:622][651]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.17.22:623][651]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.17.22:623][651]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.17.22:623][651]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.17.22:623][651]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.17.22:624][651]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.17.22:624][651]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.32 sec)
+[2024.04.09-03.17.22:624][651]LogPlayLevel: PIE: World Init took: (0.002673s)
+[2024.04.09-03.17.22:624][651]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.17.22:624][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.17.22:624][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.17.22:625][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.17.22:625][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.17.22:625][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.17.22:627][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.17.22:650][651]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.17.22:650][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.17.22:650][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.17.22:650][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.17.22:651][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.04.09-03.17.22:651][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.04.09-03.17.22:653][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.04.09-03.17.22:653][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.04.09-03.17.22:653][651]LogInit: FAudioDevice initialized with ID 43.
+[2024.04.09-03.17.22:653][651]LogAudio: Display: Audio Device (ID: 43) registered with world 'AcademyHub'.
+[2024.04.09-03.17.22:653][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.09-03.17.22:657][651]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.17.22:659][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.17.22
+[2024.04.09-03.17.22:659][651]LogWorld: Bringing up level for play took: 0.002343
+[2024.04.09-03.17.22:662][651]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2024.04.09-03.17.22:665][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.17.22:666][651]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.17.22:666][651]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.17.22:666][651]PIE: Server logged in
+[2024.04.09-03.17.22:667][651]PIE: Play in editor total start time 0.077 seconds.
+[2024.04.09-03.17.24:656][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.17.24:656][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.17.24:656][805]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.17.24:658][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.17.24:658][805]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.17.24:664][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.17.24:672][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.17.24:690][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.17.24:690][805]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.04.09-03.17.24:690][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.09-03.17.24:692][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.04.09-03.17.24:696][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.17.24:700][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.09-03.17.24:756][806]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2024.04.09-03.17.36:914][502]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.17.37:015][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.09-03.17.39:114][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.17.39:123][623]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.17.39:123][623]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.17.39:124][623]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.17.39:124][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.17.39:124][623]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:17:39 PM)
+[2024.04.09-03.17.39:146][623]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.17.39:150][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004548s)
+[2024.04.09-03.17.39:150][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004596s)
+[2024.04.09-03.17.39:168][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.09-03.17.39:174][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.17.39:174][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.17.39:174][623]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.17.39:175][623]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.17.39:175][623]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.17.39:175][623]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.17.39:175][623]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.17.39:176][623]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.17.39:176][623]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.32 sec)
+[2024.04.09-03.17.39:176][623]LogPlayLevel: PIE: World Init took: (0.002877s)
+[2024.04.09-03.17.39:176][623]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.17.39:176][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.17.39:176][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.17.39:177][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.17.39:177][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.17.39:177][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.17.39:179][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.17.39:202][623]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.17.39:202][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.17.39:202][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.17.39:202][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.17.39:203][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.04.09-03.17.39:203][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.04.09-03.17.39:205][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.04.09-03.17.39:205][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.04.09-03.17.39:205][623]LogInit: FAudioDevice initialized with ID 44.
+[2024.04.09-03.17.39:205][623]LogAudio: Display: Audio Device (ID: 44) registered with world 'AcademyHub'.
+[2024.04.09-03.17.39:205][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.09-03.17.39:207][623]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.17.39:209][623]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.17.39
+[2024.04.09-03.17.39:210][623]LogWorld: Bringing up level for play took: 0.002287
+[2024.04.09-03.17.39:212][623]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.04.09-03.17.39:216][623]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.17.39:217][623]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.17.39:217][623]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.17.39:217][623]PIE: Server logged in
+[2024.04.09-03.17.39:218][623]PIE: Play in editor total start time 0.095 seconds.
+[2024.04.09-03.17.42:150][875]LogBlueprintUserMessages: [BP_FireStaff_GEN_VARIABLE_BP_FireStaff_C_CAT_0] Hello
+[2024.04.09-03.17.42:150][875]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.17.45:095][135]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.17.45:095][135]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.17.51:146][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.17.51:146][666]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.17.51:147][666]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.17.51:147][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.17.51:147][666]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.17.51:152][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.17.51:159][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.17.51:177][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.17.51:177][666]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.04.09-03.17.51:177][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.09-03.17.51:179][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.04.09-03.17.51:183][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.17.51:188][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.09-03.17.51:243][667]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.04.09-03.18.24:212][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.09-03.18.25:129][886]LogSlate: Window 'Save Content' being destroyed
+[2024.04.09-03.18.25:140][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.18.25:288][886]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.18.25:289][886]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterAA9400FD4C853637B47A2EB50698FB63.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.18.25:338][886]LogSavePackage: Moving output files for package: /Game/Models/Character/TrialsofArcade_MainCharacter_Idle
+[2024.04.09-03.18.25:338][886]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/TrialsofArcade_MainCharacter_IdlF5B6498C4C7217472DD554B197DE0110.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Character/TrialsofArcade_MainCharacter_Idle.uasset'
+[2024.04.09-03.18.25:347][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 7.92 sec)
+[2024.04.09-03.18.25:350][886]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.09-03.18.25:350][886]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.18.25:351][886]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Models/Character/TrialsofArcade_MainCharacter_Idle.TrialsofArcade_MainCharacter_Idle
+[2024.04.09-03.19.10:238][793]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter'
+[2024.04.09-03.19.13:889][ 26]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.19.13:980][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.09-03.19.19:027][357]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.19.19:122][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.09-03.19.19:877][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.19.20:019][386]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.19.20:020][386]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter0392572D4C7D49FE3BA1838F4D0A44DA.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.19.20:032][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 8.08 sec)
+[2024.04.09-03.19.20:035][386]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.19.20:035][386]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.19.21:835][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.19.21:843][528]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.19.21:843][528]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.19.21:845][528]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.19.21:845][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.19.21:845][528]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:19:21 PM)
+[2024.04.09-03.19.21:866][528]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.19.21:870][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004518s)
+[2024.04.09-03.19.21:870][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004570s)
+[2024.04.09-03.19.21:891][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.04.09-03.19.21:902][528]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.19.21:902][528]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.19.21:903][528]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.19.21:903][528]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.19.21:903][528]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.19.21:903][528]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.19.21:903][528]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.19.21:905][528]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.19.21:905][528]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.32 sec)
+[2024.04.09-03.19.21:905][528]LogPlayLevel: PIE: World Init took: (0.003303s)
+[2024.04.09-03.19.21:905][528]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.19.21:905][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.19.21:905][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.19.21:906][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.19.21:906][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.19.21:906][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.19.21:908][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.19.21:940][528]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.19.21:940][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.19.21:940][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.19.21:940][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.19.21:942][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.04.09-03.19.21:942][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.04.09-03.19.21:945][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.04.09-03.19.21:945][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.04.09-03.19.21:945][528]LogInit: FAudioDevice initialized with ID 45.
+[2024.04.09-03.19.21:945][528]LogAudio: Display: Audio Device (ID: 45) registered with world 'AcademyHub'.
+[2024.04.09-03.19.21:945][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.09-03.19.21:948][528]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.19.21:951][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.19.21
+[2024.04.09-03.19.21:951][528]LogWorld: Bringing up level for play took: 0.002348
+[2024.04.09-03.19.21:953][528]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.04.09-03.19.21:958][528]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.19.21:959][528]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.19.21:959][528]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.19.21:959][528]PIE: Server logged in
+[2024.04.09-03.19.21:960][528]PIE: Play in editor total start time 0.118 seconds.
+[2024.04.09-03.19.24:336][730]LogBlueprintUserMessages: [BP_FireStaff_GEN_VARIABLE_BP_FireStaff_C_CAT_0] Hello
+[2024.04.09-03.19.24:336][730]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.19.24:336][730]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.19.26:764][945]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.19.29:365][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.19.29:365][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.19.29:365][171]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.19.29:366][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.19.29:366][171]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.19.29:371][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.19.29:379][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.19.29:399][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.19.29:399][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.04.09-03.19.29:399][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.09-03.19.29:401][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.04.09-03.19.29:404][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.19.29:407][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.09-03.19.29:453][172]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.04.09-03.19.41:508][940]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.19.41:601][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.09-03.19.42:321][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.19.42:463][961]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.19.42:463][961]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacterB8016631436765646491A4B38DAD80F2.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.19.42:471][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 8.23 sec)
+[2024.04.09-03.19.42:473][961]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.19.42:473][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.19.44:940][154]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.19.44:947][154]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.19.44:947][154]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.19.44:949][154]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.19.44:949][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.19.44:949][154]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:19:44 PM)
+[2024.04.09-03.19.44:949][154]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.19.44:955][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005166s)
+[2024.04.09-03.19.44:955][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.005209s)
+[2024.04.09-03.19.44:972][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.09-03.19.44:979][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.19.44:979][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.19.44:979][154]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.19.44:980][154]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.19.44:980][154]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.19.44:980][154]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.19.44:980][154]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.19.44:981][154]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.19.44:981][154]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.19.44:981][154]LogPlayLevel: PIE: World Init took: (0.002722s)
+[2024.04.09-03.19.44:981][154]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.19.44:981][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.19.44:982][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.19.44:982][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.19.44:982][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.19.44:982][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.19.44:984][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.19.45:007][154]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.19.45:007][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.19.45:007][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.19.45:007][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.19.45:008][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.04.09-03.19.45:008][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.04.09-03.19.45:009][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.04.09-03.19.45:009][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.04.09-03.19.45:009][154]LogInit: FAudioDevice initialized with ID 46.
+[2024.04.09-03.19.45:009][154]LogAudio: Display: Audio Device (ID: 46) registered with world 'AcademyHub'.
+[2024.04.09-03.19.45:009][154]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.09-03.19.45:012][154]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.19.45:015][154]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.19.45
+[2024.04.09-03.19.45:015][154]LogWorld: Bringing up level for play took: 0.002306
+[2024.04.09-03.19.45:018][154]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.04.09-03.19.45:022][154]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.19.45:023][154]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.19.45:023][154]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.19.45:023][154]PIE: Server logged in
+[2024.04.09-03.19.45:023][154]PIE: Play in editor total start time 0.076 seconds.
+[2024.04.09-03.19.46:633][287]LogBlueprintUserMessages: [BP_FireStaff_GEN_VARIABLE_BP_FireStaff_C_CAT_0] Hello
+[2024.04.09-03.19.46:633][287]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.19.48:955][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.19.48:955][490]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.19.48:956][490]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.19.48:956][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.19.48:956][490]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.19.48:962][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.19.48:970][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.19.48:990][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.19.48:990][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.04.09-03.19.48:990][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.09-03.19.48:992][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.04.09-03.19.48:995][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.19.48:999][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.09-03.19.49:056][491]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.04.09-03.20.54:429][996]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.20.54:457][996]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.20.54:457][996]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.20.54:457][996]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.09-03.20.54:513][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.09-03.21.15:355][129]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.21.15:447][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.04.09-03.21.32:306][131]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.21.32:404][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.09-03.21.50:316][166]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.09-03.21.50:412][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.09-03.21.51:193][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.21.51:340][190]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.21.51:340][190]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter015F1AAE4F687FCD88FEE8BC713FA554.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.21.51:348][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 8.38 sec)
+[2024.04.09-03.21.51:350][190]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.21.51:350][190]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.21.53:217][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-03.21.53:226][327]LogContentBundle: [AcademyHub(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-03.21.53:226][327]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' started...
+[2024.04.09-03.21.53:228][327]LogWorldPartition: Display: GenerateStreaming for 'AcademyHub' took 1 ms (total: 4.71 sec)
+[2024.04.09-03.21.53:228][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-03.21.53:228][327]PIE: New page: PIE session: AcademyHub (Apr 8, 2024, 7:21:53 PM)
+[2024.04.09-03.21.53:228][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.21.53:233][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004596s)
+[2024.04.09-03.21.53:233][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AcademyHub.AcademyHub to /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub (0.004634s)
+[2024.04.09-03.21.53:249][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.09-03.21.53:257][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-03.21.53:257][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-03.21.53:257][327]LogAIModule: Creating AISystem for world AcademyHub
+[2024.04.09-03.21.53:258][327]LogWorldPartition: ULevel::OnLevelLoaded(AcademyHub)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-03.21.53:258][327]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-03.21.53:258][327]LogWorldPartition: UWorldPartition::Initialize : World = AcademyHub, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-03.21.53:258][327]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-03.21.53:259][327]LogContentBundle: [AcademyHub(Standalone)] Creating new contrainer.
+[2024.04.09-03.21.53:259][327]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 5.33 sec)
+[2024.04.09-03.21.53:259][327]LogPlayLevel: PIE: World Init took: (0.002640s)
+[2024.04.09-03.21.53:259][327]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-03.21.53:259][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.09-03.21.53:259][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-03.21.53:260][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-03.21.53:260][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-03.21.53:260][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-03.21.53:262][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-03.21.53:286][327]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.09-03.21.53:286][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-03.21.53:286][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-03.21.53:286][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-03.21.53:287][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.04.09-03.21.53:287][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.04.09-03.21.53:289][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.04.09-03.21.53:289][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.04.09-03.21.53:289][327]LogInit: FAudioDevice initialized with ID 47.
+[2024.04.09-03.21.53:289][327]LogAudio: Display: Audio Device (ID: 47) registered with world 'AcademyHub'.
+[2024.04.09-03.21.53:289][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.09-03.21.53:292][327]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.09-03.21.53:294][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub up for play (max tick rate 0) at 2024.04.08-23.21.53
+[2024.04.09-03.21.53:294][327]LogWorld: Bringing up level for play took: 0.002314
+[2024.04.09-03.21.53:296][327]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2024.04.09-03.21.53:300][327]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.09-03.21.53:301][327]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.09-03.21.53:301][327]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_AcademyHub.AcademyHub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.09-03.21.53:301][327]PIE: Server logged in
+[2024.04.09-03.21.53:302][327]PIE: Play in editor total start time 0.076 seconds.
+[2024.04.09-03.21.58:141][745]LogBlueprintUserMessages: [BP_FireStaff_GEN_VARIABLE_BP_FireStaff_C_CAT_0] Hello
+[2024.04.09-03.21.58:141][745]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930050EA01_2076086345] Hello
+[2024.04.09-03.22.00:845][986]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA93003EEA01_1565158176] Hello
+[2024.04.09-03.22.02:502][132]LogBlueprintUserMessages: [BP_FireStaff_C_UAID_047C16DA930051EA01_2051355522] Hello
+[2024.04.09-03.22.04:785][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.22.04:785][338]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AcademyHub
+[2024.04.09-03.22.04:785][338]LogWorld: UWorld::CleanupWorld for AcademyHub, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-03.22.04:786][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.22.04:786][338]LogContentBundle: [AcademyHub(Standalone)] Deleting container.
+[2024.04.09-03.22.04:791][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-03.22.04:798][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-03.22.04:818][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-03.22.04:818][338]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.04.09-03.22.04:818][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.09-03.22.04:820][338]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.04.09-03.22.04:824][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-03.22.04:827][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.09-03.22.04:869][339]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2024.04.09-03.23.22:482][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.23.22:592][806]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.09-03.23.22:593][806]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter62F5C4DD49AB1B1BA64AB5A76214A310.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.09-03.23.22:601][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 8.50 sec)
+[2024.04.09-03.23.22:604][806]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.09-03.23.22:604][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-03.23.23:232][835]LogViewport: Scene viewport resized to 942x322, mode Windowed.
+[2024.04.09-03.23.24:810][965]LogViewport: Scene viewport resized to 1230x472, mode Windowed.
+[2024.04.09-03.23.25:966][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-03.23.26:023][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.09-03.23.26:043][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.09-03.23.26:060][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.09-03.23.26:070][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 8.60 sec)
