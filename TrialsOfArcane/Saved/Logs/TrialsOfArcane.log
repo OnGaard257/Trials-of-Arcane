@@ -2319,3 +2319,64 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-05.28.51:085][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 2.06 sec)
 [2024.04.09-05.28.51:088][205]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.09-05.28.51:088][205]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.09-05.29.29:669][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:669][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:669][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:669][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:669][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:670][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:670][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:670][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:671][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:687][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:687][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.29:688][267]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:274][367]BlueprintLog: New page: Compile Blank
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:287][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:315][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:320][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:432][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:479][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:479][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Scale for /Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.04.09-05.29.31:480][367]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_24:PersistentLevel.Blank_C_0.Sphere' 
+[2024.04.09-05.29.32:149][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-05.29.32:220][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Blank" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blank.uasset" SILENT=true
+[2024.04.09-05.29.32:226][408]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Blank
+[2024.04.09-05.29.32:226][408]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BlankF18A08324DD0EC34FC334EBBC797EC79.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blank.uasset'
+[2024.04.09-05.29.32:235][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.15 sec)
+[2024.04.09-05.29.32:237][408]AssetCheck: New page: Asset Save: Blank
+[2024.04.09-05.29.32:237][408]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Blank.Blank
