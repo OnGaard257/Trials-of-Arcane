@@ -2165,3 +2165,74 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.10-20.18.17:899][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2024.04.10-20.18.17:946][349]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2024.04.10-20.18.17:963][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.SKEL_GolemSpawn_C' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn_C' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.SKEL_GolemSpawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.SKEL_GolemSpawn_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:411][791]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/GolemSpawn.PackageMetaData'
+[2024.04.10-20.18.49:423][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-20.18.49:479][791]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn
+[2024.04.10-20.18.49:479][791]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/GolemSpawnB3E94DEE40EEB78DEF93FE8AB35FDF2C.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.uasset'
+[2024.04.10-20.18.49:495][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.02 sec)
+[2024.04.10-20.18.49:519][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.10-20.18.49:534][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.10-20.18.49:548][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.10-20.18.49:563][791]AssetCheck: New page: Asset Save: GolemSpawn
+[2024.04.10-20.18.49:563][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/NoLongerRelevant/GolemSpawn.GolemSpawn
+[2024.04.10-20.18.53:205][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-20.18.53:275][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-20.18.53:317][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.10-20.18.53:333][927]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.10-20.18.53:333][927]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub0876B2B54E48195F519A9681CB5FA63F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.10-20.18.53:339][927]LogFileHelpers: Saving map 'Hub' took 0.065
+[2024.04.10-20.18.53:350][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1.16 sec)
+[2024.04.10-20.18.53:352][927]AssetCheck: New page: Asset Save: Hub
+[2024.04.10-20.18.53:352][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.10-20.18.54:229][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-20.18.54:292][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-20.18.54:334][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.10-20.18.54:350][981]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.10-20.18.54:350][981]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub90D8DDC94764128C12BC7A8352F3B3AE.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.10-20.18.54:356][981]LogFileHelpers: Saving map 'Hub' took 0.065
+[2024.04.10-20.18.54:366][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.30 sec)
+[2024.04.10-20.18.54:367][981]AssetCheck: New page: Asset Save: Hub
+[2024.04.10-20.18.54:367][981]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.10-20.18.55:501][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.04.10-20.18.56:607][ 55]LogSlate: Window 'Save Content' being destroyed
+[2024.04.10-20.18.56:621][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-20.18.56:693][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.10-20.18.56:710][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.10-20.18.56:724][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.10-20.18.56:727][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IceLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/IceLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-20.18.56:740][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.10-20.18.56:755][ 55]LogSavePackage: Moving output files for package: /Game/Maps/IceLevel
+[2024.04.10-20.18.56:755][ 55]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/IceLevel2D6C39FE4AD18EAB8306E8A51AA2A626.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/IceLevel.umap'
+[2024.04.10-20.18.56:757][ 55]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK
+[2024.04.10-20.18.56:757][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-20.18.56:759][ 55]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK
+[2024.04.10-20.18.56:759][ 55]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/P12B9YG85RFJDX5Z7LQNXKCF19409A4B94B96C385217951DD4ECFA.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK.uasset'
+[2024.04.10-20.18.56:760][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 2 ms (total: 1.30 sec)
+[2024.04.10-20.18.56:760][ 55]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK
+[2024.04.10-20.18.56:761][ 55]LogFileHelpers: Saving map 'IceLevel' took 0.035
+[2024.04.10-20.18.56:808][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/Blank" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blank.uasset" SILENT=true
+[2024.04.10-20.18.56:814][ 55]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Blank
+[2024.04.10-20.18.56:814][ 55]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Blank499DDDE1499435A87513F2BB8523CE78.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/Blank.uasset'
+[2024.04.10-20.18.56:816][ 55]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK
+[2024.04.10-20.18.56:817][ 55]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/P12B9YG85RFJDX5Z7LQNXK702F54FA4726B99D99082EB3188FC17F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/IceLevel/C/IB/P12B9YG85RFJDX5Z7LQNXK.uasset'
+[2024.04.10-20.18.56:831][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 1.51 sec)
+[2024.04.10-20.18.56:834][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-20.18.56:834][ 55]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/IceLevel.IceLevel
+[2024.04.10-20.18.56:834][ 55]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Maps/IceLevel.IceLevel:PersistentLevel.DirectionalLight_0
+[2024.04.10-20.18.56:834][ 55]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Blank.Blank
+[2024.04.10-20.18.56:851][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1841130268.StaticMeshComponent0'.
+[2024.04.10-20.18.56:876][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1852128271.StaticMeshComponent0'.
+[2024.04.10-20.18.56:902][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1597279264.StaticMeshComponent0'.
+[2024.04.10-20.18.56:927][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1870322280.StaticMeshComponent0'.
+[2024.04.10-20.18.56:995][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1858011274.StaticMeshComponent0'.
+[2024.04.10-20.18.57:020][ 55]LogNavigation: Warning: Exporting collision geometry with too many triangles (395840). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/Maps/IceLevel.IceLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93004BE601_1866074277.StaticMeshComponent0'.
