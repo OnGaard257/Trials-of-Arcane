@@ -2774,3 +2774,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.10-21.10.46:557][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
 [2024.04.10-21.10.46:686][250]LogPlayLevel: Display: Destroying online subsystem :Context_41
 [2024.04.10-21.10.46:704][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.10-21.23.49:926][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.10-21.23.51:570][109]LogSlate: Window 'Save Content' being destroyed
+[2024.04.10-21.23.51:589][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-21.23.51:655][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-21.23.51:694][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.10-21.23.51:714][109]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.10-21.23.51:715][109]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub0F62854C4E35BECB41DBE8A3AADE9245.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.10-21.23.51:721][109]LogFileHelpers: Saving map 'Hub' took 0.066
+[2024.04.10-21.23.51:734][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.47 sec)
+[2024.04.10-21.23.51:736][109]AssetCheck: New page: Asset Save: Hub
+[2024.04.10-21.23.51:736][109]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
