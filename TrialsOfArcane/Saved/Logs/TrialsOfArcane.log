@@ -2309,3 +2309,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.10-18.36.33:259][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 213 ms)
 [2024.04.10-18.36.33:261][129]AssetCheck: New page: Asset Save: Hub
 [2024.04.10-18.36.33:261][129]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.10-18.37.54:978][636]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
