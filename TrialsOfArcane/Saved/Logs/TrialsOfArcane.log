@@ -1571,3 +1571,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-04.06.38:597][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 935 ms)
 [2024.04.11-04.06.38:600][716]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.04.11-04.06.38:600][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.11-04.09.47:624][362]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.11-04.09.47:645][362]LogBlueprint: Error: [AssetLog] D:\Unreal Engine Projects\Trials-of-Arcane\TrialsOfArcane\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.04.11-04.09.47:706][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.04.11-04.11.07:268][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.11-04.11.07:276][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Hub' took 0.025
+[2024.04.11-04.11.07:277][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.11-04.11.07:409][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.11-04.11.07:409][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.11-04.11.07:519][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2024.04.11-04.11.07:520][571]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter_Auto319090F03475B66F35EFDE79856F59832.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2024.04.11-04.11.07:521][571]LogFileHelpers: Auto-saving content packages took 0.245
+[2024.04.11-04.12.47:406][ 92]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.11-04.12.47:487][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.11-04.12.48:434][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-04.12.48:588][118]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.11-04.12.48:588][118]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/BP_ThirdPersonCharacter24B5135E4CCCEEA52A302983770B2095.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.11-04.12.48:596][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 1.09 sec)
+[2024.04.11-04.12.48:598][118]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.11-04.12.48:599][118]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.11-04.13.01:449][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-04.13.01:498][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.11-04.13.01:536][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.11-04.13.01:564][852]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.11-04.13.01:564][852]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/HubCA6F6641410C2639D1CF69B42F7687CF.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.11-04.13.01:570][852]LogFileHelpers: Saving map 'Hub' took 0.072
+[2024.04.11-04.13.01:577][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.22 sec)
+[2024.04.11-04.13.01:579][852]AssetCheck: New page: Asset Save: Hub
+[2024.04.11-04.13.01:579][852]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
