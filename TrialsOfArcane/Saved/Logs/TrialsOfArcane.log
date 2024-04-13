@@ -6682,3 +6682,52 @@ Make sure 'FireBoss_C' has been compiled for  Set GolemHealth
 [2024.04.13-05.21.44:501][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
 [2024.04.13-05.21.44:501][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LightningLevel.LightningLevel
 [2024.04.13-05.21.44:501][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_IceGolem.BP_IceGolem
+[2024.04.13-05.23.15:737][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.13-05.23.16:907][701]LogSlate: Window 'Save Content' being destroyed
+[2024.04.13-05.23.16:916][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-05.23.16:984][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.13-05.23.16:998][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.13-05.23.17:006][701]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.13-05.23.17:007][701]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel7E5A26914777A770DD171BA06AEDD9A6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.13-05.23.17:009][701]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.17:012][701]LogFileHelpers: Saving map 'FireLevel' took 0.029
+[2024.04.13-05.23.17:029][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.13-05.23.17:035][701]LogSavePackage: Moving output files for package: /Game/Maps/LightningLevel
+[2024.04.13-05.23.17:035][701]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/LightningLevel9454D523482C88AE0CFE03AC60FF6D58.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/LightningLevel.umap'
+[2024.04.13-05.23.17:037][701]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.17:041][701]LogFileHelpers: Saving map 'LightningLevel' took 0.029
+[2024.04.13-05.23.17:049][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 15.2 sec)
+[2024.04.13-05.23.17:053][701]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.13-05.23.17:053][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.13-05.23.17:053][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LightningLevel.LightningLevel
+[2024.04.13-05.23.18:564][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.13-05.23.21:751][796]LogSlate: Window 'Save Content' being destroyed
+[2024.04.13-05.23.21:761][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.13-05.23.21:815][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.13-05.23.21:830][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.13-05.23.21:838][796]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.13-05.23.21:838][796]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel4523544448713217D173089CD68D216D.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.13-05.23.21:840][796]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.21:844][796]LogFileHelpers: Saving map 'FireLevel' took 0.030
+[2024.04.13-05.23.21:860][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.13-05.23.21:867][796]LogSavePackage: Moving output files for package: /Game/Maps/LightningLevel
+[2024.04.13-05.23.21:867][796]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/LightningLevel33E953BA414A2AEF725FD9B73D877AD6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/LightningLevel.umap'
+[2024.04.13-05.23.21:868][796]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.21:874][796]LogFileHelpers: Saving map 'LightningLevel' took 0.029
+[2024.04.13-05.23.21:882][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 15.4 sec)
+[2024.04.13-05.23.21:884][796]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.13-05.23.21:884][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.13-05.23.21:884][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LightningLevel.LightningLevel
+[2024.04.13-05.23.23:097][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.13-05.23.23:113][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.13-05.23.23:121][866]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.13-05.23.23:121][866]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevelE899F62442155238EB50618C21612DA6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.13-05.23.23:123][866]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.23:165][866]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.13-05.23.23:165][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.13-05.23.24:513][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.13-05.23.24:520][965]LogSavePackage: Moving output files for package: /Game/Maps/LightningLevel
+[2024.04.13-05.23.24:520][965]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/LightningLevel0C9F9CD749AAA384DF820FAE2C3021B4.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/LightningLevel.umap'
+[2024.04.13-05.23.24:521][965]LogFileHelpers: All files are already saved.
+[2024.04.13-05.23.24:541][965]AssetCheck: New page: Asset Save: LightningLevel
+[2024.04.13-05.23.24:541][965]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LightningLevel.LightningLevel
