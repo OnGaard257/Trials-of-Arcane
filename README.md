@@ -16,6 +16,6 @@ The Red Portal goes to the Ring of Fire, where you will face off against an Elem
 
 Once you have all of the spells you can use them to destroy the gates at the Hub, each gate is color coded with the spell that can destroy them. Getting through all of the gates allows you to pick up a scroll that tells you that you have completed the Trials and are now officially an Archmage.
 
-Shock deals 40, Blizzard deals 30, Fireball deals 50.
+Lightning Bolt deals 40, Ice Shard deals 30, Fireball deals 50.
 
 Note: Animations are split up between the enemies and the player rather than all on the Player, as previously discussed in the Zoom meeting.
