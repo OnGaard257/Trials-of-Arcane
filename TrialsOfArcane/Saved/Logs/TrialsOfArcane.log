@@ -4090,3 +4090,55 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.15-05.46.00:674][947]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.15-05.46.00:674][947]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
 [2024.04.15-05.46.00:674][947]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/LightningLevel.LightningLevel
+[2024.04.15-05.47.26:973][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-05.47.27:042][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-05.47.27:084][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.15-05.47.27:107][361]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.15-05.47.27:108][361]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub26BF4A174D86FDC6DDB92F9507EDE8A6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.15-05.47.27:114][361]LogFileHelpers: Saving map 'Hub' took 0.072
+[2024.04.15-05.47.27:122][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 4.67 sec)
+[2024.04.15-05.47.27:124][361]AssetCheck: New page: Asset Save: Hub
+[2024.04.15-05.47.27:124][361]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.15-05.47.53:431][220]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Maps/Menus/PauseMenu.PauseMenu
+[2024.04.15-05.47.53:432][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-05.47.53:432][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.47.53:439][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-05.47.53:439][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-05.47.53:446][220]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.15-05.47.53:909][220]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.15-05.47.53:910][220]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.15-05.48.33:604][557]LogSlate: Took 0.045527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.15-05.50.30:343][887]BlueprintLog: New page: Compile PauseMenu
+[2024.04.15-05.50.30:427][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.15-05.50.30:947][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-05.50.31:010][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menus/PauseMenu" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset" SILENT=true
+[2024.04.15-05.50.31:024][911]LogSavePackage: Moving output files for package: /Game/Maps/Menus/PauseMenu
+[2024.04.15-05.50.31:024][911]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PauseMenuBEE9E624476ED48F23CFA99FCBCC7F14.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset'
+[2024.04.15-05.50.31:033][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 4.76 sec)
+[2024.04.15-05.50.31:035][911]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.15-05.50.31:035][911]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Maps/Menus/PauseMenu.PauseMenu
+[2024.04.15-05.50.36:758][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-05.50.36:808][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menus/PauseMenu" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset" SILENT=true
+[2024.04.15-05.50.36:821][190]LogSavePackage: Moving output files for package: /Game/Maps/Menus/PauseMenu
+[2024.04.15-05.50.36:822][190]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PauseMenu1AD1D47D48A63BF894328F91EDE655C4.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset'
+[2024.04.15-05.50.36:830][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.83 sec)
+[2024.04.15-05.50.36:831][190]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.15-05.50.36:831][190]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Maps/Menus/PauseMenu.PauseMenu
+[2024.04.15-05.51.26:471][650]BlueprintLog: New page: Compile PauseMenu
+[2024.04.15-05.51.26:508][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.15-05.51.27:142][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-05.51.27:199][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Menus/PauseMenu" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset" SILENT=true
+[2024.04.15-05.51.27:213][669]LogSavePackage: Moving output files for package: /Game/Maps/Menus/PauseMenu
+[2024.04.15-05.51.27:213][669]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/PauseMenuFC0A6849481C2EF21BF7E3BE62C00D78.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Menus/PauseMenu.uasset'
+[2024.04.15-05.51.27:221][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.91 sec)
+[2024.04.15-05.51.27:223][669]AssetCheck: New page: Asset Save: PauseMenu
+[2024.04.15-05.51.27:223][669]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Maps/Menus/PauseMenu.PauseMenu
+[2024.04.15-05.53.07:603][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-05.53.07:656][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-05.53.07:698][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.15-05.53.07:722][ 90]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.15-05.53.07:722][ 90]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/HubA21C3E9F4AD1DA3DA6D8A5B42E15740E.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.15-05.53.07:730][ 90]LogFileHelpers: Saving map 'Hub' took 0.073
+[2024.04.15-05.53.07:738][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 5.04 sec)
+[2024.04.15-05.53.07:740][ 90]AssetCheck: New page: Asset Save: Hub
+[2024.04.15-05.53.07:740][ 90]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
