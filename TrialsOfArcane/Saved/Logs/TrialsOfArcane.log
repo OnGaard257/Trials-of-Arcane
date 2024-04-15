@@ -3742,3 +3742,1303 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.15-00.03.48:773][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 31.3 sec)
 [2024.04.15-00.03.48:775][980]AssetCheck: New page: Asset Save: Hub
 [2024.04.15-00.03.48:775][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.15-00.06.34:990][744]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Models/Animations/fire_demon_base_Skeleton.fire_demon_base_Skeleton
+[2024.04.15-00.06.34:993][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.06.34:993][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.06.35:002][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.06.35:344][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.06.35:344][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.06.35:476][744]LogViewport: Scene viewport resized to 871x607, mode Windowed.
+[2024.04.15-00.06.43:419][ 79]LogSlate: Window 'fire_demon_base_Skeleton' being destroyed
+[2024.04.15-00.06.43:425][ 79]LogSlate: Window 'fire_demon_base_Skeleton' being destroyed
+[2024.04.15-00.06.43:430][ 79]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:430][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:512][ 79]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:512][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:532][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.15-00.06.43:532][ 79]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:532][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:637][ 79]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:637][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:667][ 79]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:669][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:701][ 79]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:701][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.43:737][ 79]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.06.43:737][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.06.44:901][136]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/Animations/fire_demon_base.fire_demon_base
+[2024.04.15-00.06.44:902][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.06.44:902][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.06.44:914][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.06.45:236][136]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.04.15-00.06.45:311][136]LogViewport: Scene viewport resized to 1092x607, mode Windowed.
+[2024.04.15-00.07.37:684][745]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/Animations/Demon/Elemental_Fireball_Anim.Elemental_Fireball_Anim
+[2024.04.15-00.07.37:684][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.07.37:684][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.07.37:696][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.07.37:988][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.07.37:988][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.07.38:140][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.07.38:141][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.07.38:176][745]LogViewport: Scene viewport resized to 871x383, mode Windowed.
+[2024.04.15-00.07.38:205][745]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.15-00.08.18:825][314]LogSlate: Window 'Elemental_Fireball_Anim' being destroyed
+[2024.04.15-00.08.18:831][314]LogSlate: Window 'Elemental_Fireball_Anim' being destroyed
+[2024.04.15-00.08.18:846][314]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.18:846][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.18:931][314]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.18:931][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.18:941][314]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.18:941][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.18:981][314]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.18:981][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.28:574][732]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\Downloads\Elemental_Walk.fbx)
+[2024.04.15-00.08.28:580][732]LogFbx: Loading FBX Scene from C:\Users\Owner\Downloads\Elemental_Walk.fbx
+[2024.04.15-00.08.28:605][732]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.15-00.08.32:344][732]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.15-00.08.32:375][732]LogFbx: Valid bind pose for Pose (Mesh.001) - polySurface27
+[2024.04.15-00.08.32:376][732]LogFbx: Triangulating skeletal mesh polySurface27
+[2024.04.15-00.08.32:653][732]LogFbx: Bones digested - 12  Depth of hierarchy - 6
+[2024.04.15-00.08.33:072][732]LogSkeletalMesh: Section 0: Material=0, 18796 triangles
+[2024.04.15-00.08.33:102][732]LogSkeletalMesh: Building Skeletal Mesh Elemental_Walk...
+[2024.04.15-00.08.33:119][732]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Elemental_Walk) ...
+[2024.04.15-00.08.33:470][732]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Models/Animations/Demon/Elemental_Walk.Elemental_Walk
+[2024.04.15-00.08.33:535][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.08.33:535][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.08.33:554][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_74:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.15-00.08.33:554][732]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.33:554][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.33:619][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.08.33:619][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.08.33:635][732]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.08.33:635][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(0) Bone
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(1) Bone_001
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(2) Bone_002
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(3) Bone_002_end
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(4) Bone_003
+[2024.04.15-00.08.33:647][732]LogFbx: SortedLinks :(5) Bone_004
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(6) Bone_005
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(7) Bone_005_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(8) Bone_006
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(9) Bone_007
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(10) Bone_008
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(11) Bone_008_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(0) Bone
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(1) Bone_001
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(2) Bone_002
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(3) Bone_002_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(4) Bone_003
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(5) Bone_004
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(6) Bone_005
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(7) Bone_005_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(8) Bone_006
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(9) Bone_007
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(10) Bone_008
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(11) Bone_008_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(0) Bone
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(1) Bone_001
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(2) Bone_002
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(3) Bone_002_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(4) Bone_003
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(5) Bone_004
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(6) Bone_005
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(7) Bone_005_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(8) Bone_006
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(9) Bone_007
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(10) Bone_008
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(11) Bone_008_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(0) Bone
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(1) Bone_001
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(2) Bone_002
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(3) Bone_002_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(4) Bone_003
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(5) Bone_004
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(6) Bone_005
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(7) Bone_005_end
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(8) Bone_006
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(9) Bone_007
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(10) Bone_008
+[2024.04.15-00.08.33:648][732]LogFbx: SortedLinks :(11) Bone_008_end
+[2024.04.15-00.08.33:648][732]LogFbx: Parsing AnimStack Armature|ArmatureAction
+[2024.04.15-00.08.33:649][732]LogFbx: Parsing AnimStack Armature|ArmatureAction.001
+[2024.04.15-00.08.33:649][732]LogFbx: Parsing AnimStack Armature|ArmatureAction.002
+[2024.04.15-00.08.33:649][732]LogFbx: Parsing AnimStack Armature|ArmatureAction.003
+[2024.04.15-00.08.33:901][732]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Bone:0) 
+Source Global Transform (5.565411,0.000000,0.000000|12.167748,-17.816469,112.271942|99.999994,99.999988,100.000000), 
+Converted Global Transform (0.055654,0.000000,0.000000|12.167750,-17.816467,112.271950|1.000000,1.000000,1.000000)
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: The following bones are missing from the bind pose:
+Bone.002_end  
+Bone.005_end  
+Bone.008_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: Mesh 'polySurface27' has no UV set. Creating a default set. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: Animation Stack Armature|ArmatureAction does not contain any valid key. Try different time options when import. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: Animation Stack Armature|ArmatureAction.001 does not contain any valid key. Try different time options when import. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: Animation Stack Armature|ArmatureAction.002 does not contain any valid key. Try different time options when import. 
+[2024.04.15-00.08.33:922][732]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.04.15-00.08.34:065][732]LogAutomationController: Ignoring very large delta of 5.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-00.08.36:214][837]LogSlate: Window 'Message Log' being destroyed
+[2024.04.15-00.08.36:237][837]LogSlate: Window 'Message Log' being destroyed
+[2024.04.15-00.08.39:658][ 16]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/Animations/Demon/Elemental_Walk_Anim.Elemental_Walk_Anim
+[2024.04.15-00.08.39:659][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.08.39:660][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.08.39:676][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.08.39:990][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.08.39:990][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.08.40:144][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.08.40:144][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.08.40:161][ 16]LogViewport: Scene viewport resized to 871x383, mode Windowed.
+[2024.04.15-00.08.40:182][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.15-00.10.02:404][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.15-00.10.04:035][460]LogSlate: Window 'Save Content' being destroyed
+[2024.04.15-00.10.04:045][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.10.04:323][460]LogSavePackage: Moving output files for package: /Game/Models/Animations/Demon/Elemental_Walk
+[2024.04.15-00.10.04:323][460]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Elemental_Walk27614CF5495AD1AC88BAD788526F1F69.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/Demon/Elemental_Walk.uasset'
+[2024.04.15-00.10.04:340][460]LogSavePackage: Moving output files for package: /Game/Models/Animations/Demon/Elemental_Walk_Anim
+[2024.04.15-00.10.04:340][460]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Elemental_Walk_Anim1719409049E5D656DECEC7BEFD453B93.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/Demon/Elemental_Walk_Anim.uasset'
+[2024.04.15-00.10.04:353][460]LogSavePackage: Moving output files for package: /Game/Models/Animations/Demon/Elemental_Walk_PhysicsAsset
+[2024.04.15-00.10.04:353][460]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Elemental_Walk_PhysicsAsset3F8152AB41C00725A34744B93AB02C17.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/Demon/Elemental_Walk_PhysicsAsset.uasset'
+[2024.04.15-00.10.04:362][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 31.6 sec)
+[2024.04.15-00.10.04:365][460]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.15-00.10.04:365][460]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Models/Animations/Demon/Elemental_Walk.Elemental_Walk
+[2024.04.15-00.10.04:365][460]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Models/Animations/Demon/Elemental_Walk_Anim.Elemental_Walk_Anim
+[2024.04.15-00.10.04:365][460]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Models/Animations/Demon/Elemental_Walk_PhysicsAsset.Elemental_Walk_PhysicsAsset
+[2024.04.15-00.10.04:379][460]LogAutomationController: Ignoring very large delta of 2.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-00.10.14:040][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.10.14:111][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-00.10.14:162][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.15-00.10.14:185][  8]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.15-00.10.14:186][  8]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub0124B69045147F67629F3184D54A81B5.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.15-00.10.14:192][  8]LogFileHelpers: Saving map 'Hub' took 0.082
+[2024.04.15-00.10.14:199][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 31.8 sec)
+[2024.04.15-00.10.14:201][  8]AssetCheck: New page: Asset Save: Hub
+[2024.04.15-00.10.14:201][  8]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.15-00.10.42:336][549]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.15-00.10.42:337][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.10.42:337][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.11.07:374][726]BlueprintLog: New page: Compile FireBoss
+[2024.04.15-00.11.07:420][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.15-00.11.07:934][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.11.08:022][745]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.15-00.11.08:022][745]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBoss2378EE4E4DF8A1933442B0A8ECD77E18.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.15-00.11.08:031][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 31.9 sec)
+[2024.04.15-00.11.08:033][745]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.15-00.11.08:033][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.15-00.11.09:854][845]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.11.09:864][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.11.09:864][845]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:11:09 PM)
+[2024.04.15-00.11.09:864][845]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.11.09:871][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007365s)
+[2024.04.15-00.11.09:871][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007411s)
+[2024.04.15-00.11.09:888][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.15-00.11.09:892][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.11.09:892][845]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.11.09:893][845]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.11.09:893][845]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2024.04.15-00.11.09:893][845]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.11.09:893][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.11.09:893][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.11.09:894][845]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.11.09:894][845]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.11.09:894][845]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.11.09:896][845]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.11.09:920][845]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.11.09:920][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.11.09:920][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.11.09:920][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.11.09:921][845]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.15-00.11.09:921][845]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.15-00.11.09:922][845]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.15-00.11.09:922][845]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.15-00.11.09:922][845]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.15-00.11.09:922][845]LogAudio: Display: Audio Device (ID: 13) registered with world 'Hub'.
+[2024.04.15-00.11.09:922][845]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.15-00.11.09:922][845]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.11.09:922][845]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.11.09:925][845]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.11.09:928][845]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.11.09:928][845]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.11.09:928][845]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.11.09:928][845]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.11.09:929][845]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.11.09:930][845]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 630 us (total: 46 ms)
+[2024.04.15-00.11.09:930][845]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.40 sec)
+[2024.04.15-00.11.09:932][845]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.11.09:932][845]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.11.09:932][845]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.11.09:932][845]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.11.09:933][845]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.11.09:933][845]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 344 us (total: 46 ms)
+[2024.04.15-00.11.09:933][845]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.40 sec)
+[2024.04.15-00.11.09:935][845]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.11.09:935][845]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.11.09:935][845]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.11.09:935][845]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.11.09:936][845]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.11.09:937][845]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 868 us (total: 47 ms)
+[2024.04.15-00.11.09:938][845]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.41 sec)
+[2024.04.15-00.11.09:940][845]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.11.09
+[2024.04.15-00.11.09:940][845]LogWorld: Bringing up level for play took: 0.001785
+[2024.04.15-00.11.09:943][845]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.04.15-00.11.09:948][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.11.09:949][845]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.11.09:949][845]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.11.09:949][845]PIE: Server logged in
+[2024.04.15-00.11.09:950][845]PIE: Play in editor total start time 0.087 seconds.
+[2024.04.15-00.11.10:822][883]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.11.10:822][883]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.11.12:756][ 45]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.11.12:756][ 45]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.11.12:757][ 45]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.11.12:757][ 45]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.11.12:758][ 45]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 590 us (total: 47 ms)
+[2024.04.15-00.11.12:758][ 45]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.41 sec)
+[2024.04.15-00.11.12:770][ 46]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.11.12:770][ 46]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.11.28:902][409]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.11.28:902][409]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.11.28:944][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.11.28:944][409]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.11.28:945][409]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.11.28:945][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.11.28:949][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.11.28:957][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.11.28:974][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.11.28:974][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.15-00.11.28:974][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.15-00.11.28:976][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.15-00.11.28:984][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.15-00.11.29:064][410]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.04.15-00.11.29:079][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-00.11.55:470][846]LogEditorTransaction: Undo Create Pin Link
+[2024.04.15-00.11.55:639][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.11.56:131][855]LogEditorTransaction: Undo Delete current selection
+[2024.04.15-00.11.56:341][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.12.16:508][929]LogEditorTransaction: Undo Move Node
+[2024.04.15-00.12.16:706][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.12.21:690][181]BlueprintLog: New page: Compile FireBoss
+[2024.04.15-00.12.21:736][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.15-00.12.22:238][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.12.22:354][202]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.15-00.12.22:354][202]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBoss844ED2A34DEFE63A3CBD2B9C2A30B807.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.15-00.12.22:363][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 32.0 sec)
+[2024.04.15-00.12.22:365][202]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.15-00.12.22:365][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.15-00.12.24:037][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.12.24:046][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.12.24:046][309]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:12:24 PM)
+[2024.04.15-00.12.24:046][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.12.24:055][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007805s)
+[2024.04.15-00.12.24:055][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007852s)
+[2024.04.15-00.12.24:069][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.15-00.12.24:075][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.12.24:075][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.12.24:076][309]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.12.24:076][309]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2024.04.15-00.12.24:076][309]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.12.24:076][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.12.24:076][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.12.24:077][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.12.24:077][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.12.24:077][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.12.24:079][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.12.24:102][309]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.12.24:102][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.12.24:102][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.12.24:102][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.12.24:103][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.15-00.12.24:103][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.15-00.12.24:105][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.15-00.12.24:105][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.15-00.12.24:105][309]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.15-00.12.24:105][309]LogAudio: Display: Audio Device (ID: 14) registered with world 'Hub'.
+[2024.04.15-00.12.24:105][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-00.12.24:105][309]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.12.24:105][309]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.12.24:108][309]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.12.24:111][309]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.12.24:111][309]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.12.24:111][309]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.12.24:111][309]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.12.24:112][309]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.12.24:112][309]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 396 us (total: 48 ms)
+[2024.04.15-00.12.24:112][309]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.41 sec)
+[2024.04.15-00.12.24:114][309]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.12.24:114][309]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.12.24:114][309]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.12.24:114][309]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.12.24:115][309]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.12.24:116][309]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 981 us (total: 49 ms)
+[2024.04.15-00.12.24:117][309]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.41 sec)
+[2024.04.15-00.12.24:119][309]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.12.24:119][309]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.12.24:119][309]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.12.24:119][309]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.12.24:120][309]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.12.24:121][309]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 587 us (total: 49 ms)
+[2024.04.15-00.12.24:121][309]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.41 sec)
+[2024.04.15-00.12.24:123][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.12.24
+[2024.04.15-00.12.24:124][309]LogWorld: Bringing up level for play took: 0.001612
+[2024.04.15-00.12.24:126][309]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.04.15-00.12.24:131][309]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.12.24:132][309]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.12.24:132][309]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.12.24:132][309]PIE: Server logged in
+[2024.04.15-00.12.24:133][309]PIE: Play in editor total start time 0.087 seconds.
+[2024.04.15-00.12.24:886][345]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.12.24:886][345]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.12.26:968][515]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.12.26:968][515]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.12.26:968][515]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.12.26:969][515]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.12.26:970][515]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 458 us (total: 50 ms)
+[2024.04.15-00.12.26:970][515]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.42 sec)
+[2024.04.15-00.12.26:984][516]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.12.26:984][516]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.12.37:780][411]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.12.37:780][411]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.12.37:804][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.12.37:804][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.12.37:805][411]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.12.37:805][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.12.37:809][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.12.37:816][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.12.37:833][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.12.37:833][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.15-00.12.37:833][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-00.12.37:835][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.15-00.12.37:843][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.15-00.12.37:935][412]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.04.15-00.12.37:951][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.15-00.13.35:070][512]BlueprintLog: New page: Compile FireBoss
+[2024.04.15-00.13.35:117][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.15-00.13.35:906][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.13.36:022][548]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.15-00.13.36:022][548]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBossF31BE2794247924CCD29A4B749BB2BB7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.15-00.13.36:030][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 32.1 sec)
+[2024.04.15-00.13.36:032][548]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.15-00.13.36:032][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.15-00.13.37:831][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.13.37:841][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.13.37:841][652]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:13:37 PM)
+[2024.04.15-00.13.37:863][652]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.13.37:870][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007524s)
+[2024.04.15-00.13.37:871][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007580s)
+[2024.04.15-00.13.37:886][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-00.13.37:890][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.13.37:890][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.13.37:891][652]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.13.37:891][652]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2024.04.15-00.13.37:891][652]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.13.37:891][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.13.37:891][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.13.37:893][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.13.37:893][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.13.37:893][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.13.37:895][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.13.37:917][652]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.13.37:918][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.13.37:918][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.13.37:918][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.13.37:919][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.04.15-00.13.37:919][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.04.15-00.13.37:920][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.04.15-00.13.37:920][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.04.15-00.13.37:920][652]LogInit: FAudioDevice initialized with ID 15.
+[2024.04.15-00.13.37:920][652]LogAudio: Display: Audio Device (ID: 15) registered with world 'Hub'.
+[2024.04.15-00.13.37:921][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-00.13.37:921][652]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.13.37:921][652]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.13.37:923][652]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.13.37:926][652]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.13.37:926][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.13.37:926][652]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.13.37:926][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.13.37:928][652]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.13.37:928][652]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 950 us (total: 51 ms)
+[2024.04.15-00.13.37:929][652]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.42 sec)
+[2024.04.15-00.13.37:931][652]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.13.37:931][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.13.37:931][652]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.13.37:931][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.13.37:933][652]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.13.37:933][652]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 375 us (total: 51 ms)
+[2024.04.15-00.13.37:933][652]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.42 sec)
+[2024.04.15-00.13.37:935][652]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.13.37:935][652]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.13.37:935][652]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.13.37:935][652]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.13.37:936][652]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.13.37:937][652]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 595 us (total: 52 ms)
+[2024.04.15-00.13.37:937][652]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.42 sec)
+[2024.04.15-00.13.37:939][652]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.13.37
+[2024.04.15-00.13.37:939][652]LogWorld: Bringing up level for play took: 0.001668
+[2024.04.15-00.13.37:942][652]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.04.15-00.13.37:947][652]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.13.37:947][652]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.13.37:947][652]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.13.37:947][652]PIE: Server logged in
+[2024.04.15-00.13.37:948][652]PIE: Play in editor total start time 0.107 seconds.
+[2024.04.15-00.13.38:657][694]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.13.38:657][694]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.13.40:601][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.13.40:601][857]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.13.40:601][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.13.40:602][857]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.13.40:602][857]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 450 us (total: 52 ms)
+[2024.04.15-00.13.40:603][857]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.43 sec)
+[2024.04.15-00.13.40:615][858]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.13.40:615][858]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.13.54:805][ 48]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.13.54:806][ 48]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.13.54:834][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.13.54:834][ 48]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.13.54:835][ 48]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.13.54:835][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.13.54:838][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.13.54:846][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.13.54:862][ 48]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-00.13.54:862][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.04.15-00.13.54:863][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-00.13.54:865][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.04.15-00.13.54:868][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.13.54:872][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.15-00.13.54:950][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.04.15-00.13.54:966][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.15-00.14.02:149][416]BlueprintLog: New page: Compile FireBoss
+[2024.04.15-00.14.02:191][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.15-00.14.02:739][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.14.02:848][433]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.15-00.14.02:848][433]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBoss7E8105FC47D0F02BD9F3E5B70CDC7931.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.15-00.14.02:857][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 32.2 sec)
+[2024.04.15-00.14.02:858][433]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.15-00.14.02:858][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.15-00.14.04:641][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.14.04:650][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.14.04:650][538]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:14:04 PM)
+[2024.04.15-00.14.04:684][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.14.04:691][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007112s)
+[2024.04.15-00.14.04:691][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007163s)
+[2024.04.15-00.14.04:705][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.15-00.14.04:710][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.14.04:710][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.14.04:711][538]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.14.04:711][538]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.04.15-00.14.04:711][538]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.14.04:711][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.14.04:711][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.14.04:712][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.14.04:712][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.14.04:712][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.14.04:714][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.14.04:736][538]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.14.04:737][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.14.04:737][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.14.04:737][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.14.04:737][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.04.15-00.14.04:737][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.04.15-00.14.04:739][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.04.15-00.14.04:739][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.04.15-00.14.04:739][538]LogInit: FAudioDevice initialized with ID 16.
+[2024.04.15-00.14.04:739][538]LogAudio: Display: Audio Device (ID: 16) registered with world 'Hub'.
+[2024.04.15-00.14.04:739][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-00.14.04:739][538]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.14.04:739][538]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.14.04:742][538]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.14.04:744][538]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.14.04:744][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.14.04:744][538]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.14.04:744][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.14.04:746][538]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.14.04:747][538]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 927 us (total: 53 ms)
+[2024.04.15-00.14.04:748][538]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.43 sec)
+[2024.04.15-00.14.04:750][538]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.14.04:750][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.14.04:750][538]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.14.04:750][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.14.04:751][538]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.14.04:751][538]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 347 us (total: 53 ms)
+[2024.04.15-00.14.04:752][538]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.43 sec)
+[2024.04.15-00.14.04:754][538]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.14.04:754][538]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.14.04:754][538]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.14.04:754][538]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.14.04:755][538]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.14.04:756][538]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 636 us (total: 54 ms)
+[2024.04.15-00.14.04:756][538]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.43 sec)
+[2024.04.15-00.14.04:758][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.14.04
+[2024.04.15-00.14.04:758][538]LogWorld: Bringing up level for play took: 0.001587
+[2024.04.15-00.14.04:760][538]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.04.15-00.14.04:766][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.14.04:767][538]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.14.04:767][538]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.14.04:767][538]PIE: Server logged in
+[2024.04.15-00.14.04:768][538]PIE: Play in editor total start time 0.118 seconds.
+[2024.04.15-00.14.05:390][579]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.14.05:390][579]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.14.07:049][719]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.14.07:049][719]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.14.07:049][719]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.14.07:050][719]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.14.07:051][719]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 450 us (total: 55 ms)
+[2024.04.15-00.14.07:051][719]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.43 sec)
+[2024.04.15-00.14.07:063][720]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.14.07:063][720]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.14.32:462][837]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.14.32:462][837]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.14.32:493][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.14.32:493][837]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.14.32:494][837]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.14.32:495][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.14.32:498][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.14.32:506][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.14.32:522][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-00.14.32:522][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.04.15-00.14.32:522][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-00.14.32:525][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.04.15-00.14.32:529][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.14.32:532][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.15-00.14.32:617][838]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.04.15-00.14.32:632][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.15-00.16.37:870][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.16.37:926][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-00.16.37:966][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.04.15-00.16.37:990][394]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.15-00.16.37:990][394]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub68437BA9407B92B6472618A8706CCE4A.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.15-00.16.37:996][394]LogFileHelpers: Saving map 'Hub' took 0.071
+[2024.04.15-00.16.38:003][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 32.4 sec)
+[2024.04.15-00.16.38:004][394]AssetCheck: New page: Asset Save: Hub
+[2024.04.15-00.16.38:004][394]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.15-00.16.58:739][ 30]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.15-00.17.02:005][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.15-00.17.02:023][207]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.04.15-00.17.02:024][207]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_2
+[2024.04.15-00.17.02:025][207]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_2
+[2024.04.15-00.17.57:221][506]Cmd: EDIT CUT
+[2024.04.15-00.17.57:309][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.15-00.17.57:326][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.15-00.17.57:331][506]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2024.04.15-00.18.00:442][788]Cmd: EDIT PASTE
+[2024.04.15-00.18.32:692][230]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Animations/body1_001.body1_001
+[2024.04.15-00.18.32:697][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.18.32:697][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.18.32:882][230]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.18.32:882][230]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.18.32:882][230]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.18.32:882][230]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.18.32:895][230]LogViewport: Scene viewport resized to 286x319, mode Windowed.
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Total job queries 1,468, among them cache hits 836 (56.95%)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Tracking 622 distinct input hashes that result in 167 distinct outputs (26.85%)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: RAM used: 13.97 MiB of 2.40 GiB budget. Usage: 0.57%
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Shaders Compiled: 524
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Jobs assigned 524, completed 524 (100%)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Average time worker was idle: 11.47 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Time job spent in pending queue: average 0.67 s, longest 2.51 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 2.44 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 2.81
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Shader code size: average 37.57 KiB, min 4.465 KiB, max 62.715 KiB
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.01 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Jobs were issued in 524 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Average processing rate: 14.16 jobs/sec
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Total thread time: 164.49 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Total thread preprocess time: 17.103 s
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Percentage time preprocessing: 10.40%
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Effective parallelization: 4.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled   17 times, average 0.43 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   12 times, average 0.42 sec, max 0.59 sec, min 0.32 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   17 times, average 0.42 sec, max 0.60 sec, min 0.30 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.40 sec, max 0.62 sec, min 0.26 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   20 times, average 0.39 sec, max 0.56 sec, min 0.35 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.55% of total time (compiled   23 times, average 0.40 sec, max 0.62 sec, min 0.26 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.16% of total time (compiled   23 times, average 0.37 sec, max 0.59 sec, min 0.27 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.75% of total time (compiled   20 times, average 0.39 sec, max 0.56 sec, min 0.35 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.59% of total time (compiled   20 times, average 0.38 sec, max 0.53 sec, min 0.31 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.56% of total time (compiled   20 times, average 0.37 sec, max 0.51 sec, min 0.33 sec)
+[2024.04.15-00.18.32:943][231]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.18.32:969][232]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.19.52:862][619]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.19.52:862][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.19.52:862][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.52:862][619]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.52:961][621]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.19.55:632][723]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.19.55:632][723]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.19.55:632][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.55:632][723]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.55:713][725]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.19.57:300][793]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.19.57:300][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.19.57:300][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.57:300][793]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.19.57:372][795]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.20.00:371][941]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.20.00:371][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.15-00.20.00:371][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.20.00:371][941]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.20.00:871][964]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.15-00.20.00:872][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.15-00.20.00:872][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.20.00:872][964]MaterialEditorStats: Shader Count: 1
+[2024.04.15-00.20.00:964][967]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.20.00:964][967]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.15-00.20.00:964][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.15-00.20.00:964][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.20.00:964][967]MaterialEditorStats: Shader Count: 2
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.20.01:079][973]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.20.02:335][ 35]LogMaterialEditor: Saving and Compiling material body1_001
+[2024.04.15-00.20.02:459][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.15-00.20.03:001][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.15-00.20.03:012][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.20.04:577][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Animations/body1_001" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset" SILENT=true
+[2024.04.15-00.20.04:579][ 35]LogSavePackage: Moving output files for package: /Game/Models/Animations/body1_001
+[2024.04.15-00.20.04:579][ 35]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/body1_001638F42254A1644C9F5DA039777947EDD.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset'
+[2024.04.15-00.20.04:589][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.57 sec (total: 33.9 sec)
+[2024.04.15-00.20.04:590][ 35]AssetCheck: New page: Asset Save: body1_001
+[2024.04.15-00.20.04:590][ 35]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Animations/body1_001.body1_001
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: MaxSampler: 257 instructions
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.20.04:592][ 35]MaterialEditorStats: Shader Count: 30
+[2024.04.15-00.20.04:640][ 35]LogAutomationController: Ignoring very large delta of 2.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-00.20.06:782][146]LogMaterialEditor: Saving and Compiling material body1_001
+[2024.04.15-00.20.06:785][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.20.06:850][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Animations/body1_001" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset" SILENT=true
+[2024.04.15-00.20.06:851][146]LogSavePackage: Moving output files for package: /Game/Models/Animations/body1_001
+[2024.04.15-00.20.06:851][146]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/body1_0010BAF23244855DA25BDE832AF2E3786D0.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset'
+[2024.04.15-00.20.06:859][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 34.0 sec)
+[2024.04.15-00.20.06:860][146]AssetCheck: New page: Asset Save: body1_001
+[2024.04.15-00.20.06:860][146]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Animations/body1_001.body1_001
+[2024.04.15-00.20.09:104][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.20.09:114][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.20.09:114][285]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:20:09 PM)
+[2024.04.15-00.20.09:114][285]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.20.09:122][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007726s)
+[2024.04.15-00.20.09:122][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007778s)
+[2024.04.15-00.20.09:139][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.04.15-00.20.09:141][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.20.09:141][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.20.09:142][285]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.20.09:142][285]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2024.04.15-00.20.09:142][285]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.20.09:142][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.20.09:142][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.20.09:143][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.20.09:143][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.20.09:143][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.20.09:145][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.20.09:173][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.20.09:173][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.20.09:173][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.20.09:173][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.20.09:174][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.04.15-00.20.09:174][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.04.15-00.20.09:176][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.04.15-00.20.09:176][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.04.15-00.20.09:176][285]LogInit: FAudioDevice initialized with ID 17.
+[2024.04.15-00.20.09:176][285]LogAudio: Display: Audio Device (ID: 17) registered with world 'Hub'.
+[2024.04.15-00.20.09:176][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-00.20.09:176][285]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.20.09:176][285]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.20.09:179][285]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.20.09:182][285]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.09:182][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.09:182][285]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.09:182][285]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.09:183][285]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.20.09:184][285]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 946 us (total: 55 ms)
+[2024.04.15-00.20.09:185][285]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.44 sec)
+[2024.04.15-00.20.09:188][285]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.09:188][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.09:188][285]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.09:188][285]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.09:189][285]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.20.09:189][285]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 604 us (total: 56 ms)
+[2024.04.15-00.20.09:190][285]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.44 sec)
+[2024.04.15-00.20.09:191][285]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.09:191][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.09:191][285]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.09:191][285]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.09:192][285]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.20.09:192][285]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 343 us (total: 56 ms)
+[2024.04.15-00.20.09:192][285]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.44 sec)
+[2024.04.15-00.20.09:194][285]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.20.09
+[2024.04.15-00.20.09:194][285]LogWorld: Bringing up level for play took: 0.001693
+[2024.04.15-00.20.09:197][285]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2024.04.15-00.20.09:202][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.20.09:203][285]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.20.09:203][285]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.20.09:203][285]PIE: Server logged in
+[2024.04.15-00.20.09:204][285]PIE: Play in editor total start time 0.091 seconds.
+[2024.04.15-00.20.11:422][427]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.20.11:422][427]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.20.13:077][562]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.13:077][562]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.13:077][562]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.13:078][562]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.20.13:078][562]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 463 us (total: 57 ms)
+[2024.04.15-00.20.13:079][562]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.44 sec)
+[2024.04.15-00.20.13:091][563]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.20.13:091][563]LogStreaming: Display: FlushAsyncLoading(): 25 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.20.20:056][145]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.20.20:056][145]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.20.20:103][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.20.20:103][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.20.20:104][145]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.20.20:105][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.20.20:110][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.20.20:120][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.20.20:137][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.20.20:137][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.04.15-00.20.20:137][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-00.20.20:139][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.04.15-00.20.20:148][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.15-00.20.20:223][146]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2024.04.15-00.20.20:240][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.15-00.20.46:975][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.15-00.20.48:129][217]LogSlate: Window 'Save Content' being destroyed
+[2024.04.15-00.20.48:138][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.20.48:200][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.15-00.20.48:250][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.15-00.20.48:272][217]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.15-00.20.48:272][217]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub37A3692B44914DF88E3BB8BDAC38C253.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.15-00.20.48:281][217]LogFileHelpers: Saving map 'Hub' took 0.081
+[2024.04.15-00.20.48:283][217]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FireLevel/3/KY/7DOTXS00UXXXJPJ5BQ0WUK
+[2024.04.15-00.20.48:283][217]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/7DOTXS00UXXXJPJ5BQ0WUK28A6D9DE4F1F1BA0A757719D111D58D7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/FireLevel/3/KY/7DOTXS00UXXXJPJ5BQ0WUK.uasset'
+[2024.04.15-00.20.48:293][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 34.2 sec)
+[2024.04.15-00.20.48:296][217]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.15-00.20.48:296][217]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.15-00.20.48:296][217]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/FireLevel.FireLevel:PersistentLevel.StaticMeshActor_UAID_047C16DA93002DEC01_1905603295
+[2024.04.15-00.20.53:363][632]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.20.53:373][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.20.53:373][632]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:20:53 PM)
+[2024.04.15-00.20.53:374][632]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.20.53:383][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009319s)
+[2024.04.15-00.20.53:383][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.009376s)
+[2024.04.15-00.20.53:400][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.15-00.20.53:401][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.20.53:401][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.20.53:401][632]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.20.53:402][632]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2024.04.15-00.20.53:402][632]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.20.53:402][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.20.53:402][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.20.53:402][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.20.53:402][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.20.53:403][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.20.53:405][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.20.53:432][632]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.20.53:433][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.20.53:433][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.20.53:433][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.20.53:433][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.04.15-00.20.53:433][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.04.15-00.20.53:436][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.04.15-00.20.53:436][632]LogInit: FAudioDevice initialized with ID 18.
+[2024.04.15-00.20.53:436][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.04.15-00.20.53:436][632]LogAudio: Display: Audio Device (ID: 18) registered with world 'Hub'.
+[2024.04.15-00.20.53:436][632]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.15-00.20.53:436][632]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.20.53:436][632]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.20.53:439][632]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.20.53:442][632]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.53:442][632]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.53:442][632]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.53:442][632]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.53:443][632]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.20.53:443][632]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 414 us (total: 57 ms)
+[2024.04.15-00.20.53:444][632]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.45 sec)
+[2024.04.15-00.20.53:446][632]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.53:446][632]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.53:446][632]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.53:446][632]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.53:447][632]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.20.53:448][632]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 628 us (total: 58 ms)
+[2024.04.15-00.20.53:448][632]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.45 sec)
+[2024.04.15-00.20.53:451][632]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.20.53:451][632]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.53:451][632]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.53:451][632]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.53:453][632]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.20.53:454][632]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 915 us (total: 59 ms)
+[2024.04.15-00.20.53:454][632]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.45 sec)
+[2024.04.15-00.20.53:456][632]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.20.53
+[2024.04.15-00.20.53:457][632]LogWorld: Bringing up level for play took: 0.001628
+[2024.04.15-00.20.53:459][632]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.04.15-00.20.53:464][632]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.20.53:465][632]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.20.53:465][632]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.20.53:465][632]PIE: Server logged in
+[2024.04.15-00.20.53:466][632]PIE: Play in editor total start time 0.093 seconds.
+[2024.04.15-00.20.54:213][668]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.20.54:213][668]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.20.56:402][850]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.20.56:402][850]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.20.56:402][850]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.20.56:403][850]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.20.56:404][850]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 656 us (total: 60 ms)
+[2024.04.15-00.20.56:404][850]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.45 sec)
+[2024.04.15-00.20.56:417][851]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.20.56:417][851]LogStreaming: Display: FlushAsyncLoading(): 26 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.21.02:153][310]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.15-00.21.02:153][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.15-00.21.02:164][311]LogNet: Browse: /Game/Maps/Menus/LoseLevel
+[2024.04.15-00.21.02:164][311]LogLoad: LoadMap: /Game/Maps/Menus/LoseLevel
+[2024.04.15-00.21.02:164][311]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.21.02:165][311]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.02:166][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.02:166][311]LogWorld: UWorld::CleanupWorld for FireLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.02:166][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.02:166][311]LogWorld: UWorld::CleanupWorld for FireLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.02:166][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.02:166][311]LogWorld: UWorld::CleanupWorld for LightningLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.02:166][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.02:166][311]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.02:166][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.02:242][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-00.21.02:247][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.15-00.21.02:249][311]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.04.15-00.21.02:258][311]LogAudio: Display: Audio Device (ID: 18) registered with world 'LoseLevel'.
+[2024.04.15-00.21.02:258][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.21.02:259][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.21.02:259][311]LogAIModule: Creating AISystem for world LoseLevel
+[2024.04.15-00.21.02:259][311]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2024.04.15-00.21.02:259][311]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.04.15-00.21.02:260][311]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_LoseLevel.LoseLevel up for play (max tick rate 0) at 2024.04.14-20.21.02
+[2024.04.15-00.21.02:260][311]LogWorld: Bringing up level for play took: 0.000457
+[2024.04.15-00.21.02:260][311]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.15-00.21.02:279][311]LogLoad: Took 0.115654 seconds to LoadMap(/Game/Maps/Menus/LoseLevel)
+[2024.04.15-00.21.03:538][458]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.21.03:538][458]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.21.03:572][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.21.03:572][458]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_LoseLevel
+[2024.04.15-00.21.03:572][458]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.03:573][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.03:576][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.21.03:584][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.03:599][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.21.03:600][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.04.15-00.21.03:600][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.15-00.21.03:601][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.04.15-00.21.03:608][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.15-00.21.03:678][459]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.04.15-00.21.21:637][882]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.21.21:637][882]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.21.21:637][882]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.21.21:637][882]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.21.22:178][906]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.15-00.21.22:178][906]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.21.22:178][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.21.22:178][906]MaterialEditorStats: Shader Count: 1
+[2024.04.15-00.21.22:262][908]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.21.22:262][908]MaterialEditorStats: Texture samplers: 2/16
+[2024.04.15-00.21.22:262][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.21.22:262][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.21.22:262][908]MaterialEditorStats: Shader Count: 3
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.21.22:381][914]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.21.22:836][935]LogMaterialEditor: Saving and Compiling material body1_001
+[2024.04.15-00.21.22:925][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.04.15-00.21.23:582][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.04.15-00.21.23:594][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.21.25:207][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Animations/body1_001" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset" SILENT=true
+[2024.04.15-00.21.25:209][935]LogSavePackage: Moving output files for package: /Game/Models/Animations/body1_001
+[2024.04.15-00.21.25:210][935]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/body1_00186D7987243BA10E9A98267B6AC1864D8.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset'
+[2024.04.15-00.21.25:217][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.62 sec (total: 35.8 sec)
+[2024.04.15-00.21.25:218][935]AssetCheck: New page: Asset Save: body1_001
+[2024.04.15-00.21.25:218][935]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Animations/body1_001.body1_001
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: MaxSampler: 251 instructions
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.21.25:220][935]MaterialEditorStats: Shader Count: 30
+[2024.04.15-00.21.25:270][935]LogAutomationController: Ignoring very large delta of 2.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.15-00.21.27:206][ 59]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.21.27:215][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.21.27:215][ 59]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:21:27 PM)
+[2024.04.15-00.21.27:242][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.21.27:249][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007360s)
+[2024.04.15-00.21.27:249][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007416s)
+[2024.04.15-00.21.27:264][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.15-00.21.27:267][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.21.27:267][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.21.27:268][ 59]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.21.27:268][ 59]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2024.04.15-00.21.27:268][ 59]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.21.27:268][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.21.27:268][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.21.27:269][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.21.27:269][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.21.27:269][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.21.27:270][ 59]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.21.27:294][ 59]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.21.27:295][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.21.27:295][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.21.27:295][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.21.27:295][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.15-00.21.27:295][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.15-00.21.27:297][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.15-00.21.27:297][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.15-00.21.27:297][ 59]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.15-00.21.27:297][ 59]LogAudio: Display: Audio Device (ID: 19) registered with world 'Hub'.
+[2024.04.15-00.21.27:297][ 59]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.15-00.21.27:298][ 59]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.21.27:298][ 59]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.21.27:300][ 59]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.21.27:304][ 59]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.21.27:304][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.21.27:304][ 59]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.21.27:304][ 59]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.21.27:304][ 59]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.21.27:305][ 59]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 410 us (total: 60 ms)
+[2024.04.15-00.21.27:305][ 59]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.46 sec)
+[2024.04.15-00.21.27:307][ 59]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.21.27:307][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.21.27:307][ 59]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.21.27:307][ 59]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.21.27:309][ 59]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.21.27:309][ 59]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 886 us (total: 61 ms)
+[2024.04.15-00.21.27:310][ 59]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.46 sec)
+[2024.04.15-00.21.27:312][ 59]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.21.27:312][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.21.27:312][ 59]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.21.27:312][ 59]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.21.27:313][ 59]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.21.27:314][ 59]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 609 us (total: 61 ms)
+[2024.04.15-00.21.27:314][ 59]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.46 sec)
+[2024.04.15-00.21.27:316][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.21.27
+[2024.04.15-00.21.27:316][ 59]LogWorld: Bringing up level for play took: 0.001614
+[2024.04.15-00.21.27:318][ 59]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2024.04.15-00.21.27:324][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.21.27:325][ 59]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.21.27:325][ 59]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.21.27:325][ 59]PIE: Server logged in
+[2024.04.15-00.21.27:326][ 59]PIE: Play in editor total start time 0.111 seconds.
+[2024.04.15-00.21.27:794][ 73]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.21.27:794][ 73]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.21.29:743][236]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.21.29:743][236]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.21.29:744][236]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.21.29:744][236]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.21.29:745][236]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 456 us (total: 62 ms)
+[2024.04.15-00.21.29:745][236]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.46 sec)
+[2024.04.15-00.21.29:757][237]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.21.29:757][237]LogStreaming: Display: FlushAsyncLoading(): 26 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.21.33:819][566]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.21.33:819][566]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.21.33:843][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.21.33:843][566]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.21.33:843][566]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.21.33:844][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.33:848][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.21.33:856][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.21.33:870][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.21.33:871][566]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.15-00.21.33:871][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.15-00.21.33:873][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.15-00.21.33:882][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.15-00.21.33:961][567]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2024.04.15-00.21.33:978][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.04.15-00.22.08:638][180]Cmd: TRANSACTION UNDO
+[2024.04.15-00.22.08:638][180]LogEditorTransaction: Undo Edit Temp
+[2024.04.15-00.22.08:861][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_76:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.15-00.23.13:046][644]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.23.13:046][644]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.23.13:046][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.13:046][644]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Total job queries 1,593, among them cache hits 901 (56.56%)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Tracking 682 distinct input hashes that result in 178 distinct outputs (26.10%)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: RAM used: 15.48 MiB of 2.40 GiB budget. Usage: 0.63%
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Shaders Compiled: 584
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Jobs assigned 584, completed 584 (100%)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Average time worker was idle: 33.36 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Time job spent in pending queue: average 0.65 s, longest 2.51 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 2.44 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 2.81
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Shader code size: average 38.239 KiB, min 4.465 KiB, max 62.715 KiB
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.13 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Jobs were issued in 584 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Average processing rate: 13.86 jobs/sec
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Total thread time: 183.834 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Total thread preprocess time: 19.199 s
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Percentage time preprocessing: 10.44%
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Effective parallelization: 4.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled   17 times, average 0.43 sec, max 0.64 sec, min 0.30 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   17 times, average 0.42 sec, max 0.60 sec, min 0.30 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   14 times, average 0.41 sec, max 0.59 sec, min 0.32 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   24 times, average 0.39 sec, max 0.56 sec, min 0.35 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   27 times, average 0.39 sec, max 0.62 sec, min 0.26 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.74% of total time (compiled   27 times, average 0.39 sec, max 0.62 sec, min 0.26 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.28% of total time (compiled   27 times, average 0.36 sec, max 0.59 sec, min 0.27 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.12% of total time (compiled   24 times, average 0.39 sec, max 0.56 sec, min 0.35 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.90% of total time (compiled   24 times, average 0.37 sec, max 0.51 sec, min 0.33 sec)
+[2024.04.15-00.23.13:095][645]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 4.90% of total time (compiled   24 times, average 0.37 sec, max 0.53 sec, min 0.31 sec)
+[2024.04.15-00.23.13:096][645]LogShaderCompilers: Display: ================================================
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.13:113][646]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.23.14:239][694]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.23.14:239][694]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.23.14:239][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.14:239][694]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.14:331][696]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.23.16:355][789]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.15-00.23.16:355][789]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.23.16:355][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.16:355][789]MaterialEditorStats: Shader Count: 0
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.16:397][791]MaterialEditorStats: Shader Count: 4
+[2024.04.15-00.23.17:474][843]LogMaterialEditor: Saving and Compiling material body1_001
+[2024.04.15-00.23.17:554][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.15-00.23.17:770][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.15-00.23.17:781][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.23.17:862][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Animations/body1_001" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset" SILENT=true
+[2024.04.15-00.23.17:864][843]LogSavePackage: Moving output files for package: /Game/Models/Animations/body1_001
+[2024.04.15-00.23.17:865][843]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/body1_001B6F83FF245176517BA5C22AD5F1DEBB3.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/Animations/body1_001.uasset'
+[2024.04.15-00.23.17:874][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 35.9 sec)
+[2024.04.15-00.23.17:875][843]AssetCheck: New page: Asset Save: body1_001
+[2024.04.15-00.23.17:875][843]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/Animations/body1_001.body1_001
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: MaxSampler: 251 instructions
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Base pass vertex shader: 275 instructions
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.15-00.23.17:876][843]MaterialEditorStats: Shader Count: 30
+[2024.04.15-00.23.20:171][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.15-00.23.20:179][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.15-00.23.20:179][963]PIE: New page: PIE session: Hub (Apr 14, 2024, 4:23:20 PM)
+[2024.04.15-00.23.20:201][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.23.20:209][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007182s)
+[2024.04.15-00.23.20:209][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007239s)
+[2024.04.15-00.23.20:225][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.15-00.23.20:226][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.23.20:226][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.23.20:227][963]LogAIModule: Creating AISystem for world Hub
+[2024.04.15-00.23.20:227][963]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2024.04.15-00.23.20:227][963]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.15-00.23.20:227][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.15-00.23.20:227][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.15-00.23.20:228][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.15-00.23.20:228][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.15-00.23.20:228][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.15-00.23.20:229][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.15-00.23.20:254][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.15-00.23.20:254][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.15-00.23.20:254][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.15-00.23.20:255][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.15-00.23.20:255][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.15-00.23.20:255][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.15-00.23.20:257][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.15-00.23.20:257][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.15-00.23.20:257][963]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.15-00.23.20:257][963]LogAudio: Display: Audio Device (ID: 20) registered with world 'Hub'.
+[2024.04.15-00.23.20:257][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.15-00.23.20:257][963]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.15-00.23.20:257][963]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.15-00.23.20:260][963]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.15-00.23.20:263][963]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.23.20:263][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.23.20:263][963]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.23.20:263][963]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.23.20:264][963]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.15-00.23.20:265][963]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 945 us (total: 63 ms)
+[2024.04.15-00.23.20:266][963]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 3.47 sec)
+[2024.04.15-00.23.20:268][963]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.23.20:268][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.23.20:268][963]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.23.20:268][963]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.23.20:269][963]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.15-00.23.20:271][963]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 606 us (total: 63 ms)
+[2024.04.15-00.23.20:271][963]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.47 sec)
+[2024.04.15-00.23.20:273][963]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.15-00.23.20:273][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.23.20:273][963]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.23.20:273][963]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.23.20:274][963]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.23.20:274][963]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 356 us (total: 64 ms)
+[2024.04.15-00.23.20:274][963]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 3.47 sec)
+[2024.04.15-00.23.20:276][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.14-20.23.20
+[2024.04.15-00.23.20:276][963]LogWorld: Bringing up level for play took: 0.001600
+[2024.04.15-00.23.20:278][963]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2024.04.15-00.23.20:283][963]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.15-00.23.20:284][963]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.15-00.23.20:284][963]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.15-00.23.20:284][963]PIE: Server logged in
+[2024.04.15-00.23.20:285][963]PIE: Play in editor total start time 0.106 seconds.
+[2024.04.15-00.23.20:845][980]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Gamepad
+[2024.04.15-00.23.20:845][980]LogSlate: User[0] UsePlatformCursorForCursorUser(false)
+[2024.04.15-00.23.22:668][107]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.15-00.23.22:669][107]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.15-00.23.22:669][107]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.15-00.23.22:670][107]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.15-00.23.22:670][107]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 454 us (total: 64 ms)
+[2024.04.15-00.23.22:670][107]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 3.47 sec)
+[2024.04.15-00.23.22:699][108]LogStreaming: Display: UWorldPartitionLevelStreamingDynamic::RequestLevel(/Memory/UEDPIE_0_6M3ZJMDWLKQ9A6D8ELMS8WENM) is flushing async loading
+[2024.04.15-00.23.22:699][108]LogStreaming: Display: FlushAsyncLoading(): 26 QueuedPackages, 0 AsyncPackages
+[2024.04.15-00.23.26:680][370]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.15-00.23.26:680][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.04.15-00.23.26:695][371]LogNet: Browse: /Game/Maps/Menus/LoseLevel
+[2024.04.15-00.23.26:695][371]LogLoad: LoadMap: /Game/Maps/Menus/LoseLevel
+[2024.04.15-00.23.26:695][371]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.15-00.23.26:696][371]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.26:696][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.26:697][371]LogWorld: UWorld::CleanupWorld for FireLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.26:697][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.26:697][371]LogWorld: UWorld::CleanupWorld for FireLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.26:697][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.26:697][371]LogWorld: UWorld::CleanupWorld for LightningLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.26:697][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.26:697][371]LogWorld: UWorld::CleanupWorld for IceLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.26:697][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.26:736][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.15-00.23.26:741][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.15-00.23.26:743][371]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.04.15-00.23.26:750][371]LogAudio: Display: Audio Device (ID: 20) registered with world 'LoseLevel'.
+[2024.04.15-00.23.26:750][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.15-00.23.26:750][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.15-00.23.26:751][371]LogAIModule: Creating AISystem for world LoseLevel
+[2024.04.15-00.23.26:751][371]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2024.04.15-00.23.26:751][371]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.04.15-00.23.26:751][371]LogWorld: Bringing World /Game/Maps/Menus/UEDPIE_0_LoseLevel.LoseLevel up for play (max tick rate 0) at 2024.04.14-20.23.26
+[2024.04.15-00.23.26:751][371]LogWorld: Bringing up level for play took: 0.000443
+[2024.04.15-00.23.26:752][371]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.15-00.23.26:753][371]LogLoad: Took 0.058387 seconds to LoadMap(/Game/Maps/Menus/LoseLevel)
+[2024.04.15-00.23.28:008][463]LogCommonInput: UCommonInputSubsystem::SetCurrentInputType(): Using Mouse
+[2024.04.15-00.23.28:008][463]LogSlate: User[0] UsePlatformCursorForCursorUser(true)
+[2024.04.15-00.23.28:042][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.23.28:042][463]LogWorld: BeginTearingDown for /Game/Maps/Menus/UEDPIE_0_LoseLevel
+[2024.04.15-00.23.28:042][463]LogWorld: UWorld::CleanupWorld for LoseLevel, bSessionEnded=true, bCleanupResources=true
+[2024.04.15-00.23.28:042][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.28:046][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.15-00.23.28:053][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.15-00.23.28:069][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.15-00.23.28:069][463]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.15-00.23.28:071][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.15-00.23.28:073][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.15-00.23.28:079][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.15-00.23.28:255][464]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.04.15-00.23.30:851][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.15-00.23.30:922][592]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FireLevel/4/B5/Z9AXR673N767EZURM4T7CT
+[2024.04.15-00.23.30:922][592]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Z9AXR673N767EZURM4T7CTA51EC5F74777F90B085BB38732C4B543.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/__ExternalActors__/Maps/FireLevel/4/B5/Z9AXR673N767EZURM4T7CT.uasset'
+[2024.04.15-00.23.30:933][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 36.0 sec)
+[2024.04.15-00.23.30:935][592]AssetCheck: New page: Asset Save: PostProcessVolume_0
+[2024.04.15-00.23.30:935][592]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/Maps/FireLevel.FireLevel:PersistentLevel.PostProcessVolume_0
