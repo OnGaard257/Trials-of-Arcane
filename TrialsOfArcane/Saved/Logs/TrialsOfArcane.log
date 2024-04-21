@@ -2599,3 +2599,15 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.21-03.06.11:156][947]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.21-03.06.11:156][947]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
 [2024.04.21-03.06.11:156][947]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/FireBoss.FireBoss_C /Game/Maps/FireLevel.FireLevel:PersistentLevel.FireBoss_C_UAID_047C16DA930044EC01_1315155348
+[2024.04.21-03.07.58:771][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.21-03.07.59:828][296]LogSlate: Window 'Save Content' being destroyed
+[2024.04.21-03.07.59:838][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.21-03.07.59:901][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.21-03.07.59:916][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.21-03.07.59:925][296]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.21-03.07.59:925][296]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel8A6E00CC4B5C2CF086AD4FBBB32E02D7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.21-03.07.59:927][296]LogFileHelpers: All files are already saved.
+[2024.04.21-03.07.59:931][296]LogFileHelpers: Saving map 'FireLevel' took 0.031
+[2024.04.21-03.07.59:942][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.40 sec)
+[2024.04.21-03.07.59:945][296]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.21-03.07.59:945][296]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
