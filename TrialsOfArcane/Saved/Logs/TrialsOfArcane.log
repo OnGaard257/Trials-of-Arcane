@@ -11509,3 +11509,640 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.23-20.01.57:933][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 8.21 sec)
 [2024.04.23-20.01.57:937][ 97]AssetCheck: New page: Asset Save: FireLevel
 [2024.04.23-20.01.57:937][ 97]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.23-20.03.02:465][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.03.02:523][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.23-20.03.02:564][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.23-20.03.02:589][920]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.23-20.03.02:589][920]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub7E180D2C47B12845D030249B6DAAA36F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.23-20.03.02:596][920]LogFileHelpers: Saving map 'Hub' took 0.073
+[2024.04.23-20.03.02:604][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 8.35 sec)
+[2024.04.23-20.03.02:606][920]AssetCheck: New page: Asset Save: Hub
+[2024.04.23-20.03.02:606][920]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.23-20.03.10:167][ 94]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.23-20.03.10:167][ 94]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.23-20.03.16:470][281]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Owner\Downloads\hubModels\hubModels\hubModel.fbx)
+[2024.04.23-20.03.16:558][281]LogFbx: Loading FBX Scene from C:\Users\Owner\Downloads\hubModels\hubModels\hubModel.fbx
+[2024.04.23-20.03.16:589][281]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.23-20.03.20:395][281]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.23-20.03.20:612][281]LogFbx: Display: Triangulating static mesh hubWalls
+[2024.04.23-20.03.20:658][281]LogStaticMesh: Display: Building static mesh hubModel_hubWalls...
+[2024.04.23-20.03.20:773][281]LogStaticMesh: Built static mesh [0.11s] /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.03.20:878][281]LogFbx: Display: Triangulating static mesh hubLamps
+[2024.04.23-20.03.21:317][281]LogStaticMesh: Display: Building static mesh hubModel_hubLamps...
+[2024.04.23-20.03.21:541][281]LogStaticMesh: Built static mesh [0.22s] /Game/Models/hubModel_hubLamps.hubModel_hubLamps
+[2024.04.23-20.03.21:632][281]LogFbx: Display: Triangulating static mesh hubFloor
+[2024.04.23-20.03.21:678][281]LogStaticMesh: Display: Building static mesh hubModel_hubFloor...
+[2024.04.23-20.03.21:711][281]LogStaticMesh: Built static mesh [0.03s] /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.03.21:755][281]LogFbx: Display: Triangulating static mesh hubCieling
+[2024.04.23-20.03.21:800][281]LogStaticMesh: Display: Building static mesh hubModel_hubCieling...
+[2024.04.23-20.03.21:838][281]LogStaticMesh: Built static mesh [0.04s] /Game/Models/hubModel_hubCieling.hubModel_hubCieling
+[2024.04.23-20.03.21:878][281]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.23-20.03.22:563][281]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 288 triangles, hubModel_hubWalls
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: Total job queries 18, among them cache hits 0 (0.00%)
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 18 distinct outputs (100.00%)
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: RAM used: 434.58 KiB of 2.40 GiB budget. Usage: 0.02%
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.23-20.03.22:838][282]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.03.23:846][312]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x70 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 25% occupied, 6037 triangles, hubModel_hubLamps
+[2024.04.23-20.03.24:690][360]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x21 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 71% occupied, 473 triangles, hubModel_hubFloor
+[2024.04.23-20.03.26:700][481]LogMeshUtilities: Finished distance field build in 4.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 288 triangles, hubModel_hubWalls
+[2024.04.23-20.03.27:066][504]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 522 triangles, hubModel_hubCieling
+[2024.04.23-20.03.28:565][601]LogSlate: Window 'Message Log' being destroyed
+[2024.04.23-20.03.28:583][601]LogSlate: Window 'Message Log' being destroyed
+[2024.04.23-20.03.37:884][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.03.37:900][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.03.37:901][192]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_2
+[2024.04.23-20.03.43:660][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.03.43:660][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.03.43:661][589]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_3
+[2024.04.23-20.04.31:780][858]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.04.31:838][858]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-20.04.31:838][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.23-20.04.32:243][858]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.04.23-20.04.33:383][858]LogViewport: Scene viewport resized to 1065x633, mode Windowed.
+[2024.04.23-20.04.43:905][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.04.43:995][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubModel_hubFloor" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloor.uasset" SILENT=true
+[2024.04.23-20.04.44:014][331]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloor
+[2024.04.23-20.04.44:014][331]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloor80966BBA41A86BD979F928AE6C4A48A1.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloor.uasset'
+[2024.04.23-20.04.44:024][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 8.47 sec)
+[2024.04.23-20.04.44:025][331]AssetCheck: New page: Asset Save: hubModel_hubFloor
+[2024.04.23-20.04.44:025][331]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/hubModel_hubFloor.hubModel_hubFloor
+[2024.04.23-20.04.51:135][814]Cmd: EDIT CUT
+[2024.04.23-20.04.51:142][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.23-20.04.51:161][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.23-20.04.51:165][814]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.04.23-20.04.52:961][937]Cmd: DELETE
+[2024.04.23-20.04.52:961][937]Cmd: ACTOR DELETE
+[2024.04.23-20.04.52:965][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.23-20.04.52:983][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.23-20.04.52:987][937]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.04.23-20.04.54:074][ 23]Cmd: EDIT PASTE
+[2024.04.23-20.05.02:866][477]LogInterchangeEngine: [Pending] Importing
+[2024.04.23-20.05.02:866][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl.../hubModels/Hub Floor/hubModel_hubFloorColor_BaseColor.png]
+[2024.04.23-20.05.02:866][477]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.23-20.05.02:866][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl.../hubModels/Hub Floor/hubModel_hubFloorColor_Height.png]
+[2024.04.23-20.05.02:867][477]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.23-20.05.02:867][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl.../hubModels/Hub Floor/hubModel_hubFloorColor_Metallic.png]
+[2024.04.23-20.05.02:868][477]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.23-20.05.02:868][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl.../hubModels/Hub Floor/hubModel_hubFloorColor_Normal.png]
+[2024.04.23-20.05.02:868][477]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.23-20.05.02:869][477]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl.../hubModels/Hub Floor/hubModel_hubFloorColor_Roughness.png]
+[2024.04.23-20.05.02:919][478]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.23-20.05.03:198][478]LogTexture: Display: Building textures: /Game/Models/hubModel_hubFloorColor_Height.hubModel_hubFloorColor_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.05.03:206][478]LogTexture: Display: Building textures: /Game/Models/hubModel_hubFloorColor_Metallic.hubModel_hubFloorColor_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.05.03:218][478]LogTexture: Display: Building textures: /Game/Models/hubModel_hubFloorColor_Roughness.hubModel_hubFloorColor_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.05.03:238][478]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.23-20.05.03:268][478]LogTexture: Display: Building textures: /Game/Models/hubModel_hubFloorColor_Normal.hubModel_hubFloorColor_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.04.23-20.05.03:277][478]LogTexture: Display: Building textures: /Game/Models/hubModel_hubFloorColor_BaseColor.hubModel_hubFloorColor_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.05.03:349][478]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.23-20.05.03:349][478]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.23-20.05.03:349][478]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.23-20.05.03:349][478]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.23-20.05.03:436][478]LogInterchangeEngine: [Success] Import Done
+[2024.04.23-20.05.03:471][479]LogInterchangeEngine: [Success] Import Done
+[2024.04.23-20.05.12:246][801]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.23-20.05.27:862][772]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/hubModel_hubFloorColor_BaseColor_Mat.hubModel_hubFloorColor_BaseColor_Mat
+[2024.04.23-20.05.27:989][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-20.05.27:989][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.23-20.05.28:311][772]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.28:311][772]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.05.28:311][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.28:311][772]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.28:326][772]LogViewport: Scene viewport resized to 284x314, mode Windowed.
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.28:498][774]MaterialEditorStats: Shader Count: 4
+[2024.04.23-20.05.33:172][930]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.33:173][930]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.05.33:173][930]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.33:173][930]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.33:281][932]MaterialEditorStats: Shader Count: 4
+[2024.04.23-20.05.35:496][ 21]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.35:496][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.05.35:496][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.35:496][ 21]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.35:554][ 23]MaterialEditorStats: Shader Count: 9
+[2024.04.23-20.05.38:399][143]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.38:399][143]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.05.38:399][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.38:399][143]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.38:499][145]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.05.38:499][145]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.38:499][145]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.05.38:500][145]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.05.38:500][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.38:500][145]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.40:006][203]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.40:006][203]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.05.40:006][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.40:006][203]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.40:063][205]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.43:061][332]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.43:061][332]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.05.43:061][332]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.43:061][332]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.43:166][334]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.46:059][465]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.46:059][465]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.05.46:059][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.46:059][465]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.46:115][467]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.49:002][585]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.49:002][585]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.05.49:002][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.49:002][585]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.49:108][587]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.23-20.05.49:108][587]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.49:108][587]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.23-20.05.49:109][587]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.05.49:109][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.49:109][587]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.50:655][647]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.05.50:655][647]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.05.50:655][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.50:655][647]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.50:745][649]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.05.51:946][701]LogMaterialEditor: Saving and Compiling material hubModel_hubFloorColor_BaseColor_Mat
+[2024.04.23-20.05.52:103][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.04.23-20.05.52:314][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.23-20.05.52:327][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.05.52:420][701]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_BaseColor_Mat
+[2024.04.23-20.05.52:420][701]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_BaseColorB0DA6E434B9FE83F06F0978807334504.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_BaseColor_Mat.uasset'
+[2024.04.23-20.05.52:430][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.57 sec)
+[2024.04.23-20.05.52:430][701]AssetCheck: New page: Asset Save: hubModel_hubFloorColor_BaseColor_Mat
+[2024.04.23-20.05.52:430][701]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/hubModel_hubFloorColor_BaseColor_Mat.hubModel_hubFloorColor_BaseColor_Mat
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: MaxSampler: 258 instructions
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.05.52:437][701]MaterialEditorStats: Shader Count: 31
+[2024.04.23-20.06.17:255][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.23-20.06.17:267][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.23-20.06.17:267][227]PIE: New page: PIE session: Hub (Apr 23, 2024, 12:06:17 PM)
+[2024.04.23-20.06.17:268][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.23-20.06.17:276][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008062s)
+[2024.04.23-20.06.17:276][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.008106s)
+[2024.04.23-20.06.17:290][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.23-20.06.17:293][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-20.06.17:293][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.23-20.06.17:294][227]LogAIModule: Creating AISystem for world Hub
+[2024.04.23-20.06.17:294][227]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.04.23-20.06.17:294][227]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.23-20.06.17:294][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.23-20.06.17:294][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.23-20.06.17:295][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.23-20.06.17:295][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.23-20.06.17:295][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.23-20.06.17:297][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.23-20.06.17:323][227]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.23-20.06.17:323][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.23-20.06.17:323][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.23-20.06.17:323][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.23-20.06.17:324][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.23-20.06.17:324][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.23-20.06.17:325][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.23-20.06.17:325][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.23-20.06.17:325][227]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.23-20.06.17:325][227]LogAudio: Display: Audio Device (ID: 51) registered with world 'Hub'.
+[2024.04.23-20.06.17:326][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.23-20.06.17:326][227]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.23-20.06.17:326][227]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.23-20.06.17:329][227]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.23-20.06.17:331][227]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.06.17:331][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.06.17:331][227]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.06.17:331][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.06.17:333][227]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.23-20.06.17:334][227]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 971 us (total: 183 ms)
+[2024.04.23-20.06.17:335][227]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 7.51 sec)
+[2024.04.23-20.06.17:338][227]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.06.17:338][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.06.17:338][227]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.06.17:338][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.06.17:339][227]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.23-20.06.17:339][227]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 569 us (total: 184 ms)
+[2024.04.23-20.06.17:340][227]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 7.51 sec)
+[2024.04.23-20.06.17:342][227]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.06.17:342][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.06.17:342][227]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.06.17:342][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.06.17:343][227]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.23-20.06.17:343][227]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 567 us (total: 185 ms)
+[2024.04.23-20.06.17:344][227]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 7.51 sec)
+[2024.04.23-20.06.17:345][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.23-16.06.17
+[2024.04.23-20.06.17:346][227]LogWorld: Bringing up level for play took: 0.001674
+[2024.04.23-20.06.17:347][227]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2024.04.23-20.06.17:353][227]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.23-20.06.17:355][227]LogScript: Warning: Script Msg: The widget 'HEALTH_C_0' was already added to the screen.
+[2024.04.23-20.06.17:355][227]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Hub.Hub:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.04.23-20.06.17:355][227]PIE: Server logged in
+[2024.04.23-20.06.17:356][227]PIE: Play in editor total start time 0.091 seconds.
+[2024.04.23-20.06.20:629][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.23-20.06.20:629][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.23-20.06.20:629][448]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.23-20.06.20:629][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.23-20.06.20:634][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.23-20.06.20:641][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.23-20.06.20:656][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.23-20.06.20:656][448]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.23-20.06.20:656][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.23-20.06.20:657][448]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.23-20.06.20:665][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.23-20.06.20:815][449]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2024.04.23-20.06.20:831][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.23-20.07.13:848][557]LogInterchangeEngine: [Pending] Importing
+[2024.04.23-20.07.13:848][557]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl...s/hubModels/Hub Wall/hubModel_hubWallColor_BaseColor.png]
+[2024.04.23-20.07.13:848][557]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.23-20.07.13:848][557]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl...s/hubModels/Hub Wall/hubModel_hubWallColor_Height.png]
+[2024.04.23-20.07.13:849][557]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.23-20.07.13:849][557]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl...s/hubModels/Hub Wall/hubModel_hubWallColor_Metallic.png]
+[2024.04.23-20.07.13:849][557]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.23-20.07.13:849][557]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl...s/hubModels/Hub Wall/hubModel_hubWallColor_Normal.png]
+[2024.04.23-20.07.13:850][557]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.23-20.07.13:850][557]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Owner/Downl...s/hubModels/Hub Wall/hubModel_hubWallColor_Roughness.png]
+[2024.04.23-20.07.13:875][558]LogTexture: Display: Building textures: /Game/Models/hubModel_hubWallColor_Height.hubModel_hubWallColor_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.07.13:877][558]LogTexture: Display: Building textures: /Game/Models/hubModel_hubWallColor_Metallic.hubModel_hubWallColor_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.07.13:881][558]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.04.23-20.07.14:178][558]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.23-20.07.14:178][558]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.23-20.07.14:180][558]LogTexture: Display: Building textures: /Game/Models/hubModel_hubWallColor_Roughness.hubModel_hubWallColor_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.07.14:210][558]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.04.23-20.07.14:253][558]LogTexture: Display: Building textures: /Game/Models/hubModel_hubWallColor_Normal.hubModel_hubWallColor_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2024.04.23-20.07.14:254][558]LogTexture: Display: Building textures: /Game/Models/hubModel_hubWallColor_BaseColor.hubModel_hubWallColor_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.04.23-20.07.14:314][558]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.23-20.07.14:315][558]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.23-20.07.14:401][558]LogInterchangeEngine: [Success] Import Done
+[2024.04.23-20.07.14:442][559]LogInterchangeEngine: [Success] Import Done
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: Total job queries 308, among them cache hits 204 (66.23%)
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: Tracking 104 distinct input hashes that result in 74 distinct outputs (71.15%)
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: RAM used: 2.26 MiB of 2.40 GiB budget. Usage: 0.09%
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.23-20.07.17:911][633]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.07.40:540][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.07.40:540][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.07.40:541][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_7
+[2024.04.23-20.07.45:095][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.07.45:095][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.07.45:096][189]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls as actor: StaticMeshActor /Game/Maps/Hub.Hub:PersistentLevel.StaticMeshActor_8
+[2024.04.23-20.08.23:483][871]Cmd: EDIT CUT
+[2024.04.23-20.08.23:489][871]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.23-20.08.23:505][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.23-20.08.23:509][871]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.04.23-20.08.28:539][250]Cmd: DELETE
+[2024.04.23-20.08.28:539][250]Cmd: ACTOR DELETE
+[2024.04.23-20.08.28:543][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.23-20.08.28:558][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.23-20.08.28:562][250]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.04.23-20.08.29:698][346]Cmd: EDIT PASTE
+[2024.04.23-20.08.41:714][ 92]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/hubModel_hubWallColor_BaseColor_Mat.hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.08.41:719][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-20.08.41:719][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.23-20.08.41:949][ 92]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.08.41:949][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.08.41:949][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.41:950][ 92]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.08.41:965][ 92]LogViewport: Scene viewport resized to 284x314, mode Windowed.
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.42:042][ 94]MaterialEditorStats: Shader Count: 4
+[2024.04.23-20.08.51:986][512]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.08.51:986][512]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.08.51:986][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.51:986][512]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.52:074][514]MaterialEditorStats: Shader Count: 4
+[2024.04.23-20.08.54:686][625]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.08.54:686][625]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.08.54:686][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.54:686][625]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.54:747][627]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.08.57:215][723]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.08.57:215][723]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.08.57:215][723]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.57:215][723]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.08.57:310][725]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.04.23-20.08.57:311][725]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.08.57:311][725]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.23-20.08.57:311][725]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(1)
+[2024.04.23-20.08.57:311][725]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.08.57:311][725]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.03:344][968]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.09.03:344][968]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.09.03:344][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.03:344][968]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.03:403][970]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.05:280][ 41]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.09.05:280][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.09.05:280][ 41]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.05:280][ 41]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: Texture samplers: 4/16
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(2)
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.05:379][ 43]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.06:966][101]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.09.06:966][101]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.09.06:966][101]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.06:966][101]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.07:022][103]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.13:981][389]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.09.13:981][389]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.09.13:981][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.13:981][389]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: Texture samplers: 5/16
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.14:083][391]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.16:005][461]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.23-20.09.16:005][461]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.09.16:006][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.16:006][461]MaterialEditorStats: Shader Count: 0
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: Texture samplers: 6/16
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.16:087][463]MaterialEditorStats: Shader Count: 11
+[2024.04.23-20.09.17:362][513]LogMaterialEditor: Applying material hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.09.17:516][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.23-20.09.17:711][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.23-20.09.18:549][546]LogMaterialEditor: Saving and Compiling material hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.09.18:552][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.09.18:649][546]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.09.18:649][546]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_BaseColor_0547B670469424B418AF19981D92CE9A.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_BaseColor_Mat.uasset'
+[2024.04.23-20.09.18:659][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.68 sec)
+[2024.04.23-20.09.18:660][546]AssetCheck: New page: Asset Save: hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.09.18:660][546]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/hubModel_hubWallColor_BaseColor_Mat.hubModel_hubWallColor_BaseColor_Mat
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: MaxSampler: 258 instructions
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: Texture samplers: 7/16
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.23-20.09.18:662][546]MaterialEditorStats: Shader Count: 31
+[2024.04.23-20.10.13:466][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.10.13:527][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.23-20.10.13:588][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.23-20.10.13:615][ 48]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.23-20.10.13:615][ 48]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub7A59E4DB487386378C9BA39578623047.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.23-20.10.13:622][ 48]LogFileHelpers: Saving map 'Hub' took 0.096
+[2024.04.23-20.10.13:632][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 8.85 sec)
+[2024.04.23-20.10.13:634][ 48]AssetCheck: New page: Asset Save: Hub
+[2024.04.23-20.10.13:634][ 48]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.23-20.10.16:758][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.23-20.10.17:679][193]LogSlate: Window 'Save Content' being destroyed
+[2024.04.23-20.10.17:691][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.10.17:745][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.23-20.10.17:761][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.23-20.10.17:771][193]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.23-20.10.17:771][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevelEDE85CBE46CC7E75F2B2298BB33EF302.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.23-20.10.17:773][193]LogFileHelpers: All files are already saved.
+[2024.04.23-20.10.17:777][193]LogFileHelpers: Saving map 'FireLevel' took 0.031
+[2024.04.23-20.10.17:852][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubCielingColor" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubCielingColor.uasset" SILENT=true
+[2024.04.23-20.10.17:854][193]LogSavePackage: Moving output files for package: /Game/Models/hubCielingColor
+[2024.04.23-20.10.17:854][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubCielingColor26A8610E4D6874763F2B2AAB899C07B6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubCielingColor.uasset'
+[2024.04.23-20.10.17:876][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubFloorColor" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubFloorColor.uasset" SILENT=true
+[2024.04.23-20.10.17:877][193]LogSavePackage: Moving output files for package: /Game/Models/hubFloorColor
+[2024.04.23-20.10.17:877][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubFloorColorCFEF9D644593FF54D605529CEF86D11F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubFloorColor.uasset'
+[2024.04.23-20.10.17:888][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubModel_hubCieling" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubCieling.uasset" SILENT=true
+[2024.04.23-20.10.17:892][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubCieling
+[2024.04.23-20.10.17:892][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubCielingC9017FD443F9D97629CC899358719D63.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubCieling.uasset'
+[2024.04.23-20.10.17:980][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_BaseColor
+[2024.04.23-20.10.17:980][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_BaseColor965FD2EA4F9F477B767D6EA38BFF8EA8.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_BaseColor.uasset'
+[2024.04.23-20.10.18:057][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_Height
+[2024.04.23-20.10.18:057][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_Height774CEB1D4A6814633E77A1BC48402D75.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_Height.uasset'
+[2024.04.23-20.10.18:074][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_Metallic
+[2024.04.23-20.10.18:074][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_Metallic6222ED8E450DDC539012FBB385455068.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_Metallic.uasset'
+[2024.04.23-20.10.18:125][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_Normal
+[2024.04.23-20.10.18:125][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_Normal6A4F483F45A6B49CC5BDD7BD31BA8C05.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_Normal.uasset'
+[2024.04.23-20.10.18:152][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubFloorColor_Roughness
+[2024.04.23-20.10.18:152][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubFloorColor_RoughnessB87F64FA49DDB43E1E2489A6D5BAE04F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubFloorColor_Roughness.uasset'
+[2024.04.23-20.10.18:162][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubModel_hubLamps" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubLamps.uasset" SILENT=true
+[2024.04.23-20.10.18:174][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubLamps
+[2024.04.23-20.10.18:174][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubLampsFFFFEE0349237AF444DDB5A84A1D2029.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubLamps.uasset'
+[2024.04.23-20.10.18:252][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_BaseColor
+[2024.04.23-20.10.18:252][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_BaseColor8A8CF66945B8BB15CD019DB76AFFADE3.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_BaseColor.uasset'
+[2024.04.23-20.10.18:268][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_Height
+[2024.04.23-20.10.18:268][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_Height7D0625B64746F7BE0CEF64A1196A6C3F.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_Height.uasset'
+[2024.04.23-20.10.18:283][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_Metallic
+[2024.04.23-20.10.18:283][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_MetallicF1C610AB448D40DF752B2EA6A9E68910.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_Metallic.uasset'
+[2024.04.23-20.10.18:334][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_Normal
+[2024.04.23-20.10.18:334][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_Normal31FDD12647A9E89AE5B8D2A4A6D83DF9.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_Normal.uasset'
+[2024.04.23-20.10.18:365][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWallColor_Roughness
+[2024.04.23-20.10.18:365][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWallColor_RoughnessA7C80FFA40D5010D360D2BBFFB5B822D.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWallColor_Roughness.uasset'
+[2024.04.23-20.10.18:375][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubModel_hubWalls" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWalls.uasset" SILENT=true
+[2024.04.23-20.10.18:378][193]LogSavePackage: Moving output files for package: /Game/Models/hubModel_hubWalls
+[2024.04.23-20.10.18:378][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubModel_hubWalls3243C6B3406F4D45851397A62CE739A7.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubModel_hubWalls.uasset'
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: Total job queries 569, among them cache hits 453 (79.61%)
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: Tracking 116 distinct input hashes that result in 82 distinct outputs (70.69%)
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: RAM used: 2.56 MiB of 2.40 GiB budget. Usage: 0.10%
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.23-20.10.18:392][193]LogShaderCompilers: Display: ================================================
+[2024.04.23-20.10.18:401][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/hubWallColor" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubWallColor.uasset" SILENT=true
+[2024.04.23-20.10.18:402][193]LogSavePackage: Moving output files for package: /Game/Models/hubWallColor
+[2024.04.23-20.10.18:402][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/hubWallColorFBCCD2F34E7AD67B727EAAA7B18FAC9D.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/hubWallColor.uasset'
+[2024.04.23-20.10.18:423][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/lampColor" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/lampColor.uasset" SILENT=true
+[2024.04.23-20.10.18:424][193]LogSavePackage: Moving output files for package: /Game/Models/lampColor
+[2024.04.23-20.10.18:424][193]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/lampColor105B0E2C4E058CA9D9186CB1CBFE34DC.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Models/lampColor.uasset'
+[2024.04.23-20.10.18:436][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 744 ms (total: 9.59 sec)
+[2024.04.23-20.10.18:442][193]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/hubCielingColor.hubCielingColor
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/hubFloorColor.hubFloorColor
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/hubModel_hubCieling.hubModel_hubCieling
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubFloorColor_BaseColor.hubModel_hubFloorColor_BaseColor
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubFloorColor_Height.hubModel_hubFloorColor_Height
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubFloorColor_Metallic.hubModel_hubFloorColor_Metallic
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubFloorColor_Normal.hubModel_hubFloorColor_Normal
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubFloorColor_Roughness.hubModel_hubFloorColor_Roughness
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/hubModel_hubLamps.hubModel_hubLamps
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubWallColor_BaseColor.hubModel_hubWallColor_BaseColor
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubWallColor_Height.hubModel_hubWallColor_Height
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubWallColor_Metallic.hubModel_hubWallColor_Metallic
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubWallColor_Normal.hubModel_hubWallColor_Normal
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Models/hubModel_hubWallColor_Roughness.hubModel_hubWallColor_Roughness
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Models/hubModel_hubWalls.hubModel_hubWalls
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/hubWallColor.hubWallColor
+[2024.04.23-20.10.18:442][193]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Models/lampColor.lampColor
+[2024.04.23-20.10.28:559][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.23-20.10.28:559][647]PIE: New page: SIE session: Hub (Apr 23, 2024, 12:10:28 PM)
+[2024.04.23-20.10.28:559][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Hub
+[2024.04.23-20.10.28:567][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007871s)
+[2024.04.23-20.10.28:567][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Hub.Hub to /Game/Maps/UEDPIE_0_Hub.Hub (0.007913s)
+[2024.04.23-20.10.28:584][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.23-20.10.28:587][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.23-20.10.28:587][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.23-20.10.28:587][647]LogAIModule: Creating AISystem for world Hub
+[2024.04.23-20.10.28:587][647]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.04.23-20.10.28:588][647]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.23-20.10.28:588][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.23-20.10.28:588][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.23-20.10.28:588][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.23-20.10.28:588][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.23-20.10.28:588][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.23-20.10.28:590][647]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.23-20.10.28:615][647]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.23-20.10.28:616][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.23-20.10.28:616][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.23-20.10.28:616][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.23-20.10.28:616][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.23-20.10.28:616][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.23-20.10.28:618][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.23-20.10.28:618][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.23-20.10.28:618][647]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.23-20.10.28:618][647]LogAudio: Display: Audio Device (ID: 52) registered with world 'Hub'.
+[2024.04.23-20.10.28:618][647]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.23-20.10.28:618][647]LogUIActionRouter: Display: Found 0 derived classes when attemping to create action router (CommonUIActionRouterBase)
+[2024.04.23-20.10.28:618][647]LogUIActionRouter: Error: Using CommonUI without a CommonGameViewportClient derived game viewport client. CommonUI Input routing will not function correctly.
+To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under [SystemSettings] in your project's DefaultEngine.ini.
+[2024.04.23-20.10.28:621][647]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.23-20.10.28:624][647]LogWorldPartition: ULevel::OnLevelLoaded(LightningLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.10.28:624][647]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.10.28:624][647]LogWorldPartition: UWorldPartition::Initialize : World = LightningLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.10.28:624][647]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.10.28:625][647]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' started...
+[2024.04.23-20.10.28:626][647]LogWorldPartition: Display: GenerateStreaming for 'LightningLevel' took 621 us (total: 185 ms)
+[2024.04.23-20.10.28:627][647]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 7.51 sec)
+[2024.04.23-20.10.28:629][647]LogWorldPartition: ULevel::OnLevelLoaded(IceLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.10.28:629][647]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.10.28:629][647]LogWorldPartition: UWorldPartition::Initialize : World = IceLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=10000.00, Y=-25000.00), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.10.28:629][647]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.10.28:630][647]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' started...
+[2024.04.23-20.10.28:631][647]LogWorldPartition: Display: GenerateStreaming for 'IceLevel' took 907 us (total: 186 ms)
+[2024.04.23-20.10.28:632][647]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 7.52 sec)
+[2024.04.23-20.10.28:635][647]LogWorldPartition: ULevel::OnLevelLoaded(FireLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.23-20.10.28:635][647]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.23-20.10.28:635][647]LogWorldPartition: UWorldPartition::Initialize : World = FireLevel, World Type = PIE, IsMainWorldPartition = 0, Location = V(X=-10000.00, Y=-22000.00), Rotation = R(Y=90.00), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2024.04.23-20.10.28:635][647]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.23-20.10.28:636][647]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' started...
+[2024.04.23-20.10.28:636][647]LogWorldPartition: Display: GenerateStreaming for 'FireLevel' took 612 us (total: 187 ms)
+[2024.04.23-20.10.28:637][647]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 7.52 sec)
+[2024.04.23-20.10.28:638][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Hub.Hub up for play (max tick rate 0) at 2024.04.23-16.10.28
+[2024.04.23-20.10.28:639][647]LogWorld: Bringing up level for play took: 0.001512
+[2024.04.23-20.10.28:641][647]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2024.04.23-20.10.28:645][647]PIE: Server logged in
+[2024.04.23-20.10.28:646][647]PIE: Play in editor total start time 0.088 seconds.
+[2024.04.23-20.11.29:677][ 45]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.04.23-20.11.42:334][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.11.42:335][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.23-20.11.42:377][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.23-20.11.42:379][ 83]LogUIActionRouter: Cleaned out [0] inactive UI action bindings
+[2024.04.23-20.11.42:419][ 83]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.23-20.11.42:419][ 83]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/HubCC340FBE47B1CAD68B73D390869939F6.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.23-20.11.42:427][ 83]LogFileHelpers: Saving map 'Hub' took 0.092
+[2024.04.23-20.11.42:427][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 9.68 sec)
+[2024.04.23-20.11.42:429][ 83]AssetCheck: New page: Asset Save: Hub
+[2024.04.23-20.11.42:429][ 83]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.23-20.11.43:117][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.23-20.11.43:117][113]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Hub
+[2024.04.23-20.11.43:118][113]LogWorld: UWorld::CleanupWorld for Hub, bSessionEnded=true, bCleanupResources=true
+[2024.04.23-20.11.43:118][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.23-20.11.43:123][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.23-20.11.43:131][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.23-20.11.43:144][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.23-20.11.43:144][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.23-20.11.43:145][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.23-20.11.43:146][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.23-20.11.43:156][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.23-20.11.43:204][114]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2024.04.23-20.11.43:224][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.23-20.11.44:191][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.23-20.11.44:978][156]LogSlate: Window 'Save Content' being destroyed
+[2024.04.23-20.11.44:987][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.23-20.11.45:050][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.23-20.11.45:066][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.04.23-20.11.45:074][156]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.23-20.11.45:074][156]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevelA264F0E74AC9A0ED9460D3BB99ED9653.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.23-20.11.45:077][156]LogFileHelpers: All files are already saved.
+[2024.04.23-20.11.45:081][156]LogFileHelpers: Saving map 'FireLevel' took 0.032
+[2024.04.23-20.11.45:090][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 9.79 sec)
+[2024.04.23-20.11.45:093][156]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.23-20.11.45:093][156]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
