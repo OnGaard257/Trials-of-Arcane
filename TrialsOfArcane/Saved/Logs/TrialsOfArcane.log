@@ -3868,3 +3868,24 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.24-04.25.49:607][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.50 sec)
 [2024.04.24-04.25.49:610][ 22]AssetCheck: New page: Asset Save: FireLevel
 [2024.04.24-04.25.49:610][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.24-04.28.51:704][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.28.51:916][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Hub" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-04.28.51:956][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.24-04.28.51:981][722]LogSavePackage: Moving output files for package: /Game/Maps/Hub
+[2024.04.24-04.28.51:981][722]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/Hub5D01D836495B4B01F3D6A3B0CF70B4DC.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/Hub.umap'
+[2024.04.24-04.28.51:988][722]LogFileHelpers: Saving map 'Hub' took 0.072
+[2024.04.24-04.28.51:996][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms (total: 5.80 sec)
+[2024.04.24-04.28.51:998][722]AssetCheck: New page: Asset Save: Hub
+[2024.04.24-04.28.51:998][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Hub.Hub
+[2024.04.24-04.29.00:189][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.24-04.29.01:155][310]LogSlate: Window 'Save Content' being destroyed
+[2024.04.24-04.29.01:165][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.29.01:221][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-04.29.01:237][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.24-04.29.01:244][310]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.24-04.29.01:244][310]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel1C7A45734C1DD89DAB1478B45E13F527.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.24-04.29.01:247][310]LogFileHelpers: All files are already saved.
+[2024.04.24-04.29.01:251][310]LogFileHelpers: Saving map 'FireLevel' took 0.030
+[2024.04.24-04.29.01:258][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.89 sec)
+[2024.04.24-04.29.01:261][310]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.24-04.29.01:261][310]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
