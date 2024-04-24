@@ -3820,3 +3820,51 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2024.04.24-04.24.22:157][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.96 sec)
 [2024.04.24-04.24.22:160][913]AssetCheck: New page: Asset Save: FireLevel
 [2024.04.24-04.24.22:160][913]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.24-04.24.55:264][575]BlueprintLog: New page: Compile FireBoss
+[2024.04.24-04.24.55:316][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.04.24-04.24.56:291][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.24.56:397][608]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.24-04.24.56:397][608]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBossC0BF1655456A46D7C3FFBCA51F835AC9.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.24-04.24.56:406][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 5.07 sec)
+[2024.04.24-04.24.56:408][608]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.24-04.24.56:408][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.24-04.25.04:770][  6]BlueprintLog: New page: Compile FireBoss
+[2024.04.24-04.25.04:822][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.24-04.25.05:581][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.25.05:698][ 32]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.24-04.25.05:699][ 32]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBoss278C45A94D085BACD6D0D7A3119A51B5.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.24-04.25.05:709][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.20 sec)
+[2024.04.24-04.25.05:710][ 32]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.24-04.25.05:711][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.24-04.25.06:929][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.04.24-04.25.08:110][ 87]LogSlate: Window 'Save Content' being destroyed
+[2024.04.24-04.25.08:122][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.25.08:172][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-04.25.08:188][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.24-04.25.08:195][ 87]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.24-04.25.08:195][ 87]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel2229C96F422ED009D71D58A06F133728.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.24-04.25.08:198][ 87]LogFileHelpers: All files are already saved.
+[2024.04.24-04.25.08:202][ 87]LogFileHelpers: Saving map 'FireLevel' took 0.030
+[2024.04.24-04.25.08:210][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.29 sec)
+[2024.04.24-04.25.08:212][ 87]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.24-04.25.08:212][ 87]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
+[2024.04.24-04.25.45:684][912]BlueprintLog: New page: Compile FireBoss
+[2024.04.24-04.25.45:734][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.24-04.25.46:470][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.25.46:580][938]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/FireBoss
+[2024.04.24-04.25.46:580][938]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireBoss797E955C4D0846B4409162B0B882C23D.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/ThirdPerson/Blueprints/FireBoss.uasset'
+[2024.04.24-04.25.46:589][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 5.41 sec)
+[2024.04.24-04.25.46:591][938]AssetCheck: New page: Asset Save: FireBoss
+[2024.04.24-04.25.46:591][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/FireBoss.FireBoss
+[2024.04.24-04.25.48:318][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.24-04.25.49:502][ 22]LogSlate: Window 'Save Content' being destroyed
+[2024.04.24-04.25.49:512][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.24-04.25.49:570][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FireLevel" FILE="../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.24-04.25.49:587][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.04.24-04.25.49:595][ 22]LogSavePackage: Moving output files for package: /Game/Maps/FireLevel
+[2024.04.24-04.25.49:595][ 22]LogSavePackage: Moving '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Saved/FireLevel6300FC96404BC988C1213B87C38BA892.tmp' to '../../../../../../Unreal Engine Projects/Trials-of-Arcane/TrialsOfArcane/Content/Maps/FireLevel.umap'
+[2024.04.24-04.25.49:596][ 22]LogFileHelpers: All files are already saved.
+[2024.04.24-04.25.49:601][ 22]LogFileHelpers: Saving map 'FireLevel' took 0.030
+[2024.04.24-04.25.49:607][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.50 sec)
+[2024.04.24-04.25.49:610][ 22]AssetCheck: New page: Asset Save: FireLevel
+[2024.04.24-04.25.49:610][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/FireLevel.FireLevel
